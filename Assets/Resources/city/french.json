@@ -1,0 +1,270 @@
+﻿{
+  "items": [
+    {
+      "key": "house",
+      "value": "une\nmaison"
+    },
+    {
+      "key": "car",
+      "value": "une\nvoiture"
+    },
+    {
+      "key": "bus",
+      "value": "un\nbus"
+    },
+    {
+      "key": "taxi",
+      "value": "un\ntaxi"
+    },
+    {
+      "key": "shop",
+      "value": "un\nmagasin"
+    },
+    {
+      "key": "parking",
+      "value": "un\nparking"
+    },
+    {
+      "key": "hotel",
+      "value": "un\nhôtel"
+    },
+    {
+      "key": "bicycle",
+      "value": "un\nvélo"
+    },
+    {
+      "key": "billboard",
+      "value": "un panneau\nd'affichage"
+    },
+    {
+      "key": "bank",
+      "value": "une\nbanque"
+    },
+    {
+      "key": "tree",
+      "value": "un\narbre"
+    },
+    {
+      "key": "market",
+      "value": "un\nmarché"
+    },
+    {
+      "key": "bus stop",
+      "value": "un arrêt\nd'autobus"
+    },
+    {
+      "key": "school",
+      "value": "une\nécole"
+    },
+    {
+      "key": "hospital",
+      "value": "un\nhôpital"
+    },
+    {
+      "key": "museum",
+      "value": "un\nmusée"
+    },
+    {
+      "key": "theatre",
+      "value": "un\nthéâtre"
+    },
+    {
+      "key": "pizza shop",
+      "value": "une\npizzeria"
+    },
+    {
+      "key": "road",
+      "value": "une\nrue"
+    },
+    {
+      "key": "apartment building",
+      "value": "un\nimmeuble"
+    },
+    {
+      "key": "police station",
+      "value": "un poste\nde police"
+    },
+    {
+      "key": "fire station",
+      "value": "une caserne\nde pompiers"
+    },
+    {
+      "key": "post office",
+      "value": "une\nposte"
+    },
+    {
+      "key": "cinema",
+      "value": "un\ncinéma"
+    },
+    {
+      "key": "circus",
+      "value": "un\ncirque"
+    },
+    {
+      "key": "club",
+      "value": "un\nclub"
+    },
+    {
+      "key": "public toilet",
+      "value": "des toilettes\npubliques"
+    },
+    {
+      "key": "flower shop",
+      "value": "un magasin\nde fleurs"
+    },
+    {
+      "key": "bush",
+      "value": "un\nbuisson"
+    },
+    {
+      "key": "bridge",
+      "value": "un\npont"
+    },
+    {
+      "key": "ATM",
+      "value": "un guichet\nautomatique"
+    },
+    {
+      "key": "cafe",
+      "value": "un\ncafé"
+    },
+    {
+      "key": "pub",
+      "value": "un\npub"
+    },
+    {
+      "key": "candy shop",
+      "value": "une boutique\nde bonbons"
+    },
+    {
+      "key": "office block",
+      "value": "un complexe\nde bureaux"
+    },
+    {
+      "key": "railway station",
+      "value": "une\ngare"
+    },
+    {
+      "key": "hydrant",
+      "value": "une bouche\nd'incendie"
+    },
+    {
+      "key": "swing",
+      "value": "une\nbalançoire"
+    },
+    {
+      "key": "fountain",
+      "value": "une\nfontaine"
+    },
+    {
+      "key": "car wash",
+      "value": "une station\nde lavage"
+    },
+    {
+      "key": "gas station",
+      "value": "une station\nessence"
+    },
+      {
+      "key": "bakery",
+      "value": "une\nboulangerie"
+    },
+    {
+      "key": "mailbox",
+      "value": "une boîte\naux lettres"
+    },
+    {
+      "key": "mall",
+      "value": "un centre\ncommercial"
+    },
+    {
+      "key": "stadium",
+      "value": "un\nstade"
+    },
+    {
+      "key": "street light",
+      "value": "un\nréverbère"
+    },
+    {
+      "key": "traffic light",
+      "value": "un\nfeu"
+    },
+    {
+      "key": "fence",
+      "value": "une\nclôture"
+    },
+    {
+      "key": "gate",
+      "value": "un\nportail"
+    },
+    {
+      "key": "church",
+      "value": "une\néglise"
+    },
+    {
+      "key": "cemetery",
+      "value": "un\ncimetière"
+    },
+    {
+      "key": "prison",
+      "value": "une\nprison"
+    },
+    {
+      "key": "skyscraper",
+      "value": "un\ngratte-ciel"
+    },
+    {
+      "key": "tram",
+      "value": "un\ntram"
+    },
+    {
+      "key": "pedestrian crossing",
+      "value": "un passage\npiéton"
+    },  
+    {
+      "key": "phone booth",
+      "value": "une cabine\ntéléphonique"
+    },
+    {
+      "key": "pharmacy",
+      "value": "une\npharmacie"
+    },
+    
+    {
+      "key": "power plant",
+      "value": "une centrale\nélectrique"
+    },
+    {
+      "key": "intersection",
+      "value": "une\nintersection"
+    },
+    {
+      "key": "U-turn",
+      "value": "un\ndemi-tour"
+    },
+    {
+      "key": "boutique",
+      "value": "une\nboutique"
+    },
+    {
+      "key": "ferris wheel",
+      "value": "une\ngrande roue"
+    },
+    {
+      "key": "mosque",
+      "value": "une\nmosquée"
+    },
+    {
+      "key": "synagogue",
+      "value": "une\nsynagogue"
+    },
+    {
+      "key": "roundabout",
+      "value": "un\nrond-point"
+    },
+    {
+      "key": "vending machine",
+      "value": "un distributeur\nautomatique"
+    }
+
+  ]
+}

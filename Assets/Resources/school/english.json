@@ -1,0 +1,254 @@
+﻿{
+  "items": [
+    {
+      "key": "art",
+      "value": "art"
+    },
+    {
+      "key": "biology",
+      "value": "biology"
+    },
+    {
+      "key": "blackboard",
+      "value": "blackboard"
+    },
+    {
+      "key": "calculator",
+      "value": "calculator"
+    },
+    {
+      "key": "chair",
+      "value": "chair"
+    },
+    {
+      "key": "chemistry",
+      "value": "chemistry"
+    },
+    {
+      "key": "clock",
+      "value": "clock"
+    },
+    {
+      "key": "computer",
+      "value": "computer"
+    },
+    {
+      "key": "desk",
+      "value": "desk"
+    },
+    {
+      "key": "eraser",
+      "value": "eraser"
+    },
+    {
+      "key": "geography",
+      "value": "geography"
+    },
+    {
+      "key": "glasses",
+      "value": "glasses"
+    },
+    {
+      "key": "glue",
+      "value": "glue"
+    },
+    {
+      "key": "history",
+      "value": "history"
+    },
+    {
+      "key": "IT",
+      "value": "IT"
+    },
+    {
+      "key": "lamp",
+      "value": "lamp"
+    },
+    {
+      "key": "lesson plan",
+      "value": "timetable"
+    },
+    {
+      "key": "lunch",
+      "value": "lunch"
+    },
+    {
+      "key": "math",
+      "value": "math"
+    },
+    {
+      "key": "music",
+      "value": "music"
+    },
+    {
+      "key": "notebook",
+      "value": "notebook"
+    },
+    {
+      "key": "PE",
+      "value": "PE"
+    },
+    {
+      "key": "pen",
+      "value": "pen"
+    },
+    {
+      "key": "pencil",
+      "value": "pencil"
+    },
+    {
+      "key": "pendrive",
+      "value": "pendrive"
+    },
+    {
+      "key": "physics",
+      "value": "physics"
+    },
+    {
+      "key": "ruler",
+      "value": "ruler"
+    },
+    {
+      "key": "school",
+      "value": "school"
+    },
+    {
+      "key": "scissors",
+      "value": "scissors"
+    },
+    {
+      "key": "student",
+      "value": "student"
+    },
+    {
+      "key": "teacher",
+      "value": "teacher"
+    },
+    {
+      "key": "test",
+      "value": "test"
+    },
+    {
+      "key": "book",
+      "value": "book"
+    },
+    {
+      "key": "backpack",
+      "value": "backpack"
+    },
+    {
+      "key": "bell",
+      "value": "bell"
+    },
+    {
+      "key": "globe",
+      "value": "globe"
+    },
+    {
+      "key": "headset",
+      "value": "headset"
+    },
+    {
+      "key": "pencil case",
+      "value": "pencil\ncase"
+    },
+    {
+      "key": "pencil sharpener",
+      "value": "pencil\nsharpener"
+    },
+    {
+      "key": "printer",
+      "value": "printer"
+    },
+    {
+      "key": "school bus",
+      "value": "school\nbus"
+    },
+    {
+      "key": "sports shoe",
+      "value": "sports\nshoe"
+    },
+    {
+      "key": "map",
+      "value": "map"
+    },
+    {
+      "key": "microscope",
+      "value": "microscope"
+    },
+    {
+      "key": "mouse",
+      "value": "mouse"
+    },
+    {
+      "key": "textbook",
+      "value": "textbook"
+    },
+    {
+      "key": "watercolor",
+      "value": "watercolor"
+    },
+    {
+      "key": "folder",
+      "value": "folder"
+    },
+    {
+      "key": "pin",
+      "value": "pin"
+    },
+    {
+      "key": "adhesive tape",
+      "value": "adhesive\ntape"
+    },
+    {
+      "key": "certificate",
+      "value": "certificate"
+    },
+    {
+      "key": "compasses",
+      "value": "compasses"
+    },
+    {
+      "key": "felt-tip pen",
+      "value": "felt-tip \npen"
+    },
+    {
+      "key": "fountain pen",
+      "value": "fountain\npen"
+    },
+    {
+      "key": "highlighter",
+      "value": "highlighter"
+    },
+    {
+      "key": "ID",
+      "value": "ID"
+    },
+    {
+      "key": "keyboard",
+      "value": "keyboard"
+    },
+    {
+      "key": "lockers",
+      "value": "lockers"
+    },
+    {
+      "key": "stapler",
+      "value": "stapler"
+    },
+    {
+      "key": "set square",
+      "value": "set\nsquare"
+    },
+    {
+      "key": "puncher",
+      "value": "punch"
+    },
+    {
+      "key": "essay",
+      "value": "essay"
+    }
+
+
+  ]
+}

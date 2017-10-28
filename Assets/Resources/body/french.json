@@ -1,0 +1,242 @@
+﻿{
+  "items": [
+    {
+      "key": "head",
+      "value": "une\ntête"
+    },
+    {
+      "key": "leg",
+      "value": "une\njambe"
+    },
+    {
+      "key": "heart",
+      "value": "un\ncœur"
+    },
+    {
+      "key": "nose",
+      "value": "un\nnez"
+    },
+    {
+      "key": "hand",
+      "value": "une\nmain"
+    },
+    {
+      "key": "mouth",
+      "value": "une\nbouche"
+    },
+    {
+      "key": "eye",
+      "value": "un\nœil"
+    },
+    {
+      "key": "ear",
+      "value": "une\noreille"
+    },
+    {
+      "key": "hair",
+      "value": "des\ncheveux"
+    },
+    {
+      "key": "foot",
+      "value": "un\npied"
+    },
+    {
+      "key": "finger",
+      "value": "un\ndoigt"
+    },
+    {
+      "key": "tooth",
+      "value": "une\ndent"
+    },
+    {
+      "key": "teeth",
+      "value": "des\ndents"
+    },
+    {
+      "key": "bone",
+      "value": "un\nos"
+    },
+    {
+      "key": "muscle",
+      "value": "un\nmuscle"
+    },
+    {
+      "key": "brain",
+      "value": "un\ncerveau"
+    },
+    {
+      "key": "back",
+      "value": "un\ndos"
+    },
+    {
+      "key": "elbow",
+      "value": "un\ncoude"
+    },
+    {
+      "key": "neck",
+      "value": "un\ncou"
+    },
+    {
+      "key": "eyebrow",
+      "value": "un\nsourcil"
+    },
+    {
+      "key": "tongue",
+      "value": "une\nlangue"
+    },
+    {
+      "key": "eyelashes",
+      "value": "des\ncils"
+    },
+    {
+      "key": "nail",
+      "value": "un\nongle"
+    },
+    {
+      "key": "DNA",
+      "value": "le\nADN"
+    },
+    {
+      "key": "chest",
+      "value": "une\npoitrine"
+    },
+    {
+      "key": "shoulder",
+      "value": "une\népaule"
+    },
+    {
+      "key": "stomach",
+      "value": "un\nestomac"
+    },
+    {
+      "key": "moustache",
+      "value": "une\nmoustache"
+    },
+    {
+      "key": "ankle",
+      "value": "une\ncheville"
+    },
+    {
+      "key": "knee",
+      "value": "un\ngenou"
+    },
+    {
+      "key": "skull",
+      "value": "une\ncrâne"
+    },
+    {
+      "key": "palm",
+      "value": "une\npaume"
+    },
+    {
+      "key": "toe",
+      "value": "un\norteil"
+    },
+    {
+      "key": "cell",
+      "value": "une\ncellule"
+    },
+    {
+      "key": "liver",
+      "value": "un\nfoie"
+    },
+    {
+      "key": "lungs",
+      "value": "des\npoumons"
+    },
+    {
+      "key": "hip",
+      "value": "une\nhanche"
+    },
+    {
+      "key": "ribs",
+      "value": "des\ncôtes"
+    },
+    {
+      "key": "spine",
+      "value": "une colonne\nvertébrale"
+    },
+    {
+      "key": "kidneys",
+      "value": "des\nreins"
+    },
+    {
+      "key": "small intestine",
+      "value": "un intestin\ngrêle"
+    },
+    {
+      "key": "joint",
+      "value": "une\narticulation"
+    },
+    {
+      "key": "buttocks",
+      "value": "des\nfesses"
+    },
+    {
+      "key": "calves",
+      "value": "des\nmollets"
+    },
+    {
+      "key": "chromosomes",
+      "value": "des\nchromosomes"
+    },
+    {
+      "key": "fingerprint",
+      "value": "une\nempreinte"
+    },
+    {
+      "key": "blood vessel",
+      "value": "un vaisseau\nsanguin"
+    },
+    {
+      "key": "spleen",
+      "value": "une\nrate"
+    },
+    {
+      "key": "bladder",
+      "value": "une\nvessie"
+    },
+    {
+      "key": "fertilization",
+      "value": "une\nfertilisation"
+    },
+    {
+      "key": "tonsils",
+      "value": "des\namygdales"
+    },
+    {
+      "key": "neuron",
+      "value": "un\nneurone"
+    },
+    {
+      "key": "fetus",
+      "value": "un\nfœtus"
+    },
+    {
+      "key": "trachea",
+      "value": "une\ntrachée"
+    },
+    {
+      "key": "uterus",
+      "value": "un\nutérus"
+    },
+    {
+      "key": "digestive system",
+      "value": "un appareil\ndigestif"
+    },
+    {
+      "key": "large intestine",
+      "value": "un gros\nintestin"
+    },
+    {
+      "key": "respiratory system",
+      "value": "un appareil\nrespiratoire"
+    },
+    {
+      "key": "vertebra",
+      "value": "une\nvertèbre"
+    }
+
+
+  ]
+}

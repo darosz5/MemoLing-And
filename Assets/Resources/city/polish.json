@@ -1,0 +1,270 @@
+﻿{
+  "items": [
+    {
+      "key": "house",
+      "value": "dom"
+    },
+    {
+      "key": "car",
+      "value": "samochód"
+    },
+    {
+      "key": "bus",
+      "value": "autobus"
+    },
+    {
+      "key": "taxi",
+      "value": "taksówka"
+    },
+    {
+      "key": "shop",
+      "value": "sklep"
+    },
+    {
+      "key": "parking",
+      "value": "parking"
+    },
+    {
+      "key": "hotel",
+      "value": "hotel"
+    },
+    {
+      "key": "bicycle",
+      "value": "rower"
+    },
+    {
+      "key": "billboard",
+      "value": "billboard"
+    },
+    {
+      "key": "bank",
+      "value": "bank"
+    },
+    {
+      "key": "tree",
+      "value": "drzewo"
+    },
+    {
+      "key": "market",
+      "value": "targ"
+    },
+    {
+      "key": "bus stop",
+      "value": "przystanek\nautobusowy"
+    },
+    {
+      "key": "school",
+      "value": "szkoła"
+    },
+    {
+      "key": "hospital",
+      "value": "szpital"
+    },
+    {
+      "key": "museum",
+      "value": "muzeum"
+    },
+    {
+      "key": "theatre",
+      "value": "teatr"
+    },
+    {
+      "key": "pizza shop",
+      "value": "pizzeria"
+    },
+    {
+      "key": "road",
+      "value": "droga"
+    },
+    {
+      "key": "apartment building",
+      "value": "apartamentowiec"
+    },
+    {
+      "key": "police station",
+      "value": "posterunek\npolicji"
+    },
+    {
+      "key": "fire station",
+      "value": "remiza\nstrażacka"
+    },
+    {
+      "key": "post office",
+      "value": "poczta"
+    },
+    {
+      "key": "cinema",
+      "value": "kino"
+    },
+    {
+      "key": "circus",
+      "value": "cyrk"
+    },
+    {
+      "key": "club",
+      "value": "klub"
+    },
+    {
+      "key": "public toilet",
+      "value": "szalet"
+    },
+    {
+      "key": "flower shop",
+      "value": "kwiaciarnia"
+    },
+    {
+      "key": "bush",
+      "value": "krzak"
+    },
+    {
+      "key": "bridge",
+      "value": "most"
+    },
+    {
+      "key": "ATM",
+      "value": "bankomat"
+    },
+    {
+      "key": "cafe",
+      "value": "kawiarnia"
+    },
+    {
+      "key": "pub",
+      "value": "pub"
+    },
+    {
+      "key": "candy shop",
+      "value": "sklep\nze słodyczami"
+    },
+    {
+      "key": "office block",
+      "value": "biurowiec"
+    },
+    {
+      "key": "railway station",
+      "value": "dworzec"
+    },
+    {
+      "key": "hydrant",
+      "value": "hydrant"
+    },
+    {
+      "key": "swing",
+      "value": "huśtawka"
+    },
+    {
+      "key": "fountain",
+      "value": "fontanna"
+    },
+    {
+      "key": "car wash",
+      "value": "myjnia\nsamochodowa"
+    },
+    {
+      "key": "gas station",
+      "value": "stacja\nbenzynowa"
+    },
+      {
+      "key": "bakery",
+      "value": "piekarnia"
+    },
+    {
+      "key": "mailbox",
+      "value": "skrzynka\npocztowa"
+    },
+    {
+      "key": "mall",
+      "value": "centrum\nhandlowe"
+    },
+    {
+      "key": "stadium",
+      "value": "stadion"
+    },
+    {
+      "key": "street light",
+      "value": "latarnia\nuliczna"
+    },
+    {
+      "key": "traffic light",
+      "value": "sygnalizacja\nświetlna"
+    },
+    {
+      "key": "fence",
+      "value": "płot"
+    },
+    {
+      "key": "gate",
+      "value": "brama"
+    },
+    {
+      "key": "church",
+      "value": "kościół"
+    },
+    {
+      "key": "cemetery",
+      "value": "cmentarz"
+    },
+    {
+      "key": "prison",
+      "value": "więzienie"
+    },
+    {
+      "key": "skyscraper",
+      "value": "wierzowiec"
+    },
+    {
+      "key": "tram",
+      "value": "tramwaj"
+    },
+    {
+      "key": "pedestrian crossing",
+      "value": "przejście\ndla pieszych"
+    },  
+    {
+      "key": "phone booth",
+      "value": "budka\ntelefoniczna"
+    },
+    {
+      "key": "pharmacy",
+      "value": "apteka"
+    },
+    
+    {
+      "key": "power plant",
+      "value": "elektrownia"
+    },
+    {
+      "key": "intersection",
+      "value": "skrzyżowanie"
+    },
+    {
+      "key": "U-turn",
+      "value": "zwrot"
+    },
+    {
+      "key": "boutique",
+      "value": "butik"
+    },
+    {
+      "key": "ferris wheel",
+      "value": "diabelski\nmłyn"
+    },
+    {
+      "key": "mosque",
+      "value": "meczet"
+    },
+    {
+      "key": "synagogue",
+      "value": "synagoga"
+    },
+    {
+      "key": "roundabout",
+      "value": "rondo"
+    },
+    {
+      "key": "vending machine",
+      "value": "automat\ndo sprzedaży"
+    }
+
+  ]
+}

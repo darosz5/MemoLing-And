@@ -1,0 +1,270 @@
+﻿{
+  "items": [
+    {
+      "key": "house",
+      "value": "house"
+    },
+    {
+      "key": "car",
+      "value": "car"
+    },
+    {
+      "key": "bus",
+      "value": "bus"
+    },
+    {
+      "key": "taxi",
+      "value": "taxi"
+    },
+    {
+      "key": "shop",
+      "value": "shop"
+    },
+    {
+      "key": "parking",
+      "value": "parking"
+    },
+    {
+      "key": "hotel",
+      "value": "hotel"
+    },
+    {
+      "key": "bicycle",
+      "value": "bicycle"
+    },
+    {
+      "key": "billboard",
+      "value": "billboard"
+    },
+    {
+      "key": "bank",
+      "value": "bank"
+    },
+    {
+      "key": "tree",
+      "value": "tree"
+    },
+    {
+      "key": "market",
+      "value": "market"
+    },
+    {
+      "key": "bus stop",
+      "value": "bus\nstop"
+    },
+    {
+      "key": "school",
+      "value": "school"
+    },
+    {
+      "key": "hospital",
+      "value": "hospital"
+    },
+    {
+      "key": "museum",
+      "value": "museum"
+    },
+    {
+      "key": "theatre",
+      "value": "theatre"
+    },
+    {
+      "key": "pizza shop",
+      "value": "pizza\nshop"
+    },
+    {
+      "key": "road",
+      "value": "road"
+    },
+    {
+      "key": "apartment building",
+      "value": "apartment\nbuilding"
+    },
+    {
+      "key": "police station",
+      "value": "police\nstation"
+    },
+    {
+      "key": "fire station",
+      "value": "fire\nstation"
+    },
+    {
+      "key": "post office",
+      "value": "post\noffice"
+    },
+    {
+      "key": "cinema",
+      "value": "cinema"
+    },
+    {
+      "key": "circus",
+      "value": "circus"
+    },
+    {
+      "key": "club",
+      "value": "club"
+    },
+    {
+      "key": "public toilet",
+      "value": "public\ntoilet"
+    },
+    {
+      "key": "flower shop",
+      "value": "flower\nshop"
+    },
+    {
+      "key": "bush",
+      "value": "bush"
+    },
+    {
+      "key": "bridge",
+      "value": "bridge"
+    },
+    {
+      "key": "ATM",
+      "value": "ATM"
+    },
+    {
+      "key": "cafe",
+      "value": "café"
+    },
+    {
+      "key": "pub",
+      "value": "pub"
+    },
+    {
+      "key": "candy shop",
+      "value": "candy\nshop"
+    },
+    {
+      "key": "office block",
+      "value": "office\nblock"
+    },
+    {
+      "key": "railway station",
+      "value": "railway\nstation"
+    },
+    {
+      "key": "hydrant",
+      "value": "hydrant"
+    },
+    {
+      "key": "swing",
+      "value": "swing"
+    },
+    {
+      "key": "fountain",
+      "value": "fountain"
+    },
+    {
+      "key": "car wash",
+      "value": "car\nwash"
+    },
+    {
+      "key": "gas station",
+      "value": "gas\nstation"
+    },
+      {
+      "key": "bakery",
+      "value": "bakery"
+    },
+    {
+      "key": "mailbox",
+      "value": "mailbox"
+    },
+    {
+      "key": "mall",
+      "value": "shopping\nmall"
+    },
+    {
+      "key": "stadium",
+      "value": "stadium"
+    },
+    {
+      "key": "street light",
+      "value": "street\nlight"
+    },
+    {
+      "key": "traffic light",
+      "value": "traffic\nlight"
+    },
+    {
+      "key": "fence",
+      "value": "fence"
+    },
+    {
+      "key": "gate",
+      "value": "gate"
+    },
+    {
+      "key": "church",
+      "value": "church"
+    },
+    {
+      "key": "cemetery",
+      "value": "cemetery"
+    },
+    {
+      "key": "prison",
+      "value": "prison"
+    },
+    {
+      "key": "skyscraper",
+      "value": "skyscraper"
+    },
+    {
+      "key": "tram",
+      "value": "tram"
+    },
+    {
+      "key": "pedestrian crossing",
+      "value": "pedestrian\ncrossing"
+    },  
+    {
+      "key": "phone booth",
+      "value": "phone booth"
+    },
+    {
+      "key": "pharmacy",
+      "value": "pharmacy"
+    },
+    
+    {
+      "key": "power plant",
+      "value": "power\nplant"
+    },
+    {
+      "key": "intersection",
+      "value": "intersection"
+    },
+    {
+      "key": "U-turn",
+      "value": "U-turn"
+    },
+    {
+      "key": "boutique",
+      "value": "boutique"
+    },
+    {
+      "key": "ferris wheel",
+      "value": "Ferris\nwheel"
+    },
+    {
+      "key": "mosque",
+      "value": "mosque"
+    },
+    {
+      "key": "synagogue",
+      "value": "synagogue"
+    },
+    {
+      "key": "roundabout",
+      "value": "roundabout"
+    },
+    {
+      "key": "vending machine",
+      "value": "vending\nmachine"
+    }
+
+  ]
+}

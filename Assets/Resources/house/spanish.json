@@ -1,0 +1,247 @@
+﻿{
+  "items": [
+    {
+      "key": "bed",
+      "value": "la\ncama"
+    },
+    {
+      "key": "chair",
+      "value": "la\nsilla"
+    },
+    {
+      "key": "table",
+      "value": "la\nmesa"
+    },
+    {
+      "key": "lamp",
+      "value": "la\nlámpara"
+    },
+    {
+      "key": "desk",
+      "value": "el\nescritorio"
+    },
+    {
+      "key": "flower",
+      "value": "la\nflor"
+    },
+    {
+      "key": "phone",
+      "value": "el\nteléfono"
+    },
+    {
+      "key": "window",
+      "value": "la\nventana"
+    },
+    {
+      "key": "wall",
+      "value": "la\npared"
+    },
+    {
+      "key": "microwave",
+      "value": "el\nmicroondas"
+    },
+    {
+      "key": "wardrobe",
+      "value": "el\nropero"
+    },
+    {
+      "key": "TV",
+      "value": "la\nTV"
+    },
+    {
+      "key": "toilet",
+      "value": "el\nindoro"
+    },
+    {
+      "key": "plate",
+      "value": "el\nplato"
+    },
+    {
+      "key": "fork",
+      "value": "el\ntenedor"
+    },
+    {
+      "key": "spoon",
+      "value": "la\ncuchara"
+    },
+    {
+      "key": "mixer",
+      "value": "la\nbatidora"
+    },
+    {
+      "key": "bottle",
+      "value": "la\nbotella"
+    },
+    {
+      "key": "glass",
+      "value": "la\ncopa"
+    },
+    {
+      "key": "mirror",
+      "value": "el\nespejo"
+    },
+    {
+      "key": "carpet",
+      "value": "la\nalfombra"
+    },
+    {
+      "key": "key",
+      "value": "la\nllave"
+    },
+    {
+      "key": "knife",
+      "value": "el\ncuchillo"
+    },
+    {
+      "key": "cup of coffee",
+      "value": "la taza\nde café"
+    },
+    {
+      "key": "hammer",
+      "value": "el\nmartillo"
+    },
+    {
+      "key": "alarm clock",
+      "value": "el reloj\ndespertador"
+    },
+    {
+      "key": "blender",
+      "value": "la\nlicuadora"
+    },
+    {
+      "key": "pot",
+      "value": "la\nolla"
+    },
+    {
+      "key": "shower",
+      "value": "la\nducha"
+    },
+    {
+      "key": "pan",
+      "value": "la\nsartén"
+    },
+    {
+      "key": "sofa",
+      "value": "el\nsofá"
+    },
+    {
+      "key": "coffee maker",
+      "value": "la\ncafetera"
+    },
+    {
+      "key": "garbage bin",
+      "value": "el cubo\nde basura"
+    },
+    {
+      "key": "armchair",
+      "value": "el\nsillón"
+    },
+    {
+      "key": "bowl",
+      "value": "el\nbol"
+    },
+    {
+      "key": "teapot",
+      "value": "la\ntetera"
+    },
+    {
+      "key": "curtain",
+      "value": "la\ncortina"
+    },
+    {
+      "key": "oven",
+      "value": "el\nhorno"
+    },
+    {
+      "key": "fridge",
+      "value": "la\nnevera"
+    },
+    {
+      "key": "fireplace",
+      "value": "la\nchimenea"
+    },
+    {
+      "key": "fan",
+      "value": "el\nventilador"
+    },
+    {
+      "key": "light bulb",
+      "value": "la\nbombilla"
+    },
+    {
+      "key": "coat stand",
+      "value": "el\nperchero"
+    },
+    {
+      "key": "bathtub",
+      "value": "la\nbañera"
+    },
+    {
+      "key": "fence",
+      "value": "la\ncerca"
+    },
+    {
+      "key": "sink",
+      "value": "el\nlavabo"
+    },
+    {
+      "key": "scales",
+      "value": "la\nbalanza"
+    },
+    {
+      "key": "washing machine",
+      "value": "la\nlavadora"
+    },
+    {
+      "key": "espresso maker",
+      "value": "la cafetera\nmoka"
+    },
+    {
+      "key": "hair dryer",
+      "value": "el\nsecador"
+    },
+    {
+      "key": "vaccum cleaner",
+      "value": "la\naspiradora"
+    },
+    {
+      "key": "ladle",
+      "value": "el\ncucharón"
+    },
+    {
+      "key": "spatula",
+      "value": "la\nespátula"
+    },
+    {
+      "key": "stool",
+      "value": "el\ntaburete"
+    },
+    {
+      "key": "nightstand",
+      "value": "la mesilla\nde noche"
+    },
+    {
+      "key": "socket",
+      "value": "el\nenchufe"
+    },
+    {
+      "key": "cutlery",
+      "value": "los\ncubiertos"
+    },
+    {
+      "key": "tap",
+      "value": "el\ngrifo"
+    },
+    {
+      "key": "chest of drawers",
+      "value": "la\ncómoda"
+    },
+    {
+      "key": "mortar",
+      "value": "el\nmortero"
+    }
+
+
+
+  ]
+}

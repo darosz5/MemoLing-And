@@ -1,0 +1,317 @@
+﻿{
+  "items": [
+    {
+      "key": "apple",
+      "value": "une\npomme"
+    },
+      {
+      "key": "pizza",
+      "value": "une\npizza"
+    },
+    {
+      "key": "banana",
+      "value": "une\nbanane"
+    },
+    {
+      "key": "orange",
+      "value": "une\norange"
+    },     
+      {
+      "key": "lemon",
+      "value": "un\ncitron"
+    },
+    {
+      "key": "drink",
+      "value": "une\nboisson"
+    },
+      {
+      "key": "meat",
+      "value": "la\nviande"
+    },
+    {
+      "key": "burger",
+      "value": "un\nburger"
+    },
+     {
+      "key": "fish",
+      "value": "un\npoisson"
+    },
+    {
+      "key": "bread",
+      "value": "un\npain"
+    },
+      {
+      "key": "rice",
+      "value": "le\nriz"
+    },
+    {
+      "key": "carrot",
+      "value": "une\ncarotte"
+    },
+      {
+      "key": "salad",
+      "value": "une\nsalade"
+    },
+    {
+      "key": "salt",
+      "value": "le\nsel"
+    },
+    {
+      "key": "pepper",
+      "value": "le\npoivre"
+    },
+      {
+      "key": "popcorn",
+      "value": "le\npop-corn"
+    },
+    {
+      "key": "bacon",
+      "value": "le\nlard"
+    },
+    {
+      "key": "cheese",
+      "value": "le\nfromage"
+    },
+    {
+      "key": "onion",
+      "value": "un\noignon"
+    },
+      {
+      "key": "sandwich",
+      "value": "un\nsandwich"
+    },
+      {
+      "key": "ketchup",
+      "value": "le\nketchup"
+    },
+    {
+      "key": "chicken leg",
+      "value": "une cuisse\nde poulet"
+    },
+    {
+      "key": "roast chicken",
+      "value": "un poulet\nrôti"
+    },
+      {
+      "key": "soup",
+      "value": "une\nsoupe"
+    },
+      {
+      "key": "noodles",
+      "value": "des\nnouilles"
+    },
+      {
+      "key": "ice cream",
+      "value": "une\nglace"
+    },
+    {
+      "key": "honey",
+      "value": "le\nmiel"
+    },
+      {
+      "key": "yoghurt",
+      "value": "un\nyaourt"
+    },
+      {
+      "key": "pie",
+      "value": "une\ntarte"
+    },
+    {
+      "key": "cake",
+      "value": "un\ngâteau"
+    },
+     {
+      "key": "chocolate",
+      "value": "le\nchocolat"
+    },
+    {
+      "key": "boiled egg",
+      "value": "un œuf\ndur"
+    },
+    {
+      "key": "fried-egg",
+      "value": "un œuf\nau plat "
+    },
+    {
+      "key": "mushroom",
+      "value": "un\nchampignion"
+    },
+      {
+      "key": "olives",
+      "value": "des\nolives"
+    },
+    {
+      "key": "olive oil",
+      "value": "l'huile\nd'olive"
+    },
+    {
+      "key": "tomato",
+      "value": "une\ntomate"
+    },
+    {
+      "key": "candy",
+      "value": "un\nbonbon"
+    },
+      {
+      "key": "jam",
+      "value": "la\nconfiture"
+    },
+    {
+      "key": "broccoli",
+      "value": "un\nbrocoli"
+    },
+    {
+      "key": "lettuce",
+      "value": "une\nlaitue"
+    },
+      {
+      "key": "pasta",
+      "value": "des\npâtes"
+    },
+    {
+      "key": "corn",
+      "value": "un\nmaïs"
+    },
+      {
+      "key": "strawberry",
+      "value": "une\nfraise"
+    },
+    {
+      "key": "cherry",
+      "value": "une\ncerise"
+    },
+    {
+      "key": "grapes",
+      "value": "des\nraisins"
+    },
+    {
+      "key": "peach",
+      "value": "une\npêche"
+    },
+    {
+      "key": "pear",
+      "value": "une\npiore"
+    },
+    {
+      "key": "pineapple",
+      "value": "un\nananas"
+    },
+      {
+      "key": "raspberry",
+      "value": "une\nframboise"
+    },
+     {
+      "key": "french-fries",
+      "value": "des\nfrites"
+    },
+    {
+      "key": "peas",
+      "value": "des\npois"
+    },
+    {
+      "key": "burrito",
+      "value": "un\nburrito"
+    },
+    {
+      "key": "jelly",
+      "value": "une\ngelée"
+    },
+      {
+      "key": "lollipop",
+      "value": "une\nsucette"
+    },
+    {
+      "key": "kiwi",
+      "value": "un\nkiwi"
+    },
+      {
+      "key": "watermelon",
+      "value": "une\npastèque"
+    },
+    {
+      "key": "avocado",
+      "value": "un\navocat"
+    },
+    {
+      "key": "bell pepper",
+      "value": "un\npoivron"
+    },
+      {
+      "key": "pumpkin",
+      "value": "une\ncitrouille"
+    },
+     {
+      "key": "crab",
+      "value": "un\ncrabe"
+    },
+    {
+      "key": "chili pepper",
+      "value": "un\npiment"
+    },
+      {
+      "key": "muffin",
+      "value": "un\nmuffin"
+    },
+     {
+      "key": "donut",
+      "value": "un\nbeignet"
+    },
+    {
+      "key": "cupcake",
+      "value": "un\ncupcake"
+    },
+      {
+      "key": "pretzel",
+      "value": "un\nbretzel"
+    },
+    {
+      "key": "cookie",
+      "value": "un\nbiscuit"
+    },
+     {
+      "key": "croissant",
+      "value": "un\ncroissant"
+    },
+    {
+      "key": "cotton candy",
+      "value": "une barbe\nà papa"
+    },
+    {
+      "key": "soy sauce",
+      "value": "la sauce\nsoja"
+    },
+      {
+      "key": "tuna",
+      "value": "le\nthon"
+    },
+      {
+      "key": "prawn",
+      "value": "une\ncrevette"
+    },
+    {
+      "key": "lobster",
+      "value": "un\nhomard"
+    },
+    {
+      "key": "mussel",
+      "value": "une\nmoule"
+    },
+      {
+      "key": "vinegar",
+      "value": "le\nvinaigre"
+    },
+      {
+      "key": "radish",
+      "value": "un\nradis"
+    },
+    {
+      "key": "artichoke",
+      "value": "un\nartichaut"
+    },
+     {
+      "key": "eggplant",
+      "value": "une\naubergine"
+    }
+
+  ]
+}

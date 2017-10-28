@@ -1,0 +1,232 @@
+﻿{
+  "items": [   
+    {
+      "key": "family",
+      "value": "family"
+    },
+    {
+      "key": "old",
+      "value": "old"
+    },
+    {
+      "key": "to walk",
+      "value": "to\nwalk"
+    },
+    {
+      "key": "to eat",
+      "value": "to\neat"
+    },
+    {
+      "key": "to stand",
+      "value": "to\nstand"
+    },
+    {
+      "key": "to speak",
+      "value": "to\nspeak"
+    },
+    {
+      "key": "to run",
+      "value": "to\nrun"
+    },
+    {
+      "key": "to sit",
+      "value": "to\nsit"
+    },
+    {
+      "key": "to sleep",
+      "value": "to\nsleep"
+    },
+    {
+      "key": "to love",
+      "value": "to\nlove"
+    },
+    {
+      "key": "happy",
+      "value": "happy"
+    },
+    {
+      "key": "sad",
+      "value": "sad"
+    },
+    {
+      "key": "to read",
+      "value": "to\nread"
+    },
+    {
+      "key": "to dance",
+      "value": "to\ndance"
+    },
+    {
+      "key": "to talk",
+      "value": "to\ntalk"
+    },
+    {
+      "key": "to think",
+      "value": "to\nthink"
+    },
+    {
+      "key": "to die",
+      "value": "to\ndie"
+    },
+    {
+      "key": "to drive",
+      "value": "to\ndrive"
+    },
+    {
+      "key": "to watch",
+      "value": "to\nwatch"
+    },
+    {
+      "key": "to cook",
+      "value": "to\ncook"
+    },
+     {
+      "key": "to work",
+      "value": "to\nwork"
+    },
+    {
+      "key": "to kiss",
+      "value": "to\nkiss"
+    },
+    {
+      "key": "to shop",
+      "value": "to\nshop"
+    },
+    {
+      "key": "to go to work",
+      "value": "to go\nto work"
+    },
+    {
+      "key": "to relax",
+      "value": "to\nrelax"
+    },
+    {
+      "key": "to wait",
+      "value": "to\nwait"
+    },
+    {
+      "key": "to travel",
+      "value": "to\ntravel"
+    },
+    {
+      "key": "to listen to music",
+      "value": "to listen\nto music"
+    },
+    {
+      "key": "parent",
+      "value": "parent"
+    },
+      {
+      "key": "couple",
+      "value": "couple"
+    },  
+    {
+      "key": "child",
+      "value": "child"
+    },
+    {
+      "key": "to fight",
+      "value": "to\nfight"
+    },
+    {
+      "key": "to party",
+      "value": "to\nparty"
+    },
+     {
+      "key": "to win",
+      "value": "to\nwin"
+    },
+    {
+      "key": "to text",
+      "value": "to\ntext"
+    },
+    {
+      "key": "friendship",
+      "value": "friendship"
+    },
+    {
+      "key": "to hug",
+      "value": "to\nhug"
+    },
+    {
+      "key": "to talk on the phone",
+      "value": "to talk\non the phone"
+    },
+    {
+      "key": "to take a picture",
+      "value": "to take\na picture"
+    },
+    {
+      "key": "to go upstairs",
+      "value": "to go\nupstairs"
+    },
+    {
+      "key": "to have a birthday",
+      "value": "to have\na birthday"
+    },
+    {
+      "key": "to have a question",
+      "value": "to have\na question"
+    },
+    {
+      "key": "to take a shower",
+      "value": "to take\na shower"
+    },
+    {
+      "key": "ill",
+      "value": "ill"
+    },
+    {
+      "key": "to exercise",
+      "value": "to\nexercise"
+    },
+    {
+      "key": "to scream",
+      "value": "to\nscream"
+    },
+    {
+      "key": "to pray",
+      "value": "to\npray"
+    },   
+    {
+      "key": "to present",
+      "value": "to\npresent"
+    },
+    {
+      "key": "to dress",
+      "value": "to get\ndressed"
+    },
+    {
+      "key": "marriage",
+      "value": "marriage"
+    },
+    {
+      "key": "disabled",
+      "value": "disabled"
+    },
+    {
+      "key": "to repair",
+      "value": "to\nrepair"
+    },
+    {
+      "key": "pregnant",
+      "value": "pregnant"
+    },
+    {
+      "key": "to propose",
+      "value": "to\npropose"
+    },
+    {
+      "key": "to make friends",
+      "value": "to make\nfriends"
+    },
+    {
+      "key": "to earn money",
+      "value": "to earn\nmoney"
+    },
+    {
+      "key": "newborn",
+      "value": "newborn"
+    }
+  ]
+}

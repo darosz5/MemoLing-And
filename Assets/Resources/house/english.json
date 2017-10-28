@@ -1,0 +1,247 @@
+﻿{
+  "items": [
+    {
+      "key": "bed",
+      "value": "bed"
+    },
+    {
+      "key": "chair",
+      "value": "chair"
+    },
+    {
+      "key": "table",
+      "value": "table"
+    },
+    {
+      "key": "lamp",
+      "value": "lamp"
+    },
+    {
+      "key": "desk",
+      "value": "desk"
+    },
+    {
+      "key": "flower",
+      "value": "flower"
+    },
+    {
+      "key": "phone",
+      "value": "phone"
+    },
+    {
+      "key": "window",
+      "value": "window"
+    },
+    {
+      "key": "wall",
+      "value": "wall"
+    },
+    {
+      "key": "microwave",
+      "value": "microwave"
+    },
+    {
+      "key": "wardrobe",
+      "value": "wardrobe"
+    },
+    {
+      "key": "TV",
+      "value": "TV"
+    },
+    {
+      "key": "toilet",
+      "value": "toilet"
+    },
+    {
+      "key": "plate",
+      "value": "plate"
+    },
+    {
+      "key": "fork",
+      "value": "fork"
+    },
+    {
+      "key": "spoon",
+      "value": "spoon"
+    },
+    {
+      "key": "mixer",
+      "value": "mixer"
+    },
+    {
+      "key": "bottle",
+      "value": "bottle"
+    },
+    {
+      "key": "glass",
+      "value": "glass"
+    },
+    {
+      "key": "mirror",
+      "value": "mirror"
+    },
+    {
+      "key": "carpet",
+      "value": "carpet"
+    },
+    {
+      "key": "key",
+      "value": "key"
+    },
+    {
+      "key": "knife",
+      "value": "knife"
+    },
+    {
+      "key": "cup of coffee",
+      "value": "cup\nof coffee"
+    },
+    {
+      "key": "hammer",
+      "value": "hammer"
+    },
+    {
+      "key": "alarm clock",
+      "value": "alarm\nclock"
+    },
+    {
+      "key": "blender",
+      "value": "blender"
+    },
+    {
+      "key": "pot",
+      "value": "pot"
+    },
+    {
+      "key": "shower",
+      "value": "shower"
+    },
+    {
+      "key": "pan",
+      "value": "pan"
+    },
+    {
+      "key": "sofa",
+      "value": "sofa"
+    },
+    {
+      "key": "coffee maker",
+      "value": "coffee\nmaker"
+    },
+    {
+      "key": "garbage bin",
+      "value": "garbage\nbin"
+    },
+    {
+      "key": "armchair",
+      "value": "armchair"
+    },
+    {
+      "key": "bowl",
+      "value": "bowl"
+    },
+    {
+      "key": "teapot",
+      "value": "teapot"
+    },
+    {
+      "key": "curtain",
+      "value": "curtain"
+    },
+    {
+      "key": "oven",
+      "value": "oven"
+    },
+    {
+      "key": "fridge",
+      "value": "fridge"
+    },
+    {
+      "key": "fireplace",
+      "value": "fireplace"
+    },
+    {
+      "key": "fan",
+      "value": "fan"
+    },
+    {
+      "key": "light bulb",
+      "value": "light\nbulb"
+    },
+    {
+      "key": "coat stand",
+      "value": "coat\nstand"
+    },
+    {
+      "key": "bathtub",
+      "value": "bathtub"
+    },
+    {
+      "key": "fence",
+      "value": "fence"
+    },
+    {
+      "key": "sink",
+      "value": "sink"
+    },
+    {
+      "key": "scales",
+      "value": "scales"
+    },
+    {
+      "key": "washing machine",
+      "value": "washing\nmachine"
+    },
+    {
+      "key": "espresso maker",
+      "value": "espresso\nmaker"
+    },
+    {
+      "key": "hair dryer",
+      "value": "hair\ndryer"
+    },
+    {
+      "key": "vaccum cleaner",
+      "value": "vaccum\ncleaner"
+    },
+    {
+      "key": "ladle",
+      "value": "ladel"
+    },
+    {
+      "key": "spatula",
+      "value": "spatula"
+    },
+    {
+      "key": "stool",
+      "value": "stool"
+    },
+    {
+      "key": "nightstand",
+      "value": "nightstand"
+    },
+    {
+      "key": "socket",
+      "value": "socket"
+    },
+    {
+      "key": "cutlery",
+      "value": "cutlery"
+    },
+    {
+      "key": "tap",
+      "value": "tap"
+    },
+    {
+      "key": "chest of drawers",
+      "value": "chest\nof drawers"
+    },
+    {
+      "key": "mortar",
+      "value": "mortar"
+    }
+
+
+
+  ]
+}

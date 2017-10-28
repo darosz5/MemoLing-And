@@ -1,0 +1,252 @@
+﻿{
+  "items": [
+    {
+      "key": "bus",
+      "value": "el\nbus"
+    },
+    {
+      "key": "bicycle",
+      "value": "la\nbicicleta"
+    },
+    {
+      "key": "hotel",
+      "value": "el\nhotel"
+    },
+    {
+      "key": "sun",
+      "value": "el\nsol"
+    },
+    {
+      "key": "map",
+      "value": "el\nmapa"
+    },
+    {
+      "key": "money",
+      "value": "el\ndinero"
+    },
+    {
+      "key": "credit card",
+      "value": "la tarjeta\nde crédito"
+    },
+    {
+      "key": "restaurant",
+      "value": "el\nrestaurante"
+    },
+    {
+      "key": "plane",
+      "value": "el\navión"
+    },
+    {
+      "key": "compass",
+      "value": "la\nbrújula"
+    },  
+     {
+      "key": "train",
+      "value": "el\ntren"
+    },
+    {
+      "key": "laptop",
+      "value": "el\nportátil"
+    },
+    {
+      "key": "grill",
+      "value": "la\nparrilla"
+    },
+    {
+      "key": "beach",
+      "value": "la\nplaya"
+    },
+    {
+      "key": "forest",
+      "value": "el\nbosque"
+    },
+    {
+      "key": "mountain",
+      "value": "la\nmontaña"
+    },
+    {
+      "key": "fishing",
+      "value": "la\npesca"
+    },
+    {
+      "key": "bikini",
+      "value": "el\nbikini"
+    },
+    {
+      "key": "key",
+      "value": "la\nllave"
+    },
+    {
+      "key": "rain",
+      "value": "la\nlluvia"
+    },
+     {
+      "key": "camera",
+      "value": "la\ncámara"
+    },
+    {
+      "key": "picture",
+      "value": "la\nfoto"
+    },
+    {
+      "key": "island",
+      "value": "la\nisla"
+    },
+    {
+      "key": "backpack",
+      "value": "la\nmochila"
+    },
+    {
+      "key": "headphones",
+      "value": "el\naudífono"
+    },
+    {
+      "key": "passport",
+      "value": "el\npasaporte"
+    },
+     {
+      "key": "toothbrush",
+      "value": "el cepillo\nde dientes"
+    },
+     {
+      "key": "ticket",
+      "value": "el\nboleto"
+    },
+    {
+      "key": "jeep",
+      "value": "el\njeep"
+    },
+    {
+      "key": "sunglasses",
+      "value": "las gafas\nde sol"
+    },
+    {
+      "key": "beach ball",
+      "value": "la pelota\nde playa"
+    },
+    {
+      "key": "sunbed",
+      "value": "la silla\nde playa"
+    },
+    {
+      "key": "sun cream",
+      "value": "la crema\nsolar"
+    },
+    {
+      "key": "ship",
+      "value": "el\nbarco"
+    },
+    {
+      "key": "flip-flops",
+      "value": "las\nchancletas"
+    },
+    {
+      "key": "towel",
+      "value": "la\ntoalla"
+    },
+    {
+      "key": "lemonade",
+      "value": "la\nlimonada"
+    },
+    {
+      "key": "directions",
+      "value": "las\nindicaciones"
+    },
+    {
+      "key": "cloudy",
+      "value": "nublado"
+    },
+    {
+      "key": "sunset",
+      "value": "el\natardecer"
+    },
+    {
+      "key": "reception",
+      "value": "la\nrecepción"
+    },
+    {
+      "key": "highway",
+      "value": "la\nautopista"
+    },
+    {
+      "key": "flippers",
+      "value": "las\naletas"
+    },
+    {
+      "key": "postcard",
+      "value": "la\npostal"
+    },
+    {
+      "key": "swimsuit",
+      "value": "el traje\nde baño"
+    },
+    {
+      "key": "surfboard",
+      "value": "la tabla\nde surf"
+    },
+    {
+      "key": "wallet",
+      "value": "la\nbilletera"
+    },
+     {
+      "key": "camcorder",
+      "value": "la\nvideocámara"
+    },
+    {
+      "key": "luggage",
+      "value": "el\nequipaje"
+    },
+     {
+      "key": "trailer",
+      "value": "la\ncaravana"
+    },
+    {
+      "key": "arrival",
+      "value": "la\nllegada"
+    },
+    {
+      "key": "departure",
+      "value": "la\nsalida"
+    },
+    {
+      "key": "life jacket",
+      "value": "el chaleco\nsalvavidas"
+    },
+    {
+      "key": "socket",
+      "value": "el\nenchufe"
+    },
+   {
+      "key": "wristwatch",
+      "value": "el reloj\nde pulsera"
+    },
+    {
+      "key": "jackknife",
+      "value": "la\nnavaja"
+    },
+     {
+      "key": "cityscape",
+      "value": "el paisaje\nurbano"
+    },
+    {
+      "key": "currency exchange",
+      "value": "el cambio\nde divisas"
+    },
+     {
+      "key": "RV",
+      "value": "la\ncasa rodante"
+    },
+    {
+      "key": "souvenir",
+      "value": "el\nrecuerdo"
+    },
+    {
+      "key": "binoculars",
+      "value": "los\nbinoculares"
+    },
+    {
+      "key": "snorkeling",
+      "value": "bucear\ncon esnórquel"
+    }
+  ]
+}

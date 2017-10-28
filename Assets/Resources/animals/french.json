@@ -1,0 +1,335 @@
+﻿{
+  "items": [
+      {
+      "key": "dog",
+      "value": "un\nchien"
+    },
+
+    {
+      "key": "cat",
+      "value": "un\nchat"
+    },
+      {
+      "key": "horse",
+      "value": "un\ncheval"
+    },
+  {
+      "key": "fish",
+      "value": "un\npoisson"
+    },
+    {
+      "key": "cow",
+      "value": "une\nvache"
+    },
+
+    {
+      "key": "bird",
+      "value": "un\noiseau"
+    },
+    {
+      "key": "mouse",
+      "value": "une\nsouris"
+    },
+    {
+      "key": "sheep",
+      "value": "un\nmouton"
+    },
+    {
+      "key": "pig",
+      "value": "un\ncochon"
+    },
+    {
+      "key": "lion",
+      "value": "un\nlion"
+    },
+
+    {
+      "key": "tiger",
+      "value": "un\ntigre"
+    },
+    {
+      "key": "monkey",
+      "value": "un\nsinge"
+    },
+    {
+      "key": "elephant",
+      "value": "un\néléphant"
+    },
+    {
+      "key": "dolphin",
+      "value": "un\ndauphin"
+    },
+
+    {
+      "key": "snake",
+      "value": "un\nserpent"
+    },
+    {
+      "key": "bear",
+      "value": "un\nours"
+    },
+    {
+      "key": "frog",
+      "value": "une\ngrenouille"
+    },
+    {
+      "key": "panda",
+      "value": "un\npanda"
+    },
+    {
+      "key": "chicken",
+      "value": "un\npoulet"
+    },
+    {
+      "key": "bat",
+      "value": "une\nchauve-souris"
+    },
+    {
+      "key": "rabbit",
+      "value": "un\nlapin"
+    },
+
+    {
+      "key": "duck",
+      "value": "un\ncanard"
+    },
+    {
+      "key": "crocodile",
+      "value": "un\ncrocodile"
+    },
+    {
+      "key": "spider",
+      "value": "une\naraignée"
+    },
+    {
+      "key": "bee",
+      "value": "une\nabeille"
+   },
+     {
+      "key": "hamster",
+      "value": "un\nhamster"
+    },
+    {
+      "key": "zebra",
+      "value": "un\nzèbre"
+    },
+    {
+      "key": "butterfly",
+      "value": "un\npapillon"
+    },
+    {
+      "key": "donkey",
+      "value": "un\nâne"
+    },
+    {
+      "key": "wolf",
+      "value": "un\nloup"
+    },
+    {
+      "key": "fox",
+      "value": "un\nrenard"
+    },
+    {
+      "key": "gorilla",
+      "value": "un\ngorille"
+    },
+    {
+      "key": "parrot",
+      "value": "un\nperroquet"
+    },
+
+    {
+      "key": "goat",
+      "value": "une\nchèvre"
+    },
+    {
+      "key": "koala",
+      "value": "un\nkoala"
+    },
+    {
+      "key": "crab",
+      "value": "un\ncrabe"
+    },
+    {
+      "key": "snail",
+      "value": "un\nescargot"
+    },
+    {
+      "key": "scorpion",
+      "value": "un\nscorpion"
+    },
+    {
+      "key": "kangaroo",
+      "value": "un\nkangourou"
+    },
+    {
+      "key": "panther",
+      "value": "une\npanthère"
+    },
+    {
+      "key": "giraffe",
+      "value": "une\ngirafe"
+    },
+    {
+      "key": "turtle",
+      "value": "une\ntortue"
+    },
+    {
+      "key": "penguin",
+      "value": "un\npingouin"
+    },
+    {
+      "key": "deer",
+      "value": "un\nchevreuil"
+    },
+    {
+      "key": "camel",
+      "value": "un\nchameau"
+    },
+    {
+      "key": "hippopotamus",
+      "value": "un\nhippopotame"
+    },
+    {
+      "key": "antelope",
+      "value": "une\nantilope"
+    },
+    {
+      "key": "flamingo",
+      "value": "un\nflamant"
+    },
+
+    {
+      "key": "toad",
+      "value": "un\ncrapaud"
+    },
+    {
+      "key": "owl",
+      "value": "une\nchouette"
+    },
+    {
+      "key": "rhinoceros",
+      "value": "un\nrhinocéros"
+    },
+    {
+      "key": "squirrel",
+      "value": "un\nécureuil"
+    },
+    {
+      "key": "toucan",
+      "value": "un\ntoucan"
+    },
+    {
+      "key": "hyena",
+      "value": "une\nhyène"
+    },
+    {
+      "key": "beetle",
+      "value": "un\nscarabée"
+    },
+    {
+      "key": "hedgehog",
+      "value": "un\nhérisson"
+    },
+
+    {
+      "key": "seal",
+      "value": "un\nphoque"
+    },
+    {
+      "key": "bison",
+      "value": "un\nbison"
+  },
+    {
+      "key": "skunk",
+      "value": "une\nmouffette"
+    },
+    {
+      "key": "kiwi",
+      "value": "un\nkiwi"
+    },
+    {
+      "key": "crow",
+      "value": "une\ncorneille"
+    },
+    {
+      "key": "cheetah",
+      "value": "un\nguépard"
+    },
+    {
+      "key": "lizard",
+      "value": "un\nlézard"
+    },
+    {
+      "key": "moose",
+      "value": "un\nélan"
+    },
+    {
+      "key": "whale",
+      "value": "une\nbaleine"
+    },
+
+    {
+      "key": "mole",
+      "value": "une\ntaupe"
+    },
+    {
+      "key": "ostrich",
+      "value": "une\nautruche"
+    },
+    {
+      "key": "jellyfish",
+      "value": "une\nméduse"
+    },
+    {
+      "key": "clam",
+      "value": "une\npalourde"
+    },
+    {
+      "key": "starfish",
+      "value": "une étoile\nde mer"
+    },
+    {
+      "key": "racoon",
+      "value": "un raton\nlaveur"
+    },
+    {
+      "key": "coral",
+      "value": "un\ncorail"
+    },
+    {
+      "key": "badger",
+      "value": "un\nblaireau"
+    },
+    {
+      "key": "weasel",
+      "value": "une\nbelette"
+    },
+    {
+      "key": "wolverine",
+      "value": "un\nglouton"
+    },
+    {
+      "key": "armadillo",
+      "value": "un\ntatou"
+    },
+    {
+      "key": "alpaca",
+      "value": "un\nalpaga"
+    },
+    {
+      "key": "boar",
+      "value": "un\nsanglier"
+    },
+    {
+      "key": "puffer fish",
+      "value": "un\npoisson-globe"
+    },
+    {
+      "key": "walrus",
+      "value": "un\nmorse"
+    }
+
+
+  ]
+}

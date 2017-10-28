@@ -1,0 +1,422 @@
+﻿{
+  "items": [
+      {
+      "key": "_nativeLanguage",
+      "value": "Select your\nnative language."
+    },
+    {
+      "key": "_secondLanguage",
+      "value": "Select the language\nyou want to learn."
+    },
+    {
+      "key": "_spinwheel",
+      "value": "Spinning wheel"
+    },
+    {
+      "key": "_spindailydescr",
+      "value": "Spin it every day\nand win a prize!"
+    },  
+    {
+      "key": "_video",
+      "value": "Video"
+    },
+    {
+      "key": "_free",
+      "value": "Free"
+    },
+    {
+      "key": "_withvideo",
+      "value": "with video"
+    },
+    {
+      "key": "_timetolearn",
+      "value": "Time to learn"
+    },
+    {
+      "key": "_trytoremember",
+      "value": "Remember which word matches which picture"
+    },
+    {
+      "key": "_rememberpicture",
+      "value": "Click on a bubble with a picture\nif you're not sure what it is.\nThe description will appear\non the bottom of the screen."
+    },
+    {
+      "key": "_remembertext",
+      "value": "Click on a bubble with a word\nif you want to hear how it's\npronounced."
+    },
+    {
+      "key": "_shufflewhenready",
+      "value": "Click 'Shuffle' when ready."
+    },
+    {
+      "key": "_timetoplay",
+      "value": "Time to play!"
+    },
+    {
+      "key": "_matchwords",
+      "value": "Turn over one white and one blue bubble\nto see if they match. If they match, they will\nremain uncovered. If they don't, they will\nbe turned back over.\nRemember what was on each bubble and\nwhere it was. The stage is completed when\nall the pictures have been matched with\ntheir descriptions."
+    },
+    {
+      "key": "_playmoves",
+      "value": "You will have either a limited\nnumber of moves..."
+    },
+    {
+      "key": "_playtime",
+      "value": "...or a limited amount of time."
+    },
+    {
+      "key": "_powerups",
+      "value": "Power-ups"
+    },
+     {
+      "key": "_tutorial",
+      "value": "Tutorial"
+    },
+    {
+      "key": "_powwerupstutorial",
+      "value": "Before each game you can get up to three\npower-ups.You can use them before shuffling\nthe bubbles."
+    },
+    {
+      "key": "_timepowerup",
+      "value": "This one gives you additional\nmoves or time."
+    },
+    {
+      "key": "_revealpowerup",
+      "value": "This one reveals one pair\nat the beginning."
+    },
+    {
+      "key": "_sidepowerup",
+      "value": "With this one you can sneek a peek\nat the already suffled pictures."
+    },
+    {
+      "key": "_thatsit",
+      "value": "That's it!"
+    },
+    {
+      "key": "_readytoplay",
+      "value": "You're ready to play now."
+    },
+     {
+      "key": "_full",
+      "value": "Full"
+    },
+    {
+      "key": "_unlockedlevel",
+      "value": "You haven't\nunlocked this\nlevel yet!"
+    },
+     {
+      "key": "_moves",
+      "value": "moves"
+    },
+    {
+      "key": "_seconds",
+      "value": "seconds"
+    },
+     {
+      "key": "_spindeath",
+      "value": "Spin the wheel and\ntest your luck!"
+    },
+    {
+      "key": "_showicons",
+      "value": "Show pictures"
+    },
+    {
+      "key": "_yourhighscore",
+      "value": "Your high score:"
+    },
+    {
+      "key": "_settings",
+      "value": "Settings"
+    },
+    {
+      "key": "_spin",
+      "value": "Spin!"
+    },
+    {
+      "key": "_languageselect",
+      "value": "Select\nlanguage"
+    },
+    {
+      "key": "_save",
+      "value": "Save"
+    },
+    {
+      "key": "_music",
+      "value": "Music"
+    },
+    {
+      "key": "_sound",
+      "value": "Sound"
+    },
+    {
+      "key": "_helpinfo",
+      "value": "If you need help or\nhave any suggestions,\nplease contact\nwordling.acgames@gmail.com"
+    },
+    {
+      "key": "_quit",
+      "value": "Do you really want\nto quit now?"
+    },
+    {
+      "key": "_recievereward",
+      "value": "Claim your\nprize!"
+    },
+    {
+      "key": "_food",
+      "value": "Food"
+    },
+    {
+      "key": "_house",
+      "value": "House"
+    },
+    {
+      "key": "_ecology",
+      "value": "Ecology"
+    },
+    {
+      "key": "_jobs",
+      "value": "Jobs"
+    },
+    {
+      "key": "_travel",
+      "value": "Travel"
+    },
+    {
+      "key": "_sport",
+      "value": "Sport"
+    },
+    {
+      "key": "_city",
+      "value": "City"
+    },
+    {
+      "key": "_clothes",
+      "value": "Clothes"
+    },
+    {
+      "key": "_animals",
+      "value": "Animals"
+    },
+    {
+      "key": "_humanbody",
+      "value": "Human\nBody"
+    },
+    {
+      "key": "_everydaylife",
+      "value": "Everyday\nLife"
+    },
+    {
+      "key": "_countries",
+      "value": "Countries"
+    },
+    {
+      "key": "_categories",
+      "value": "Categories"
+    },
+   
+    {
+      "key": "_level",
+      "value": "Level"
+    },
+     
+    {
+      "key": "_yourscore",
+      "value": "Your score:"
+    },
+    {
+      "key": "_revealpair",
+      "value": "Reveal one pair"
+    },
+    {
+      "key": "_watchandgetbooster",
+      "value": "Watch a video and\nget that power-up!"
+    },
+    {
+      "key": "_moretimemoves",
+      "value": "More time\nor moves"
+    },
+    {
+      "key": "_go",
+      "value": "Go!"
+    }, 
+    {
+      "key": "_shuffle",
+      "value": "Shuffle"
+    },
+    {
+      "key": "_gamepaused",
+      "value": "Game paused..."
+    },
+    {
+      "key": "_resume",
+      "value": "Resume"
+    },
+    {
+      "key": "_quitlevel",
+      "value": "Quit"
+    },
+    {
+      "key": "_nextstage",
+      "value": "Next stage"
+    },
+    {
+      "key": "_youlose",
+      "value": "You lose..."
+    },
+
+    {
+      "key": "_gameover",
+      "value": "Game over"
+    },
+    {
+      "key": "_english",
+      "value": "English"
+    },
+    {
+      "key": "_polish",
+      "value": "Polish"
+    },
+    {
+      "key": "_german",
+      "value": "German"
+    },
+    {
+      "key": "_spanish",
+      "value": "Spanish"
+    },
+    {
+      "key": "_french",
+      "value": "French"
+    },
+    {
+      "key": "_help",
+      "value": "Help"
+    },
+    {
+      "key": "_yes",
+      "value": "Yes"
+    },
+    {
+      "key": "_no",
+      "value": "No"
+    },
+    {
+      "key": "_levels",
+      "value": "Levels"
+    },
+    {
+      "key": "_easy",
+      "value": "Easy"
+    },
+    {
+      "key": "_normal",
+      "value": "Normal"
+    },
+    {
+      "key": "_hard",
+      "value": "Hard"
+    },
+    {
+      "key": "_veryhard",
+      "value": "Very hard"
+    },
+    {
+      "key": "_ups",
+      "value": "???"
+    },
+    {
+      "key": "_finishin",
+      "value": "Finish in "
+    },
+    {
+      "key": "_addlife",
+      "value": "Add 1 life"
+    },
+    {
+      "key": "_addlifedescr",
+      "value": "Watch a video and\nget another life!!"
+    },
+
+    {
+      "key": "_loading",
+      "value": "Loading..."
+    },
+    {
+      "key": "_noconnection",
+      "value": "No connection..."
+    },
+    {
+      "key": "_noconnectiondescr",
+      "value": "You need internet connection\nto get new categories.\nTry to connect your device..."
+    },
+    {
+      "key": "_wait",
+      "value": "Wait"
+    },
+    {
+      "key": "_nextspin",
+      "value": "Your next spin will be\navaliable in:"
+    },
+    {
+      "key": "_complete",
+      "value": "Level complete!"
+    },
+    {
+      "key": "_tutorialdescr",
+      "value": "Do you want to learn how\nto play before we start?"
+    },
+
+    {
+      "key": "_new",
+      "value": "New"
+    },
+      {
+      "key": "_failedad",
+      "value": "We have a problem\nwith your internet connection.\nConnect your device\nand try again."
+    },
+    {
+      "key": "_skippedad",
+      "value": "You might have\nskipped the video.\nWould you like\nto try again?"
+    },
+    {
+      "key": "_shop",
+      "value": "Shop"
+    },
+    {
+      "key": "_welcome",
+      "value": "Welcome to the shop!"
+    },
+    {
+      "key": "_shopsuccess",
+      "value": "Shop success!"
+    },
+    {
+      "key": "_shopfail",
+      "value": "Shop Fail"
+    },
+    {
+      "key": "_shopalreadyhas",
+      "value": "You already have this item.\nYou can play it right now!"
+    },
+    {
+      "key": "_good",
+      "value": "GOOD"
+    },
+    {
+      "key": "_great",
+      "value": "GREAT!"
+    },
+    {
+      "key": "_fantastic",
+      "value": "FANTASTIC!!!"
+    },
+    {
+      "key": "_school",
+      "value": "School"
+    }
+
+
+
+    
+
+  ]
+}

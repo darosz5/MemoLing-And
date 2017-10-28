@@ -1,0 +1,232 @@
+﻿{
+  "items": [    
+    {
+      "key": "family",
+      "value": "une\nfamille"
+    },
+    {
+      "key": "old",
+      "value": "vieux"
+    },
+    {
+      "key": "to walk",
+      "value": "aller"
+    },
+    {
+      "key": "to eat",
+      "value": "manger"
+    },
+    {
+      "key": "to stand",
+      "value": "être\ndebout"
+    },
+    {
+      "key": "to speak",
+      "value": "parler"
+    },
+    {
+      "key": "to run",
+      "value": "courir"
+    },
+    {
+      "key": "to sit",
+      "value": "être\nassis"
+    },
+    {
+      "key": "to sleep",
+      "value": "dormir"
+    },
+    {
+      "key": "to love",
+      "value": "aimer"
+    },
+    {
+      "key": "happy",
+      "value": "heureux"
+    },
+    {
+      "key": "sad",
+      "value": "triste"
+    },
+    {
+      "key": "to read",
+      "value": "lire"
+    },
+    {
+      "key": "to dance",
+      "value": "dancer"
+    },
+    {
+      "key": "to talk",
+      "value": "s'entretenir"
+    },
+    {
+      "key": "to think",
+      "value": "penser"
+    },
+    {
+      "key": "to die",
+      "value": "mourir"
+    },
+    {
+      "key": "to drive",
+      "value": "conduire"
+    },
+    {
+      "key": "to watch",
+      "value": "regarder"
+    },
+    {
+      "key": "to cook",
+      "value": "cuire"
+    },
+     {
+      "key": "to work",
+      "value": "travailler"
+    },
+    {
+      "key": "to kiss",
+      "value": "donner\nun baiser"
+    },
+    {
+      "key": "to shop",
+      "value": "faire\ndes courses"
+    },
+    {
+      "key": "to go to work",
+      "value": "aller\ntravailler"
+    },
+    {
+      "key": "to relax",
+      "value": "se\ndétendre"
+    },
+    {
+      "key": "to wait",
+      "value": "attendre"
+    },
+    {
+      "key": "to travel",
+      "value": "voyager"
+    },
+    {
+      "key": "to listen to music",
+      "value": "écouter\nde la musique"
+    },
+    {
+      "key": "parent",
+      "value": "un\nparent"
+    },
+      {
+      "key": "couple",
+      "value": "un\ncouple"
+    },   
+    {
+      "key": "child",
+      "value": "un\nenfant"
+    },
+    {
+      "key": "to fight",
+      "value": "se\nbattre"
+    },
+    {
+      "key": "to party",
+      "value": "faire\nla fête"
+    },
+     {
+      "key": "to win",
+      "value": "gagner"
+    },
+    {
+      "key": "to text",
+      "value": "envoyer\nun SMS"
+    },
+    {
+      "key": "friendship",
+      "value": "l'amitié"
+    },
+    {
+      "key": "to hug",
+      "value": "embrasser"
+    },
+    {
+      "key": "to talk on the phone",
+      "value": "téléphoner"
+    },
+    {
+      "key": "to take a picture",
+      "value": "faire\nune photo"
+    },
+    {
+      "key": "to go upstairs",
+      "value": "monter\nl'escalier"
+    },
+    {
+      "key": "to have a birthday",
+      "value": "avoir son\nanniversaire"
+    },
+    {
+      "key": "to have a question",
+      "value": "avoir\nune question"
+    },
+    {
+      "key": "to take a shower",
+      "value": "prendre\nune douche"
+    },
+    {
+      "key": "ill",
+      "value": "malade"
+    },
+    {
+      "key": "to exercise",
+      "value": "exercer"
+    },
+    {
+      "key": "to scream",
+      "value": "hurler"
+    },
+    {
+      "key": "to pray",
+      "value": "prier"
+    },   
+    {
+      "key": "to present",
+      "value": "présenter"
+    },
+    {
+      "key": "to dress",
+      "value": "s'habiller"
+    },
+    {
+      "key": "marriage",
+      "value": "un\nmariage"
+    },
+    {
+      "key": "disabled",
+      "value": "handicapé"
+    },
+    {
+      "key": "to repair",
+      "value": "réparer"
+    },
+    {
+      "key": "pregnant",
+      "value": "enceinte"
+    },
+    {
+      "key": "to propose",
+      "value": "faire une demande\nen mariage"
+    },
+    {
+      "key": "to make friends",
+      "value": "se faire\ndes amis"
+    },
+    {
+      "key": "to earn money",
+      "value": "gagner\nde l'argent"
+    },
+    {
+      "key": "newborn",
+      "value": "un\nnouveau-né"   
+    }
+  ]
+}

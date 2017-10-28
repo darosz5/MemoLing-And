@@ -1,0 +1,312 @@
+﻿{
+  "items": [
+     {
+      "key": "football",
+      "value": "el\nfútbol"
+    },
+    {
+      "key": "basketball",
+      "value": "el\nbaloncesto"
+    },
+    {
+      "key": "tennis",
+      "value": "el\ntenis"
+    },
+     {
+      "key": "volleyball",
+      "value": "el\nvoleibol"
+    },
+    {
+      "key": "american football",
+      "value": "el fútbol\namericano"
+    },
+    {
+      "key": "baseball",
+      "value": "el\nbéisbol"
+    },
+    {
+      "key": "boxing",
+      "value": "el\nboxeo"
+    },
+    {
+      "key": "golf",
+      "value": "el\ngolf"
+    },
+    {
+      "key": "hockey",
+      "value": "el\nhockey"
+    },
+    {
+      "key": "medal",
+      "value": "la\nmedalla"
+    },
+    {
+      "key": "bottle",
+      "value": "la\nbotella"
+    },
+    {
+      "key": "glove",
+      "value": "el\nguante"
+    },
+    {
+      "key": "bag",
+      "value": "la\nbolsa"
+    },
+    {
+      "key": "skiing",
+      "value": "el\nesquí"
+    },
+    {
+      "key": "backpack",
+      "value": "la\nmochila"
+    },
+    {
+      "key": "cycling",
+      "value": "el\nciclismo"
+    },
+    {
+      "key": "helmet",
+      "value": "el\ncasco"
+    },
+    {
+      "key": "cap",
+      "value": "la\ngorra"
+    },
+    {
+      "key": "cup",
+      "value": "la\ncopa"
+    },
+    {
+      "key": "goggles",
+      "value": "las gafas\nde natación"
+    },
+    {
+      "key": "locker",
+      "value": "la\ntaquilla"
+    },
+    {
+      "key": "olympics",
+      "value": "los Juegos\nOlímpicos"
+    },
+    {
+      "key": "skateboarding",
+      "value": "hacer\nskateboard "
+    },
+    {
+      "key": "snowboarding",
+      "value": "el\nsnowboard"
+    },
+    {
+      "key": "fishing",
+      "value": "la\npesca"
+    },
+    {
+      "key": "car racing",
+      "value": "carreras\nde coches"
+    },
+    {
+      "key": "motorcycle racing",
+      "value": "carreras\nde motos"
+    },
+    {
+      "key": "goal",
+      "value": "la\nportería"
+    },
+    {
+      "key": "polo",
+      "value": "polo"
+    },
+    {
+      "key": "bowling",
+      "value": "los\nbolos"
+    },
+    {
+      "key": "pool",
+      "value": "el\nbillar"
+    },
+     {
+      "key": "whistle",
+      "value": "el\nsilbato"
+    },
+    {
+      "key": "chess",
+      "value": "el\najedrez"
+    },
+    {
+      "key": "darts",
+      "value": "los\ndardos"
+    },
+    {
+      "key": "hiking",
+      "value": "el\nsenderismo"
+    },
+    {
+      "key": "ice skating",
+      "value": "el patinaje\nsobre hielo"
+    },
+    {
+      "key": "jersey",
+      "value": "el\njersey"
+    },
+    {
+      "key": "kayak",
+      "value": "el\nkayak"
+    },
+    {
+      "key": "muscle",
+      "value": "el\nmúsculo"
+    },
+    {
+      "key": "surfboard",
+      "value": "la tabla\nde surf"
+    },
+    {
+      "key": "gymnastics",
+      "value": "la\ngimnasia"
+    },
+    {
+      "key": "table tennis",
+      "value": "el tenis\nde mesa"
+    },
+    {
+      "key": "ballet",
+      "value": "el\nballet"
+    },
+    {
+      "key": "golf club",
+      "value": "el palo\nde golf"
+    },
+    {
+      "key": "baseball glove",
+      "value": "el guante\nde béisbol"
+    },
+    {
+      "key": "basketball court",
+      "value": "la cancha\nde baloncesto"
+    },
+    {
+      "key": "football field",
+      "value": "la cancha\nde fútbol"
+    },
+    {
+      "key": "tennis racket",
+      "value": "la raqueta\nde tenis"
+    },
+    {
+      "key": "podium",
+      "value": "el\npodio"
+    },
+    {
+      "key": "polo shirt",
+      "value": "la camiseta\ntipo polo"
+    },
+    {
+      "key": "roller skating",
+      "value": "el\npatinaje"
+    },
+    {
+      "key": "swimming suit",
+      "value": "el traje\nde baño"
+    },
+    {
+      "key": "bow",
+      "value": "el\narco"
+    },
+     {
+      "key": "sailing",
+      "value": "la\nvela"
+    },
+     {
+      "key": "stopwatch",
+      "value": "el\ncronómetro"
+    },
+    {
+      "key": "bowling pin",
+      "value": "el\nbolo"
+    },
+    {
+      "key": "curling",
+      "value": "el\ncurling"
+    },
+    {
+      "key": "pads",
+      "value": "el\nprotector"
+    },
+    {
+      "key": "parachuting",
+      "value": "el\nparacaidismo"
+    },
+    {
+      "key": "puck",
+      "value": "el\ndisco"
+    },
+    {
+      "key": "punching bag",
+      "value": "el saco\nde boxeo"
+    },
+    {
+      "key": "scoreboard",
+      "value": "el\nmarcador"
+    },
+    {
+      "key": "referee",
+      "value": "el\nárbitro"
+    },    
+     {
+      "key": "stationary bike",
+      "value": "la bicicleta\nestática"
+    },
+    {
+      "key": "archery",
+      "value": "el tiro\ncon arco"
+    },
+    {
+      "key": "cricket",
+      "value": "el\ncríquet"
+    },
+    {
+      "key": "hammer throwing",
+      "value": "el lanzamiento\nde martillo"
+    },
+    {
+      "key": "biathlon",
+      "value": "el\nbiatlón"
+    },
+    {
+      "key": "bobsleigh",
+      "value": "el\nbobsleigh"
+    },
+    {
+      "key": "mouthpiece",
+      "value": "el protector\nbucal"
+    },
+    {
+      "key": "olympic torch",
+      "value": "la antorcha\nolímpica"
+    },
+     {
+      "key": "treadmill",
+      "value": "la cinta\nde correr"
+    },
+    {
+      "key": "dumbbell",
+      "value": "la\npesa"
+    },
+    {
+      "key": "fencing",
+      "value": "la\nesgrima"
+    },
+    {
+      "key": "pommel horse",
+      "value": "el caballo\ncon arcos"
+    },
+    {
+      "key": "cue stick",
+      "value": "el palo\nde billar"
+    },
+    {
+      "key": "foil",
+      "value": "el\nflorete"
+    }
+  ]
+}

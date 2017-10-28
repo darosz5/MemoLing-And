@@ -1,0 +1,232 @@
+﻿{
+  "items": [    
+    {
+      "key": "family",
+      "value": "rodzina"
+    },
+    {
+      "key": "old",
+      "value": "stary"
+    },
+    {
+      "key": "to walk",
+      "value": "chodzić"
+    },
+    {
+      "key": "to eat",
+      "value": "jeść"
+    },
+    {
+      "key": "to stand",
+      "value": "stać"
+    },
+    {
+      "key": "to speak",
+      "value": "mówić"
+    },
+    {
+      "key": "to run",
+      "value": "biegać"
+    },
+    {
+      "key": "to sit",
+      "value": "siedzieć"
+    },
+    {
+      "key": "to sleep",
+      "value": "spać"
+    },
+    {
+      "key": "to love",
+      "value": "kochać"
+    },
+    {
+      "key": "happy",
+      "value": "szczęśliwy"
+    },
+    {
+      "key": "sad",
+      "value": "smutny"
+    },
+    {
+      "key": "to read",
+      "value": "czytać"
+    },
+    {
+      "key": "to dance",
+      "value": "tańczyć"
+    },
+    {
+      "key": "to talk",
+      "value": "rozmawiać"
+    },
+    {
+      "key": "to think",
+      "value": "myśleć"
+    },
+    {
+      "key": "to die",
+      "value": "umierać"
+    },
+    {
+      "key": "to drive",
+      "value": "prowadzić"
+    },
+    {
+      "key": "to watch",
+      "value": "patrzeć"
+    },
+    {
+      "key": "to cook",
+      "value": "gotować"
+    },
+     {
+      "key": "to work",
+      "value": "pracować"
+    },
+    {
+      "key": "to kiss",
+      "value": "całować"
+    },
+    {
+      "key": "to shop",
+      "value": "robić\nzakupy"
+    },
+    {
+      "key": "to go to work",
+      "value": "iść\ndo pracy"
+    },
+    {
+      "key": "to relax",
+      "value": "odpoczywać"
+    },
+    {
+      "key": "to wait",
+      "value": "czekać"
+    },
+    {
+      "key": "to travel",
+      "value": "podróżować"
+    },
+    {
+      "key": "to listen to music",
+      "value": "słuchać\nmuzyki"
+    },
+    {
+      "key": "parent",
+      "value": "rodzic"
+    },
+      {
+      "key": "couple",
+      "value": "para"
+    },   
+    {
+      "key": "child",
+      "value": "dziecko"
+    },
+    {
+      "key": "to fight",
+      "value": "walczyć"
+    },
+    {
+      "key": "to party",
+      "value": "imprezować"
+    },
+     {
+      "key": "to win",
+      "value": "wygrywać"
+    },
+    {
+      "key": "to text",
+      "value": "wysłać\nSMS-a"
+    },
+    {
+      "key": "friendship",
+      "value": "przyjaźń"
+    },
+    {
+      "key": "to hug",
+      "value": "tulić"
+    },
+    {
+      "key": "to talk on the phone",
+      "value": "rozmawiać\nprzez telefon"
+    },
+    {
+      "key": "to take a picture",
+      "value": "robić\nzdjęcie"
+    },
+    {
+      "key": "to go upstairs",
+      "value": "wchodzić\npo schodach"
+    },
+    {
+      "key": "to have a birthday",
+      "value": "mieć\nurodziny"
+    },
+    {
+      "key": "to have a question",
+      "value": "mieć pytanie"
+    },
+    {
+      "key": "to take a shower",
+      "value": "brać\nprysznic"
+    },
+    {
+      "key": "ill",
+      "value": "chory"
+    },
+    {
+      "key": "to exercise",
+      "value": "ćwiczyć"
+    },
+    {
+      "key": "to scream",
+      "value": "krzyczeć"
+    },
+    {
+      "key": "to pray",
+      "value": "modlić\nsię"
+    },   
+    {
+      "key": "to present",
+      "value": "przedstawiać"
+    },
+    {
+      "key": "to dress",
+      "value": "ubierać\nsię"
+    },
+    {
+      "key": "marriage",
+      "value": "małżeństwo"
+    },
+    {
+      "key": "disabled",
+      "value": "niepełnosprawny"
+    },
+    {
+      "key": "to repair",
+      "value": "naprawiać"
+    },
+    {
+      "key": "pregnant",
+      "value": "w ciąży"
+    },
+    {
+      "key": "to propose",
+      "value": "oświadczać\nsie"
+    },
+    {
+      "key": "to make friends",
+      "value": "zaprzyjaźnić\nsię"
+    },
+    {
+      "key": "to earn money",
+      "value": "zarabiać\npieniądze"
+    },
+    {
+      "key": "newborn",
+      "value": "noworodek"   
+    }
+  ]
+}

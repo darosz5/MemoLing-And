@@ -1,0 +1,335 @@
+﻿{
+  "items": [
+      {
+      "key": "dog",
+      "value": "el\nperro"
+    },
+
+    {
+      "key": "cat",
+      "value": "el\ngato"
+    },
+      {
+      "key": "horse",
+      "value": "el\ncaballo"
+    },
+  {
+      "key": "fish",
+      "value": "el\npez"
+    },
+    {
+      "key": "cow",
+      "value": "la\nvaca"
+    },
+
+    {
+      "key": "bird",
+      "value": "el\npájaro"
+    },
+    {
+      "key": "mouse",
+      "value": "el\nratón"
+    },
+    {
+      "key": "sheep",
+      "value": "la\noveja"
+    },
+    {
+      "key": "pig",
+      "value": "el\ncerdo"
+    },
+    {
+      "key": "lion",
+      "value": "el\nleón"
+    },
+
+    {
+      "key": "tiger",
+      "value": "el\ntigre"
+    },
+    {
+      "key": "monkey",
+      "value": "el\nmono"
+    },
+    {
+      "key": "elephant",
+      "value": "el\nelefante"
+    },
+    {
+      "key": "dolphin",
+      "value": "el\ndelfín"
+    },
+
+    {
+      "key": "snake",
+      "value": "la\nserpiente"
+    },
+    {
+      "key": "bear",
+      "value": "el\noso"
+    },
+    {
+      "key": "frog",
+      "value": "la\nrana"
+    },
+    {
+      "key": "panda",
+      "value": "el\npanda"
+    },
+    {
+      "key": "chicken",
+      "value": "el\npollo"
+    },
+    {
+      "key": "bat",
+      "value": "el\nmurciélago"
+    },
+    {
+      "key": "rabbit",
+      "value": "el\nconejo"
+    },
+
+    {
+      "key": "duck",
+      "value": "el\npato"
+    },
+    {
+      "key": "crocodile",
+      "value": "el\ncocodrilo"
+    },
+    {
+      "key": "spider",
+      "value": "la\naraña"
+    },
+    {
+      "key": "bee",
+      "value": "la\nabeja"
+   },
+     {
+      "key": "hamster",
+      "value": "el\nhámster"
+    },
+    {
+      "key": "zebra",
+      "value": "la\ncebra"
+    },
+    {
+      "key": "butterfly",
+      "value": "la\nmariposa"
+    },
+    {
+      "key": "donkey",
+      "value": "el\nburro"
+    },
+    {
+      "key": "wolf",
+      "value": "el\nlobo"
+    },
+    {
+      "key": "fox",
+      "value": "el\nzorro"
+    },
+    {
+      "key": "gorilla",
+      "value": "el\ngorila"
+    },
+    {
+      "key": "parrot",
+      "value": "el\nloro"
+    },
+
+    {
+      "key": "goat",
+      "value": "la\ncabra"
+    },
+    {
+      "key": "koala",
+      "value": "el\ncoala"
+    },
+    {
+      "key": "crab",
+      "value": "el\ncangrejo"
+    },
+    {
+      "key": "snail",
+      "value": "el\ncaracol"
+    },
+    {
+      "key": "scorpion",
+      "value": "el\nescorpión"
+    },
+    {
+      "key": "kangaroo",
+      "value": "el\ncanguro"
+    },
+    {
+      "key": "panther",
+      "value": "la\npantera"
+    },
+    {
+      "key": "giraffe",
+      "value": "la\njirafa"
+    },
+    {
+      "key": "turtle",
+      "value": "la\ntortuga"
+    },
+    {
+      "key": "penguin",
+      "value": "el\npingüino"
+    },
+    {
+      "key": "deer",
+      "value": "el\nciervo"
+    },
+    {
+      "key": "camel",
+      "value": "el\ncamello"
+    },
+    {
+      "key": "hippopotamus",
+      "value": "el\nhipopótamo"
+    },
+    {
+      "key": "antelope",
+      "value": "el\nantílope"
+    },
+    {
+      "key": "flamingo",
+      "value": "el\nflamenco"
+    },
+
+    {
+      "key": "toad",
+      "value": "el\nsapo"
+    },
+    {
+      "key": "owl",
+      "value": "el\nbúho"
+    },
+    {
+      "key": "rhinoceros",
+      "value": "el\nrinoceronte"
+    },
+    {
+      "key": "squirrel",
+      "value": "la\nardilla"
+    },
+    {
+      "key": "toucan",
+      "value": "el\ntucán"
+    },
+    {
+      "key": "hyena",
+      "value": "la\nhiena"
+    },
+    {
+      "key": "beetle",
+      "value": "el\nescarabajo"
+    },
+    {
+      "key": "hedgehog",
+      "value": "el\nerizo"
+    },
+
+    {
+      "key": "seal",
+      "value": "la\nfoca"
+    },
+    {
+      "key": "bison",
+      "value": "el\nbisonte"
+  },
+    {
+      "key": "skunk",
+      "value": "la\nmofeta"
+    },
+    {
+      "key": "kiwi",
+      "value": "el\nkiwi"
+    },
+    {
+      "key": "crow",
+      "value": "el\ncuervo"
+    },
+    {
+      "key": "cheetah",
+      "value": "el\nguepardo"
+    },
+    {
+      "key": "lizard",
+      "value": "el\nlagarto"
+    },
+    {
+      "key": "moose",
+      "value": "el\nalce"
+    },
+    {
+      "key": "whale",
+      "value": "la\nballena"
+    },
+
+    {
+      "key": "mole",
+      "value": "el\ntopo"
+    },
+    {
+      "key": "ostrich",
+      "value": "la\navestruz"
+    },
+    {
+      "key": "jellyfish",
+      "value": "la\nmedusa"
+    },
+    {
+      "key": "clam",
+      "value": "la\nalmeja"
+    },
+    {
+      "key": "starfish",
+      "value": "la estrella\nde mar"
+    },
+    {
+      "key": "racoon",
+      "value": "el\nmapache"
+    },
+    {
+      "key": "coral",
+      "value": "el\ncoral"
+    },
+    {
+      "key": "badger",
+      "value": "el\ntejón"
+    },
+    {
+      "key": "weasel",
+      "value": "la\ncomadreja"
+    },
+    {
+      "key": "wolverine",
+      "value": "el\nglotón"
+    },
+    {
+      "key": "armadillo",
+      "value": "el\narmadillo"
+    },
+    {
+      "key": "alpaca",
+      "value": "la\nalpaca"
+    },
+    {
+      "key": "boar",
+      "value": "el\njabalí"
+    },
+    {
+      "key": "puffer fish",
+      "value": "el pez\nglobo"
+    },
+    {
+      "key": "walrus",
+      "value": "la\nmorsa"
+    }
+
+
+  ]
+}

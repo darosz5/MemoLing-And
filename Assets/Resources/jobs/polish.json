@@ -1,0 +1,188 @@
+﻿{
+  "items": [
+     {
+      "key": "policeman",
+      "value": "policjant"
+    },
+    {
+      "key": "doctor",
+      "value": "lekarz"
+    },
+    {
+      "key": "firefighter",
+      "value": "strażak"
+    },   
+        {
+      "key": "teacher",
+      "value": "nauczyciel"
+    },
+    {
+      "key": "chef",
+      "value": "kucharz"
+    },
+    {
+      "key": "pilot",
+      "value": "pilot"
+    },
+    {
+      "key": "manager",
+      "value": "kierownik"
+    },
+    {
+      "key": "mechanic",
+      "value": "mechanik"
+    },
+    {
+      "key": "detective",
+      "value": "detektyw"
+    },
+        {
+      "key": "waiter",
+      "value": "kelner"
+    },
+     {
+      "key": "clown",
+      "value": "klaun"
+    },
+    {
+      "key": "builder",
+      "value": "budowniczy"
+    },
+        {
+      "key": "driver",
+      "value": "kierowca"
+    },
+      {
+      "key": "programmer",
+      "value": "programista"
+    },
+     {
+      "key": "postman",
+      "value": "listonosz"
+    },
+    {
+      "key": "politician",
+      "value": "polityk"
+    },
+      {
+      "key": "soldier",
+      "value": "żołnierz"
+    },
+    {
+      "key": "nurse",
+      "value": "pielęgniarka"
+    },
+    {
+      "key": "farmer",
+      "value": "rolnik"
+    },
+    {
+      "key": "DJ",
+      "value": "DJ"
+    }, 
+      {
+      "key": "singer",
+      "value": "piosenkarz"
+    },
+    {
+      "key": "chemist",
+      "value": "chemik"
+    },
+    {
+      "key": "secretary",
+      "value": "sekretarka"
+    },
+      {
+      "key": "stewardess",
+      "value": "stewardesa"
+    },
+      {
+      "key": "priest",
+      "value": "ksiądz"
+    },
+    {
+      "key": "photographer",
+      "value": "fotograf"
+    },
+        {
+      "key": "writer",
+      "value": "pisarz"
+    },
+    {
+      "key": "painter",
+      "value": "malarz"
+    },
+    {
+      "key": "magician",
+      "value": "iluzjonista"
+    },
+    {
+      "key": "electrician",
+      "value": "elektryk"
+    },
+    {
+      "key": "gardner",
+      "value": "ogrodnik"
+    },
+    {
+      "key": "hairdresser",
+      "value": "fryzjer"
+    },
+    {
+      "key": "fisherman",
+      "value": "rybak"
+    },
+    {
+      "key": "astronaut",
+      "value": "astronauta"
+    },
+    {
+      "key": "athlete",
+      "value": "sportowiec"
+    },
+      {
+      "key": "sailor",
+      "value": "żeglarz"
+    },
+    {
+      "key": "cashier",
+      "value": "kasjer"
+    },
+    {
+      "key": "plumber",
+      "value": "hydraulik"
+    },
+    {
+      "key": "miner",
+      "value": "górnik"
+    },
+    {
+      "key": "diver",
+      "value": "nurek"
+    },
+    {
+      "key": "courier",
+      "value": "kurier"
+    },
+    {
+      "key": "maid",
+      "value": "gosposia"
+    },
+    {
+      "key": "carpenter",
+      "value": "stolarz"
+    },
+    {
+      "key": "lumberjack",
+      "value": "drwal"
+    },
+    {
+      "key": "concierge",
+      "value": "dozorca"
+    },
+    {
+      "key": "lecturer",
+      "value": "wykładowca"
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+﻿{
+  "items": [
+     {
+      "key": "football",
+      "value": "le\nfootball"
+    },
+    {
+      "key": "basketball",
+      "value": "le\nbasketball"
+    },
+    {
+      "key": "tennis",
+      "value": "le\ntennis"
+    },
+     {
+      "key": "volleyball",
+      "value": "le\nvolleyball"
+    },
+    {
+      "key": "american football",
+      "value": "le football\naméricain"
+    },
+    {
+      "key": "baseball",
+      "value": "le\nbaseball"
+    },
+    {
+      "key": "boxing",
+      "value": "la\nboxe"
+    },
+    {
+      "key": "golf",
+      "value": "le\ngolf"
+    },
+    {
+      "key": "hockey",
+      "value": "le\nhockey"
+    },
+    {
+      "key": "medal",
+      "value": "une\nmédaille"
+    },
+    {
+      "key": "bottle",
+      "value": "une\nbouteille"
+    },
+    {
+      "key": "glove",
+      "value": "un\ngant"
+    },
+    {
+      "key": "bag",
+      "value": "un\nsac"
+    },
+    {
+      "key": "skiing",
+      "value": "le\nski"
+    },
+    {
+      "key": "backpack",
+      "value": "un sac\nà dos"
+    },
+    {
+      "key": "cycling",
+      "value": "le\ncyclisme"
+    },
+    {
+      "key": "helmet",
+      "value": "un\ncasque"
+    },
+    {
+      "key": "cap",
+      "value": "une\ncasquette"
+    },
+    {
+      "key": "cup",
+      "value": "une \ncoupe"
+    },
+    {
+      "key": "goggles",
+      "value": "des lunettes\nde natation"
+    },
+    {
+      "key": "locker",
+      "value": "un\ncasier"
+    },
+    {
+      "key": "olympics",
+      "value": "une \nolympiade"
+    },
+    {
+      "key": "skateboarding",
+      "value": "le\nskateboard"
+    },
+    {
+      "key": "snowboarding",
+      "value": "le\nsnowboard"
+    },
+    {
+      "key": "fishing",
+      "value": "la\npêche"
+    },
+    {
+      "key": "car racing",
+      "value": "la compétition\nautomobile"
+    },
+    {
+      "key": "motorcycle racing",
+      "value": "le sport\nmotocycliste"
+    },
+    {
+      "key": "goal",
+      "value": "un\nbut"
+    },
+    {
+      "key": "polo",
+      "value": "le\npolo"
+    },
+    {
+      "key": "bowling",
+      "value": "le\nbowling"
+    },
+    {
+      "key": "pool",
+      "value": "le\nbillard"
+    },
+     {
+      "key": "whistle",
+      "value": "un\nsifflet"
+    },
+    {
+      "key": "chess",
+      "value": "les\néchecs"
+    },
+    {
+      "key": "darts",
+      "value": "les\nfléchettes"
+    },
+    {
+      "key": "hiking",
+      "value": "la\nrandonnée"
+    },
+    {
+      "key": "ice skating",
+      "value": "le patinage\nsur glace"
+    },
+    {
+      "key": "jersey",
+      "value": "un\ntricot"
+    },
+    {
+      "key": "kayak",
+      "value": "un\nkayak"
+    },
+    {
+      "key": "muscle",
+      "value": "un\nmuscle"
+    },
+    {
+      "key": "surfboard",
+      "value": "un planche\nde surf"
+    },
+    {
+      "key": "gymnastics",
+      "value": "la\ngymnastique"
+    },
+    {
+      "key": "table tennis",
+      "value": "le tennis\nde table"
+    },
+    {
+      "key": "ballet",
+      "value": "le\nballet"
+    },
+    {
+      "key": "golf club",
+      "value": "un club\nde golf"
+    },
+    {
+      "key": "baseball glove",
+      "value": "un gant\nde baseball"
+    },
+    {
+      "key": "basketball court",
+      "value": "un terrain\nde basketball"
+    },
+    {
+      "key": "football field",
+      "value": "un terrain\nde football"
+    },
+    {
+      "key": "tennis racket",
+      "value": "une raquette\nde tennis"
+    },
+    {
+      "key": "podium",
+      "value": "un\npodium"
+    },
+    {
+      "key": "polo shirt",
+      "value": "un\npolo"
+    },
+    {
+      "key": "roller skating",
+      "value": "le patin\nà roulettes"
+    },
+    {
+      "key": "swimming suit",
+      "value": "un maillot\nde bain"
+    },
+    {
+      "key": "bow",
+      "value": "un\narc"
+    },
+     {
+      "key": "sailing",
+      "value": "la\nvoile"
+    },
+     {
+      "key": "stopwatch",
+      "value": "un\nchronomètre"
+    },
+    {
+      "key": "bowling pin",
+      "value": "une\nquille"
+    },
+    {
+      "key": "curling",
+      "value": "le\ncurling"
+    },
+    {
+      "key": "pads",
+      "value": "des\nprotections"
+    },
+    {
+      "key": "parachuting",
+      "value": "le\nparachutisme"
+    },
+    {
+      "key": "puck",
+      "value": "un\npalet"
+    },
+    {
+      "key": "punching bag",
+      "value": "un sac\nde frappe"
+    },
+
+    {
+      "key": "scoreboard",
+      "value": "un tableau\nd'affichage"
+    },
+    {
+      "key": "referee",
+      "value": "un\narbitre"
+    },   
+     {
+      "key": "stationary bike",
+      "value": "un vélo\nstationnaire"
+    },
+    {
+      "key": "archery",
+      "value": "le tir\nà l'arc"
+    },
+    {
+      "key": "cricket",
+      "value": "le\ncricket"
+    },
+    {
+      "key": "hammer throwing",
+      "value": "le lancer\ndu marteau"
+    },
+    {
+      "key": "biathlon",
+      "value": "le\nbiathlon"
+    },
+    {
+      "key": "bobsleigh",
+      "value": "le\nbobsleigh"
+    },
+    {
+      "key": "mouthpiece",
+      "value": "un\nprotège-dents"
+    },
+    {
+      "key": "olympic torch",
+      "value": "la torche\nolympique"
+    },
+     {
+      "key": "treadmill",
+      "value": "un tapis\nroulant"
+    },
+    {
+      "key": "dumbbell",
+      "value": "une\nhaltère"
+    },
+    {
+      "key": "fencing",
+      "value": "l'escrime"
+    },
+    {
+      "key": "pommel horse",
+      "value": "un cheval\nd'arçons"
+    },
+    {
+      "key": "cue stick",
+      "value": "une queue \nde billard"
+    },
+    {
+      "key": "foil",
+      "value": "un\nfleuret"
+    }
+  ]
+}

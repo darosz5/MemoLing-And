@@ -1,0 +1,78 @@
+ManifestFileVersion: 0
+CRC: 3275255587
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 687a428cee3f3394177c77baad6089cf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21f0dc8ebad690f009368069428e0a1a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Icons/house/wardrobe.png
+- Assets/Icons/house/shower.png
+- Assets/Icons/house/vaccum cleaner.png
+- Assets/Icons/house/plate.png
+- Assets/Icons/house/hammer.png
+- Assets/Icons/house/scales.png
+- Assets/Icons/house/carpet.png
+- Assets/Icons/house/window.png
+- Assets/Icons/house/fridge.png
+- Assets/Icons/house/stool.png
+- Assets/Icons/house/desk.png
+- Assets/Icons/house/hair dryer.png
+- Assets/Icons/house/key.png
+- Assets/Icons/house/pan.png
+- Assets/Icons/house/nightstand.png
+- Assets/Icons/house/mixer.png
+- Assets/Icons/house/pot.png
+- Assets/Icons/house/blender.png
+- Assets/Icons/house/light bulb.png
+- Assets/Icons/house/garbage bin.png
+- Assets/Icons/house/fence.png
+- Assets/Icons/house/bed.png
+- Assets/Icons/house/glass.png
+- Assets/Icons/house/socket.png
+- Assets/Icons/house/curtain.png
+- Assets/Icons/house/fork.png
+- Assets/Icons/house/ladle.png
+- Assets/Icons/house/microwave.png
+- Assets/Icons/house/spoon.png
+- Assets/Icons/house/table.png
+- Assets/Icons/house/wall.png
+- Assets/Icons/house/teapot.png
+- Assets/Icons/house/flower.png
+- Assets/Icons/house/coat stand.png
+- Assets/Icons/house/cup of coffee.png
+- Assets/Icons/Categories/house.png
+- Assets/Icons/house/fan.png
+- Assets/Icons/house/bottle.png
+- Assets/Icons/house/oven.png
+- Assets/Icons/house/spatula.png
+- Assets/Icons/house/washing machine.png
+- Assets/Icons/house/TV.png
+- Assets/Icons/house/knife.png
+- Assets/Icons/house/armchair.png
+- Assets/Icons/house/phone.png
+- Assets/Icons/house/chair.png
+- Assets/Icons/house/bowl.png
+- Assets/Icons/house/espresso maker.png
+- Assets/Icons/house/mirror.png
+- Assets/Icons/house/fireplace.png
+- Assets/Icons/house/alarm clock.png
+- Assets/Icons/house/cutlery.png
+- Assets/Icons/house/toilet.png
+- Assets/Icons/house/tap.png
+- Assets/Icons/house/mortar.png
+- Assets/Icons/house/chest of drawers.png
+- Assets/Icons/house/coffee maker.png
+- Assets/Icons/house/sink.png
+- Assets/Icons/house/lamp.png
+- Assets/Icons/house/bathtub.png
+- Assets/Icons/house/sofa.png
+Dependencies: []

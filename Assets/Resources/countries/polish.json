@@ -1,0 +1,335 @@
+﻿{
+  "items": [
+    {
+      "key": "united states",
+      "value": "Stany\nZjednoczone"
+    },
+    {
+      "key": "canada",
+      "value": "Kanada"
+    },
+    {
+      "key": "france",
+      "value": "Francja"
+    },
+    {
+      "key": "germany",
+      "value": "Niemcy"
+    },
+    {
+      "key": "united kingdom",
+      "value": "Wielka\nBrytania"
+    },
+    {
+      "key": "italy",
+      "value": "Włochy"
+    },
+    {
+      "key": "brazil",
+      "value": "Brazylia"
+    },
+    {
+      "key": "japan",
+      "value": "Japonia"
+    },
+    {
+      "key": "china",
+      "value": "Chiny"
+    },
+    {
+      "key": "spain",
+      "value": "Hiszpania"
+    },
+    {
+      "key": "russia",
+      "value": "Rosja"
+    },
+    {
+      "key": "england",
+      "value": "Anglia"
+    },
+    {
+      "key": "mexico",
+      "value": "Meksyk"
+    },
+    {
+      "key": "european union",
+      "value": "Unia\nEuropejska"
+    },
+    {
+      "key": "greece",
+      "value": "Grecja"
+    },
+    {
+      "key": "australia",
+      "value": "Australia"
+    },
+    {
+      "key": "austria",
+      "value": "Austria"
+    },
+    {
+      "key": "south korea",
+      "value": "Korea\nPołudniowa"
+    },
+    {
+      "key": "jamaica",
+      "value": "Jamajka"
+    },
+    {
+      "key": "argentina",
+      "value": "Argentyna"
+    },
+    {
+      "key": "israel",
+      "value": "Izrael"
+    },
+    {
+      "key": "sweden",
+      "value": "Szwecja"
+    },
+    {
+      "key": "belgium",
+      "value": "Belgia"
+    },
+    {
+      "key": "ireland",
+      "value": "Irlandia"
+    },
+    {
+      "key": "cuba",
+      "value": "Kuba"
+    },
+    {
+      "key": "netherlands",
+      "value": "Holandia"
+    },
+    {
+      "key": "portugal",
+      "value": "Portugalia"
+    },
+    {
+      "key": "denmark",
+      "value": "Dania"
+    },
+    {
+      "key": "switzerland",
+      "value": "Szwajcaria"
+    },
+    {
+      "key": "colombia",
+      "value": "Kolumbia"
+    },
+    {
+      "key": "venezuela",
+      "value": "Wenezuela"
+    },
+    {
+      "key": "egypt",
+      "value": "Egipt"
+    },
+    {
+      "key": "chile",
+      "value": "Chile"
+    },
+    {
+      "key": "turkey",
+      "value": "Turcja"
+    },
+    {
+      "key": "croatia",
+      "value": "Chorwacja"
+    },
+    {
+      "key": "poland",
+      "value": "Polska"
+    },
+    {
+      "key": "ukraine",
+      "value": "Ukraina"
+    },
+    {
+      "key": "scotland",
+      "value": "Szkocja"
+    },
+    {
+      "key": "south africa",
+      "value": "RPA"
+    },
+    {
+      "key": "hungary",
+      "value": "Węgry"
+    },
+    {
+      "key": "czech republic",
+      "value": "Czechy"
+    },
+    {
+      "key": "finland",
+      "value": "Finlandia"
+    },
+    {
+      "key": "india",
+      "value": "Indie"
+    },
+    {
+      "key": "iraq",
+      "value": "Irak"
+    },
+    {
+      "key": "new zealand",
+      "value": "Nowa\nZelandia"
+    },
+    {
+      "key": "norway",
+      "value": "Norwegia"
+    },
+    {
+      "key": "nigeria",
+      "value": "Nigeria"
+    },
+    {
+      "key": "vietnam",
+      "value": "Wietnam"
+    },
+    {
+      "key": "thailand",
+      "value": "Tajlandia"
+    },
+    {
+      "key": "philippines",
+      "value": "Filipiny"
+    },
+    {
+      "key": "iceland",
+      "value": "Islandia"
+    },
+    {
+      "key": "serbia",
+      "value": "Serbia"
+    },
+    {
+      "key": "bulgaria",
+      "value": "Bułgaria"
+    },
+    {
+      "key": "romania",
+      "value": "Rumunia"
+    },
+    {
+      "key": "slovakia",
+      "value": "Słowacja"
+    },
+    {
+      "key": "wales",
+      "value": "Walia"
+    },
+    {
+      "key": "ecuador",
+      "value": "Ekwador"
+    },
+    {
+      "key": "costa rica",
+      "value": "Kostaryka"
+    },
+    {
+      "key": "indonesia",
+      "value": "Indonezja"
+    },
+    {
+      "key": "malaysia",
+      "value": "Malezja"
+    },
+    {
+      "key": "monaco",
+      "value": "Monako"
+    },
+    {
+      "key": "north korea",
+      "value": "Korea\nPółnocna"
+    },
+    {
+      "key": "iran",
+      "value": "Iran"
+    },
+    {
+      "key": "saudi arabia",
+      "value": "Arabia\nSałdyjska"
+    },
+    {
+      "key": "qatar",
+      "value": "Katar"
+    },
+    {
+      "key": "morocco",
+      "value": "Maroko"
+    },
+    {
+      "key": "kazakhstan",
+      "value": "Kazachstan"
+    },
+    {
+      "key": "uruguay",
+      "value": "Urugwaj"
+    },
+    {
+      "key": "peru",
+      "value": "Peru"
+    },
+    {
+      "key": "kenya",
+      "value": "Kenia"
+    },
+    {
+      "key": "luxembourg",
+      "value": "Luksemburg"
+    },
+    {
+      "key": "montenegro",
+      "value": "Czarnogóra"
+    },
+    {
+      "key": "belarus",
+      "value": "Białoruś"
+    },
+    {
+      "key": "tunisia",
+      "value": "Tunezja"
+    },
+    {
+      "key": "tibet",
+      "value": "Tybet"
+    },
+    {
+      "key": "afghanistan",
+      "value": "Afganistan"
+    },
+    {
+      "key": "pakistan",
+      "value": "Pakistan"
+    },
+    {
+      "key": "united arab emirates",
+      "value": "Zjednoczone\nEmiraty Arabskie"
+    },
+    {
+      "key": "mongolia",
+      "value": "Mongolia"
+    },
+    {
+      "key": "vatican city",
+      "value": "Watykan"
+    },
+    {
+      "key": "syria",
+      "value": "Syria"
+    },
+    {
+      "key": "uganda",
+      "value": "Uganda"
+    }
+
+
+
+  ]
+}

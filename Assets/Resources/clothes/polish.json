@@ -1,0 +1,240 @@
+﻿{
+  "items": [
+    {
+      "key": "hat",
+      "value": "kapelusz"
+    },
+    {
+      "key": "shoe",
+      "value": "but"
+    },
+    {
+      "key": "socks",
+      "value": "skarpetki"
+    },
+    {
+      "key": "shirt",
+      "value": "koszula"
+    },
+    {
+      "key": "T-shirt",
+      "value": "koszulka"
+    },
+    {
+      "key": "dress",
+      "value": "sukienka"
+    },
+    {
+      "key": "glasses",
+      "value": "okulary"
+    },
+    {
+      "key": "jacket",
+      "value": "kurtka"
+    },
+    {
+      "key": "shorts",
+      "value": "krótkie\nspodenki"
+    },
+    {
+      "key": "trousers",
+      "value": "spodnie"
+    },
+    {
+      "key": "jeans",
+      "value": "dżinsy"
+    },
+    {
+      "key": "skirt",
+      "value": "spódnica"
+    },
+    {
+      "key": "umbrella",
+      "value": "parasol"
+    },
+    {
+      "key": "underwear",
+      "value": "bielizna"
+    },
+    {
+      "key": "coat",
+      "value": "płaszcz"
+    },
+    {
+      "key": "suit",
+      "value": "garnitur"
+    },
+    {
+      "key": "backpack",
+      "value": "plecak"
+    },
+    {
+      "key": "cap",
+      "value": "czapka"
+    },
+    {
+      "key": "belt",
+      "value": "pasek"
+    },
+    {
+      "key": "bra",
+      "value": "biustonosz"
+    },
+    {
+      "key": "panties",
+      "value": "majtki"
+    },
+    {
+      "key": "to hand wash",
+      "value": "prać\nręcznie"
+    },
+    {
+      "key": "pyjamas",
+      "value": "piżama"
+    },
+    {
+      "key": "iron",
+      "value": "żelazko"
+    },
+    {
+      "key": "tie",
+      "value": "krawat"
+    },
+    {
+      "key": "gloves",
+      "value": "rękawiczki"
+    },
+    {
+      "key": "scarf",
+      "value": "szalik"
+    },
+    {
+      "key": "handbag",
+      "value": "torebka"
+    },
+    {
+      "key": "purse",
+      "value": "portmonetka"
+    },
+    {
+      "key": "vest",
+      "value": "kamizelka"
+    },
+    {
+      "key": "pocket watch",
+      "value": "zegarek\nkieszonkowy"
+    },
+    {
+      "key": "winter hat",
+      "value": "czapka\nzimowa"
+    },
+    {
+      "key": "wallet",
+      "value": "portfel"
+    },
+    {
+      "key": "suitcase",
+      "value": "walizka"
+    },
+    {
+      "key": "polo shirt",
+      "value": "koszulka\npolo"
+    },
+    {
+      "key": "pullover",
+      "value": "sweter"
+    },
+    {
+      "key": "bow tie",
+      "value": "muszka"
+    },
+    {
+      "key": "swimsuit",
+      "value": "strój\nkąpielowy"
+    },
+    {
+      "key": "high heels",
+      "value": "buty\nna obcasie"
+    },
+    {
+      "key": "briefcase",
+      "value": "teczka"
+    },
+    {
+      "key": "jersey",
+      "value": "koszulka\nsportowa"
+    },
+    {
+      "key": "bathrobe",
+      "value": "szlafrok"
+    },
+    {
+      "key": "slippers",
+      "value": "kapcie"
+    },
+    {
+      "key": "sneakers",
+      "value": "trampki"
+    },
+    {
+      "key": "portfolio",
+      "value": "portfolio"
+    },
+    {
+      "key": "wristwatch",
+      "value": "zegarek\nna ręke"
+    },
+    {
+      "key": "zipper",
+      "value": "zamek\nbłyskawiczny"
+    },
+    {
+      "key": "hoodie",
+      "value": "bluza\nz kapturem"
+    },
+    {
+      "key": "top hat",
+      "value": "cylinder"
+    },
+    {
+      "key": "overall",
+      "value": "ogrodniczki"
+    },
+    {
+      "key": "mittens",
+      "value": "rękawiczki\njednopalczaste"
+    },
+    {
+      "key": "trench coat",
+      "value": "prochowiec"
+    },
+    {
+      "key": "bleach",
+      "value": "wybielacz"
+    },
+    {
+      "key": "shawl",
+      "value": "szal"
+    },
+    {
+      "key": "tracksuit",
+      "value": "dres"
+    },
+    {
+      "key": "cane",
+      "value": "laska"
+    },
+    {
+      "key": "monocle",
+      "value": "monokl"
+    },
+    {
+      "key": "lingerie",
+      "value": "bielizna\ndamska"
+    },
+    {
+      "key": "handkerchief",
+      "value": "chusteczka"
+    }
+  ]
+}

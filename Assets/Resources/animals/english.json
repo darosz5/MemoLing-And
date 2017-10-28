@@ -1,0 +1,335 @@
+﻿{
+  "items": [
+      {
+      "key": "dog",
+      "value": "dog"
+    },
+
+    {
+      "key": "cat",
+      "value": "cat"
+    },
+      {
+      "key": "horse",
+      "value": "horse"
+    },
+  {
+      "key": "fish",
+      "value": "fish"
+    },
+    {
+      "key": "cow",
+      "value": "cow"
+    },
+
+    {
+      "key": "bird",
+      "value": "bird"
+    },
+    {
+      "key": "mouse",
+      "value": "mouse"
+    },
+    {
+      "key": "sheep",
+      "value": "sheep"
+    },
+    {
+      "key": "pig",
+      "value": "pig"
+    },
+    {
+      "key": "lion",
+      "value": "lion"
+    },
+
+    {
+      "key": "tiger",
+      "value": "tiger"
+    },
+    {
+      "key": "monkey",
+      "value": "monkey"
+    },
+    {
+      "key": "elephant",
+      "value": "elephant"
+    },
+    {
+      "key": "dolphin",
+      "value": "dolphin"
+    },
+
+    {
+      "key": "snake",
+      "value": "snake"
+    },
+    {
+      "key": "bear",
+      "value": "bear"
+    },
+    {
+      "key": "frog",
+      "value": "frog"
+    },
+    {
+      "key": "panda",
+      "value": "panda"
+    },
+    {
+      "key": "chicken",
+      "value": "chicken"
+    },
+    {
+      "key": "bat",
+      "value": "bat"
+    },
+    {
+      "key": "rabbit",
+      "value": "rabbit"
+    },
+
+    {
+      "key": "duck",
+      "value": "duck"
+    },
+    {
+      "key": "crocodile",
+      "value": "crocodile"
+    },
+    {
+      "key": "spider",
+      "value": "spider"
+    },
+    {
+      "key": "bee",
+      "value": "bee"
+    },
+     {
+      "key": "hamster",
+      "value": "hamster"
+    },
+    {
+      "key": "zebra",
+      "value": "zebra"
+    },
+    {
+      "key": "butterfly",
+      "value": "butterfly"
+    },
+    {
+      "key": "donkey",
+      "value": "donkey"
+    },
+    {
+      "key": "wolf",
+      "value": "wolf"
+    },
+    {
+      "key": "fox",
+      "value": "fox"
+    },
+    {
+      "key": "gorilla",
+      "value": "gorilla"
+    },
+    {
+      "key": "parrot",
+      "value": "parrot"
+    },
+
+    {
+      "key": "goat",
+      "value": "goat"
+    },
+    {
+      "key": "koala",
+      "value": "koala"
+    },
+    {
+      "key": "crab",
+      "value": "crab"
+    },
+    {
+      "key": "snail",
+      "value": "snail"
+    },
+    {
+      "key": "scorpion",
+      "value": "scorpion"
+    },
+    {
+      "key": "kangaroo",
+      "value": "kangaroo"
+    },
+    {
+      "key": "panther",
+      "value": "panther"
+    },
+    {
+      "key": "giraffe",
+      "value": "giraffe"
+    },
+    {
+      "key": "turtle",
+      "value": "turtle"
+    },
+    {
+      "key": "penguin",
+      "value": "penguin"
+    },
+    {
+      "key": "deer",
+      "value": "deer"
+    },
+    {
+      "key": "camel",
+      "value": "camel"
+    },
+    {
+      "key": "hippopotamus",
+      "value": "hippopotamus"
+    },
+    {
+      "key": "antelope",
+      "value": "antelope"
+    },
+    {
+      "key": "flamingo",
+      "value": "flamingo"
+    },
+
+    {
+      "key": "toad",
+      "value": "toad"
+    },
+    {
+      "key": "owl",
+      "value": "owl"
+    },
+    {
+      "key": "rhinoceros",
+      "value": "rhinoceros"
+    },
+    {
+      "key": "squirrel",
+      "value": "squirrel"
+    },
+    {
+      "key": "toucan",
+      "value": "toucan"
+    },
+    {
+      "key": "hyena",
+      "value": "hyena"
+    },
+    {
+      "key": "beetle",
+      "value": "beetle"
+    },
+    {
+      "key": "hedgehog",
+      "value": "hedgehog"
+    },
+
+    {
+      "key": "seal",
+      "value": "seal"
+    },
+    {
+      "key": "bison",
+      "value": "bison"
+    },
+    {
+      "key": "skunk",
+      "value": "skunk"
+    },
+    {
+      "key": "kiwi",
+      "value": "kiwi"
+    },
+    {
+      "key": "crow",
+      "value": "crow"
+    },
+    {
+      "key": "cheetah",
+      "value": "cheetah"
+    },
+    {
+      "key": "lizard",
+      "value": "lizard"
+    },
+    {
+      "key": "moose",
+      "value": "moose"
+    },
+    {
+      "key": "whale",
+      "value": "whale"
+    },
+
+    {
+      "key": "mole",
+      "value": "mole"
+    },
+    {
+      "key": "ostrich",
+      "value": "ostrich"
+    },
+    {
+      "key": "jellyfish",
+      "value": "jellyfish"
+    },
+    {
+      "key": "clam",
+      "value": "clam"
+    },
+    {
+      "key": "starfish",
+      "value": "starfish"
+    },
+    {
+      "key": "racoon",
+      "value": "racoon"
+    },
+    {
+      "key": "coral",
+      "value": "coral"
+    },
+    {
+      "key": "badger",
+      "value": "badger"
+    },
+    {
+      "key": "weasel",
+      "value": "weasel"
+    },
+    {
+      "key": "wolverine",
+      "value": "wolverine"
+    },
+    {
+      "key": "armadillo",
+      "value": "armadillo"
+    },
+    {
+      "key": "alpaca",
+      "value": "alpaca"
+    },
+    {
+      "key": "boar",
+      "value": "boar"
+    },
+    {
+      "key": "puffer fish",
+      "value": "puffer\nfish"
+    },
+    {
+      "key": "walrus",
+      "value": "walrus"
+    }
+
+
+  ]
+}

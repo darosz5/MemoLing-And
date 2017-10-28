@@ -1,0 +1,206 @@
+﻿{
+  "items": [
+    {
+      "key": "water",
+      "value": "woda"
+    },    
+    {
+      "key": "tree",
+      "value": "drzewo"
+    },
+    {
+      "key": "earth",
+      "value": "Ziemia"
+    },
+    {
+      "key": "forest",
+      "value": "las"
+    },
+    {
+      "key": "leaf",
+      "value": "liść"
+    },
+    {
+      "key": "bush",
+      "value": "krzak"
+    },
+    {
+      "key": "mushroom",
+      "value": "grzyb"
+    },
+    {
+      "key": "plant",
+      "value": "roślina"
+    },
+    {
+      "key": "battery",
+      "value": "bateria"
+    },
+    {
+      "key": "birdhouse",
+      "value": "domek\ndla ptaków"
+    },
+    {
+      "key": "oil",
+      "value": "ropa"
+    },
+    {
+      "key": "biofuel",
+      "value": "biopaliwo"
+    },
+    {
+      "key": "garbage truck",
+      "value": "śmieciarka"
+    },
+    {
+      "key": "electric car",
+      "value": "samochód\nelektryczny"
+    },
+    {
+      "key": "tractor",
+      "value": "traktor"
+    },
+    {
+      "key": "global warming",
+      "value": "globalne\nocieplenie"
+    },
+    {
+      "key": "factory",
+      "value": "fabryka"
+    },
+    {
+      "key": "barn",
+      "value": "stodoła"
+    },
+    {
+      "key": "recycling",
+      "value": "recykling"
+    },
+    {
+      "key": "thermometer",
+      "value": "termometr"
+    },
+    {
+      "key": "oxygen",
+      "value": "tlen"
+    },
+    {
+      "key": "hose",
+      "value": "wąż\nogrodowy"
+    },
+    {
+      "key": "log",
+      "value": "kłoda"
+    },
+    {
+      "key": "water drop",
+      "value": "kropla\nwody"
+    },
+    {
+      "key": "campfire",
+      "value": "ognisko"
+    },
+    {
+      "key": "beehive",
+      "value": "ul"
+    },
+    {
+      "key": "clover",
+      "value": "koniczyna"
+    },
+    {
+      "key": "fertilizer",
+      "value": "nawóz"
+    },
+    {
+      "key": "carbon dioxide",
+      "value": "dwutlenek\nwęgla"
+    },
+    {
+      "key": "solar energy",
+      "value": "energia\nsłoneczna"
+    },
+    {
+      "key": "solar panel",
+      "value": "kolektor\nsłoneczny"
+    },
+    {
+      "key": "hay",
+      "value": "siano"
+    },
+    {
+      "key": "ozone layer",
+      "value": "warstwa\nozonowa"
+    },
+    {
+      "key": "watering can",
+      "value": "konewka"
+    },
+    {
+      "key": "well",
+      "value": "studnia"
+    },
+    {
+      "key": "lawn mower",
+      "value": "kosiarka"
+    },
+    {
+      "key": "sunflower",
+      "value": "słonecznik"
+    },
+    {
+      "key": "pinecone",
+      "value": "szyszka"
+    },
+    {
+      "key": "greenhouse effect",
+      "value": "efekt\ncieplarniany"
+    },
+    {
+      "key": "radiation",
+      "value": "promieniowanie"
+    },
+    {
+      "key": "waste",
+      "value": "ścieki"
+    },
+    {
+      "key": "renewable energy",
+      "value": "energia\nodnawialna"
+    },
+    {
+      "key": "windmill",
+      "value": "młyn"
+    },
+    {
+      "key": "wheat",
+      "value": "pszenica"
+    },
+    {
+      "key": "harvest",
+      "value": "żniwo"
+    },
+    {
+      "key": "sprout",
+      "value": "kiełek"
+    },
+    {
+      "key": "deciduous tree",
+      "value": "drzewo\nliściaste"
+    },
+    {
+      "key": "conifer",
+      "value": "drzewo\niglaste"
+    },
+    {
+      "key": "nuclear plant",
+      "value": "elektrownia\natomowa"
+    },
+    {
+      "key": "acorn",
+      "value": "żołądź"
+    }
+
+
+  ]
+}

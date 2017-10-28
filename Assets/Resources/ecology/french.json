@@ -1,0 +1,206 @@
+﻿{
+  "items": [
+    {
+      "key": "water",
+      "value": "l'eau"
+    },    
+    {
+      "key": "tree",
+      "value": "un\narbre"
+    },
+    {
+      "key": "earth",
+      "value": "la\nTerre"
+    },
+    {
+      "key": "forest",
+      "value": "une\nforêt"
+    },
+    {
+      "key": "leaf",
+      "value": "une\nfeuille"
+    },
+    {
+      "key": "bush",
+      "value": "un\nbuisson"
+    },
+    {
+      "key": "mushroom",
+      "value": "un\nchampignon"
+    },
+    {
+      "key": "plant",
+      "value": "une\nplante"
+    },
+    {
+      "key": "battery",
+      "value": "une\npile"
+    },
+    {
+      "key": "birdhouse",
+      "value": "un\nnichoir"
+    },
+    {
+      "key": "oil",
+      "value": "le\npétrole"
+    },
+    {
+      "key": "biofuel",
+      "value": "le\nbiocarburant"
+    },
+    {
+      "key": "garbage truck",
+      "value": "une benne\nà ordures"
+    },
+    {
+      "key": "electric car",
+      "value": "une voiture\nélectrique"
+    },
+    {
+      "key": "tractor",
+      "value": "un\ntracteur"
+    },
+    {
+      "key": "global warming",
+      "value": "le réchauffement\nde la planète"
+    },
+    {
+      "key": "factory",
+      "value": "une\nusine"
+    },
+    {
+      "key": "barn",
+      "value": "une\ngrange"
+    },
+    {
+      "key": "recycling",
+      "value": "le\nrecyclage"
+    },
+    {
+      "key": "thermometer",
+      "value": "un\nthermomètre"
+    },
+    {
+      "key": "oxygen",
+      "value": "l'oxygène"
+    },
+    {
+      "key": "hose",
+      "value": "un tuyau\nd'arrosage"
+    },
+    {
+      "key": "log",
+      "value": "un\nrondin"
+    },
+    {
+      "key": "water drop",
+      "value": "une goutte\nd'eau"
+    },
+    {
+      "key": "campfire",
+      "value": "un feu\nde bois"
+    },
+    {
+      "key": "beehive",
+      "value": "une\nruche"
+    },
+    {
+      "key": "clover",
+      "value": "un\ntrèfle"
+    },
+    {
+      "key": "fertilizer",
+      "value": "un\nengrais"
+    },
+    {
+      "key": "carbon dioxide",
+      "value": "le bioxyde\nde carbone"
+    },
+    {
+      "key": "solar energy",
+      "value": "l'énergie\nsolaire"
+    },
+    {
+      "key": "solar panel",
+      "value": "un panneau\nsolaire"
+    },
+    {
+      "key": "hay",
+      "value": "le\nfoin"
+    },
+    {
+      "key": "ozone layer",
+      "value": "une couche\nd'ozone"
+    },
+    {
+      "key": "watering can",
+      "value": "un\narrosoir"
+    },
+    {
+      "key": "well",
+      "value": "un\npuits"
+    },
+    {
+      "key": "lawn mower",
+      "value": "une tondeuse\nà gazon"
+    },
+    {
+      "key": "sunflower",
+      "value": "un\ntournesol"
+    },
+    {
+      "key": "pinecone",
+      "value": "une pomme\nde pin"
+    },
+    {
+      "key": "greenhouse effect",
+      "value": "l'effet\nde serre"
+    },
+    {
+      "key": "radiation",
+      "value": "une\nradiation"
+    },
+    {
+      "key": "waste",
+      "value": "des eaux\nusées"
+    },
+    {
+      "key": "renewable energy",
+      "value": "des eaux\nd'égout"
+    },
+    {
+      "key": "windmill",
+      "value": "un moulin\nà vent"
+    },
+    {
+      "key": "wheat",
+      "value": "le\nblé"
+    },
+    {
+      "key": "harvest",
+      "value": "une\nrécolte"
+    },
+    {
+      "key": "sprout",
+      "value": "une\npousse"
+    },
+    {
+      "key": "deciduous tree",
+      "value": "un\nfeuillu"
+    },
+    {
+      "key": "conifer",
+      "value": "un\nconifère"
+    },
+    {
+      "key": "nuclear plant",
+      "value": "une centrale\nnucléaire"
+    },
+    {
+      "key": "acorn",
+      "value": "un\ngland"
+    }
+
+
+  ]
+}

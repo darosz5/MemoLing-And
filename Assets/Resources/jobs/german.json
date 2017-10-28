@@ -1,0 +1,188 @@
+﻿{
+  "items": [
+     {
+      "key": "policeman",
+      "value": "der\nPolizist"
+    },
+    {
+      "key": "doctor",
+      "value": "der\nArzt"
+    },
+    {
+      "key": "firefighter",
+      "value": "der\nFeuerwehrmann"
+    },   
+        {
+      "key": "teacher",
+      "value": "der\nLehrer"
+    },
+    {
+      "key": "chef",
+      "value": "der\nKoch"
+    },
+    {
+      "key": "pilot",
+      "value": "der\nPilot"
+    },
+    {
+      "key": "manager",
+      "value": "der\nManager"
+    },
+    {
+      "key": "mechanic",
+      "value": "der\nMechaniker"
+    },
+    {
+      "key": "detective",
+      "value": "der\nDetektiv"
+    },
+        {
+      "key": "waiter",
+      "value": "der\nKellner"
+    },
+     {
+      "key": "clown",
+      "value": "der\nClown"
+    },
+    {
+      "key": "builder",
+      "value": "der\nBauarbeiter"
+    },
+        {
+      "key": "driver",
+      "value": "der\nFahrer"
+    },
+      {
+      "key": "programmer",
+      "value": "der\nProgrammierer"
+    },
+     {
+      "key": "postman",
+      "value": "der\nBriefträger"
+    },
+    {
+      "key": "politician",
+      "value": "der\nPolitiker"
+    },
+      {
+      "key": "soldier",
+      "value": "der\nSoldat"
+    },
+    {
+      "key": "nurse",
+      "value": "die\nKrankenschwester"
+    },
+    {
+      "key": "farmer",
+      "value": "der\nBauer"
+    },
+    {
+      "key": "DJ",
+      "value": "der\nDJ"
+    }, 
+      {
+      "key": "singer",
+      "value": "der\nSänger"
+    },
+    {
+      "key": "chemist",
+      "value": "der\nChemiker"
+    },
+    {
+      "key": "secretary",
+      "value": "die\nSekretärin"
+    },
+      {
+      "key": "stewardess",
+      "value": "die\nFlugbegleiterin"
+    },
+      {
+      "key": "priest",
+      "value": "der\nPriester"
+    },
+    {
+      "key": "photographer",
+      "value": "der\nFotograf"
+    },
+        {
+      "key": "writer",
+      "value": "der\nSchriftsteller"
+    },
+    {
+      "key": "painter",
+      "value": "der\nMaler"
+    },
+    {
+      "key": "magician",
+      "value": "der\nZauberer"
+    },
+    {
+      "key": "electrician",
+      "value": "der\nElektriker"
+    },
+    {
+      "key": "gardner",
+      "value": "der\nGärtner"
+    },
+    {
+      "key": "hairdresser",
+      "value": "der\nFriseur"
+    },
+    {
+      "key": "fisherman",
+      "value": "der\nFischer"
+    },
+    {
+      "key": "astronaut",
+      "value": "der\nAstronaut"
+    },
+    {
+      "key": "athlete",
+      "value": "der\nSportler"
+    },
+      {
+      "key": "sailor",
+      "value": "der\nMatrose"
+    },
+    {
+      "key": "cashier",
+      "value": "der\nKassierer"
+    },
+    {
+      "key": "plumber",
+      "value": "der\nKlempner"
+    },
+    {
+      "key": "miner",
+      "value": "der\nBergmann"
+    },
+    {
+      "key": "diver",
+      "value": "der\nTaucher"
+    },
+    {
+      "key": "courier",
+      "value": "der\nKurier"
+    },
+    {
+      "key": "maid",
+      "value": "das\nDienstmädchen"
+    },
+    {
+      "key": "carpenter",
+      "value": "der\nZimmermann"
+    },
+    {
+      "key": "lumberjack",
+      "value": "der\nHolzfäller"
+    },
+    {
+      "key": "concierge",
+      "value": "der\nHausmeister"
+    },
+    {
+      "key": "lecturer",
+      "value": "der\nHochschullehrer"
+    }
+  ]
+}

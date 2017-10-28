@@ -1,0 +1,247 @@
+﻿{
+  "items": [
+    {
+      "key": "bed",
+      "value": "un\nlit"
+    },
+    {
+      "key": "chair",
+      "value": "une\nchaise"
+    },
+    {
+      "key": "table",
+      "value": "une\ntable"
+    },
+    {
+      "key": "lamp",
+      "value": "une\nlampe"
+    },
+    {
+      "key": "desk",
+      "value": "un\nbureau"
+    },
+    {
+      "key": "flower",
+      "value": "une\nfleur"
+    },
+    {
+      "key": "phone",
+      "value": "un\ntéléphone"
+    },
+    {
+      "key": "window",
+      "value": "une\nfenêtre"
+    },
+    {
+      "key": "wall",
+      "value": "un\nmur"
+    },
+    {
+      "key": "microwave",
+      "value": "un\nmicro-ondes"
+    },
+    {
+      "key": "wardrobe",
+      "value": "une\narmoire"
+    },
+    {
+      "key": "TV",
+      "value": "une\ntélé"
+    },
+    {
+      "key": "toilet",
+      "value": "des\ntoilettes"
+    },
+    {
+      "key": "plate",
+      "value": "une\nassiette"
+    },
+    {
+      "key": "fork",
+      "value": "une\nfourchette"
+    },
+    {
+      "key": "spoon",
+      "value": "une\ncuillère"
+    },
+    {
+      "key": "mixer",
+      "value": "un\nmixeur"
+    },
+    {
+      "key": "bottle",
+      "value": "une\nbouteille"
+    },
+    {
+      "key": "glass",
+      "value": "un\nverre"
+    },
+    {
+      "key": "mirror",
+      "value": "un\nmiroir"
+    },
+    {
+      "key": "carpet",
+      "value": "un\ntapis"
+    },
+    {
+      "key": "key",
+      "value": "une\nclé"
+    },
+    {
+      "key": "knife",
+      "value": "un\ncouteau"
+    },
+    {
+      "key": "cup of coffee",
+      "value": "une tasse\nde café"
+    },
+    {
+      "key": "hammer",
+      "value": "un\nmarteau"
+    },
+    {
+      "key": "alarm clock",
+      "value": "un\nréveil"
+    },
+    {
+      "key": "blender",
+      "value": "le\nmélangeur"
+    },
+    {
+      "key": "pot",
+      "value": "une\nmarmite"
+    },
+    {
+      "key": "shower",
+      "value": "une\ndouche"
+    },
+    {
+      "key": "pan",
+      "value": "une\npoêle"
+    },
+    {
+      "key": "sofa",
+      "value": "un\nsofa"
+    },
+    {
+      "key": "coffee maker",
+      "value": "une machine\nà café"
+    },
+    {
+      "key": "garbage bin",
+      "value": "une\npoubelle"
+    },
+    {
+      "key": "armchair",
+      "value": "un\nfauteuil"
+    },
+    {
+      "key": "bowl",
+      "value": "un\nbol"
+    },
+    {
+      "key": "teapot",
+      "value": "une\nthéière"
+    },
+    {
+      "key": "curtain",
+      "value": "un\nrideau"
+    },
+    {
+      "key": "oven",
+      "value": "un\nfour"
+    },
+    {
+      "key": "fridge",
+      "value": "un\nfrigo"
+    },
+    {
+      "key": "fireplace",
+      "value": "une\ncheminée"
+    },
+    {
+      "key": "fan",
+      "value": "un\nventilateur"
+    },
+    {
+      "key": "light bulb",
+      "value": "une\nampoule"
+    },
+    {
+      "key": "coat stand",
+      "value": "un\nportemanteau"
+    },
+    {
+      "key": "bathtub",
+      "value": "une\nbaignoire"
+    },
+    {
+      "key": "fence",
+      "value": "une\nclôture"
+    },
+    {
+      "key": "sink",
+      "value": "un\nlavabo"
+    },
+    {
+      "key": "scales",
+      "value": "une\nbalance"
+    },
+    {
+      "key": "washing machine",
+      "value": "une machine\nà laver"
+    },
+    {
+      "key": "espresso maker",
+      "value": "une cafetière\nmoka"
+    },
+    {
+      "key": "hair dryer",
+      "value": "un\nsèche-cheveux"
+    },
+    {
+      "key": "vaccum cleaner",
+      "value": "un\naspirateur"
+    },
+    {
+      "key": "ladle",
+      "value": "une\nlouche"
+    },
+    {
+      "key": "spatula",
+      "value": "une\nspatule"
+    },
+    {
+      "key": "stool",
+      "value": "un\ntabouret"
+    },
+    {
+      "key": "nightstand",
+      "value": "une table\nde chevet"
+    },
+    {
+      "key": "socket",
+      "value": "une\nprise"
+    },
+    {
+      "key": "cutlery",
+      "value": "un couvert"
+    },
+    {
+      "key": "tap",
+      "value": "un\nrobinet"
+    },
+    {
+      "key": "chest of drawers",
+      "value": "une\ncommode"
+    },
+    {
+      "key": "mortar",
+      "value": "un\nmortier"
+    }
+
+
+
+  ]
+}

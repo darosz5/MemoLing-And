@@ -1,0 +1,240 @@
+﻿{
+  "items": [
+    {
+      "key": "hat",
+      "value": "el\nsombrero"
+    },
+    {
+      "key": "shoe",
+      "value": "el\nzapato"
+    },
+    {
+      "key": "socks",
+      "value": "los\ncalcetínos"
+    },
+    {
+      "key": "shirt",
+      "value": "la\ncamisa"
+    },
+    {
+      "key": "T-shirt",
+      "value": "la\ncamiseta"
+    },
+    {
+      "key": "dress",
+      "value": "el\nvestido"
+    },
+    {
+      "key": "glasses",
+      "value": "las\ngafas"
+    },
+    {
+      "key": "jacket",
+      "value": "la\nchaqueta"
+    },
+    {
+      "key": "shorts",
+      "value": "el\nshort"
+    },
+    {
+      "key": "trousers",
+      "value": "los\npantalones"
+    },
+    {
+      "key": "jeans",
+      "value": "los\njeans"
+    },
+    {
+      "key": "skirt",
+      "value": "la\nfalda"
+    },
+    {
+      "key": "umbrella",
+      "value": "el\nparaguas"
+    },
+    {
+      "key": "underwear",
+      "value": "la ropa\ninterior"
+    },
+    {
+      "key": "coat",
+      "value": "el\nabrigo"
+    },
+    {
+      "key": "suit",
+      "value": "el\ntraje"
+    },
+    {
+      "key": "backpack",
+      "value": "la\nmochila"
+    },
+    {
+      "key": "cap",
+      "value": "la\ngorra"
+    },
+    {
+      "key": "belt",
+      "value": "el\ncinturón"
+    },
+    {
+      "key": "bra",
+      "value": "el\nsostén"
+    },
+    {
+      "key": "panties",
+      "value": "el\ncalzón"
+    },
+    {
+      "key": "to hand wash",
+      "value": "lavar\na mano"
+    },
+    {
+      "key": "pyjamas",
+      "value": "el\npiyama"
+    },
+    {
+      "key": "iron",
+      "value": "la\nplancha"
+    },
+    {
+      "key": "tie",
+      "value": "la\ncorbata"
+    },
+    {
+      "key": "gloves",
+      "value": "los\nguantes"
+    },
+    {
+      "key": "scarf",
+      "value": "la\nbufanda"
+    },
+    {
+      "key": "handbag",
+      "value": "la\ncartera"
+    },
+    {
+      "key": "purse",
+      "value": "el\nmonedero"
+    },
+    {
+      "key": "vest",
+      "value": "el\nchaleco"
+    },
+    {
+      "key": "pocket watch",
+      "value": "el reloj\nde bolsillo"
+    },
+    {
+      "key": "winter hat",
+      "value": "el gorro\nde invierno"
+    },
+    {
+      "key": "wallet",
+      "value": "la\nbilletera"
+    },
+    {
+      "key": "suitcase",
+      "value": "la\nmaleta"
+    },
+    {
+      "key": "polo shirt",
+      "value": "la camiseta\ntipo polo"
+    },
+    {
+      "key": "pullover",
+      "value": "el\nsuéter"
+    },
+    {
+      "key": "bow tie",
+      "value": "el\ncorbatín"
+    },
+    {
+      "key": "swimsuit",
+      "value": "el traje\nde baño"
+    },
+    {
+      "key": "high heels",
+      "value": "los zapatos\nde tacón"
+    },
+    {
+      "key": "briefcase",
+      "value": "el\nmaletín"
+    },
+    {
+      "key": "jersey",
+      "value": "el\njersey"
+    },
+    {
+      "key": "bathrobe",
+      "value": "la bata\nde baño"
+    },
+    {
+      "key": "slippers",
+      "value": "las\npantuflas"
+    },
+    {
+      "key": "sneakers",
+      "value": "los zapatos\ndeportivos"
+    },
+    {
+      "key": "portfolio",
+      "value": "el\nportafolio"
+    },
+    {
+      "key": "wristwatch",
+      "value": "el reloj\nde pulsera"
+    },
+    {
+      "key": "zipper",
+      "value": "el\ncierrey"
+    },
+    {
+      "key": "hoodie",
+      "value": "la sudadera\ncon capucha"
+    },
+    {
+      "key": "top hat",
+      "value": "el sombrero\nde copa"
+    },
+    {
+      "key": "overall",
+      "value": "la\nbata"
+    },
+    {
+      "key": "mittens",
+      "value": "las\nmanoplas"
+    },
+    {
+      "key": "trench coat",
+      "value": "la\ngabardina"
+    },
+    {
+      "key": "bleach",
+      "value": "la\nlejía"
+    },
+    {
+      "key": "shawl",
+      "value": "el\nchal"
+    },
+    {
+      "key": "tracksuit",
+      "value": "el\nchándal"
+    },
+    {
+      "key": "cane",
+      "value": "el\nbastón"
+    },
+    {
+      "key": "monocle",
+      "value": "el\nmonóculo"
+    },
+    {
+      "key": "lingerie",
+      "value": "la\nlencería"
+    },
+    {
+      "key": "handkerchief",
+      "value": "el\npañuelo"
+    }
+  ]
+}

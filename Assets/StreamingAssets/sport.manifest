@@ -1,0 +1,95 @@
+ManifestFileVersion: 0
+CRC: 817521145
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: debfc342ef5afa779fbc7e31b21aab36
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21f0dc8ebad690f009368069428e0a1a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Icons/sport/biathlon.png
+- Assets/Icons/sport/motorcycle racing.png
+- Assets/Icons/sport/helmet.png
+- Assets/Icons/sport/backpack.png
+- Assets/Icons/sport/scoreboard.png
+- Assets/Icons/sport/fencing.png
+- Assets/Icons/sport/olympic torch.png
+- Assets/Icons/sport/punching bag.png
+- Assets/Icons/Categories/sport.png
+- Assets/Icons/sport/pads.png
+- Assets/Icons/sport/bottle.png
+- Assets/Icons/sport/polo shirt.png
+- Assets/Icons/sport/hiking.png
+- Assets/Icons/sport/muscle.png
+- Assets/Icons/sport/football field.png
+- Assets/Icons/sport/pool.png
+- Assets/Icons/sport/bowling.png
+- Assets/Icons/sport/pommel horse.png
+- Assets/Icons/sport/olympics.png
+- Assets/Icons/sport/volleyball.png
+- Assets/Icons/sport/curling.png
+- Assets/Icons/sport/boxing.png
+- Assets/Icons/sport/baseball glove.png
+- Assets/Icons/sport/stopwatch.png
+- Assets/Icons/sport/cap.png
+- Assets/Icons/sport/car racing.png
+- Assets/Icons/sport/parachuting.png
+- Assets/Icons/sport/baseball.png
+- Assets/Icons/sport/football.png
+- Assets/Icons/sport/referee.png
+- Assets/Icons/sport/dumbbell.png
+- Assets/Icons/sport/roller skating.png
+- Assets/Icons/sport/skiing.png
+- Assets/Icons/sport/chess.png
+- Assets/Icons/sport/cup.png
+- Assets/Icons/sport/kayak.png
+- Assets/Icons/sport/hockey.png
+- Assets/Icons/sport/cricket.png
+- Assets/Icons/sport/bowling pin.png
+- Assets/Icons/sport/treadmill.png
+- Assets/Icons/sport/ice skating.png
+- Assets/Icons/sport/bag.png
+- Assets/Icons/sport/bow.png
+- Assets/Icons/sport/darts.png
+- Assets/Icons/sport/glove.png
+- Assets/Icons/sport/basketball.png
+- Assets/Icons/sport/basketball court.png
+- Assets/Icons/sport/bobsleigh.png
+- Assets/Icons/sport/fishing.png
+- Assets/Icons/sport/ballet.png
+- Assets/Icons/sport/tennis.png
+- Assets/Icons/sport/cycling.png
+- Assets/Icons/sport/cue stick.png
+- Assets/Icons/sport/goggles.png
+- Assets/Icons/sport/puck.png
+- Assets/Icons/sport/snowboarding.png
+- Assets/Icons/sport/locker.png
+- Assets/Icons/sport/archery.png
+- Assets/Icons/sport/whistle.png
+- Assets/Icons/sport/sailing.png
+- Assets/Icons/sport/medal.png
+- Assets/Icons/sport/american football.png
+- Assets/Icons/sport/polo.png
+- Assets/Icons/sport/tennis racket.png
+- Assets/Icons/sport/stationary bike.png
+- Assets/Icons/sport/podium.png
+- Assets/Icons/sport/jersey.png
+- Assets/Icons/sport/skateboarding.png
+- Assets/Icons/sport/golf club.png
+- Assets/Icons/sport/table tennis.png
+- Assets/Icons/sport/goal.png
+- Assets/Icons/sport/surfboard.png
+- Assets/Icons/sport/golf.png
+- Assets/Icons/sport/swimming suit.png
+- Assets/Icons/sport/mouthpiece.png
+- Assets/Icons/sport/hammer throwing.png
+- Assets/Icons/sport/foil.png
+- Assets/Icons/sport/gymnastics.png
+Dependencies: []

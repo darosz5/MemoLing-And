@@ -1,0 +1,188 @@
+﻿{
+  "items": [
+     {
+      "key": "policeman",
+      "value": "un\npolicier"
+    },
+    {
+      "key": "doctor",
+      "value": "un\nmédecin"
+    },
+    {
+      "key": "firefighter",
+      "value": "un\npompier"
+    },   
+        {
+      "key": "teacher",
+      "value": "un\nprofesseur"
+    },
+    {
+      "key": "chef",
+      "value": "un\ncuisinier"
+    },
+    {
+      "key": "pilot",
+      "value": "un\npilote"
+    },
+    {
+      "key": "manager",
+      "value": "un\nmanager"
+    },
+    {
+      "key": "mechanic",
+      "value": "un\nmécanicien"
+    },
+    {
+      "key": "detective",
+      "value": "un\ndétective"
+    },
+        {
+      "key": "waiter",
+      "value": "un\nserveur"
+    },
+     {
+      "key": "clown",
+      "value": "un\nclown"
+    },
+    {
+      "key": "builder",
+      "value": "un ouvrier\ndu bâtiment"
+    },
+        {
+      "key": "driver",
+      "value": "un\nconducteur"
+    },
+      {
+      "key": "programmer",
+      "value": "un\nprogrammeur"
+    },
+     {
+      "key": "postman",
+      "value": "un\nfacteur"
+    },
+    {
+      "key": "politician",
+      "value": "un\npoliticien"
+    },
+      {
+      "key": "soldier",
+      "value": "un\nsoldat"
+    },
+    {
+      "key": "nurse",
+      "value": "une\ninfirmierère"
+    },
+    {
+      "key": "farmer",
+      "value": "un\nagriculteur"
+    },
+    {
+      "key": "DJ",
+      "value": "un\nDJ"
+    },  
+      {
+      "key": "singer",
+      "value": "un\nchanteur"
+    },
+    {
+      "key": "chemist",
+      "value": "un\nchimiste"
+    },
+    {
+      "key": "secretary",
+      "value": "une\nsecrétaire"
+    },
+      {
+      "key": "stewardess",
+      "value": "une hôtesse\nde l'air"
+    },
+      {
+      "key": "priest",
+      "value": "un\nprêtre"
+    },
+    {
+      "key": "photographer",
+      "value": "un\nphotographe"
+    },
+        {
+      "key": "writer",
+      "value": "un\nécrivain"
+    },
+    {
+      "key": "painter",
+      "value": "un\npeintre"
+    },
+    {
+      "key": "magician",
+      "value": "un\nmagicien"
+    },
+    {
+      "key": "electrician",
+      "value": "un\nélectricien"
+    },
+    {
+      "key": "gardner",
+      "value": "un\njardinier"
+    },
+    {
+      "key": "hairdresser",
+      "value": "un\ncoiffeur"
+    },
+    {
+      "key": "fisherman",
+      "value": "un\npêcheur"
+    },
+    {
+      "key": "astronaut",
+      "value": "un\nastronaute"
+    },
+    {
+      "key": "athlete",
+      "value": "un\nathlète"
+    },
+      {
+      "key": "sailor",
+      "value": "un\nmarin"
+    },
+    {
+      "key": "cashier",
+      "value": "un\ncaissier"
+    },
+    {
+      "key": "plumber",
+      "value": "un\nplombier"
+    },
+    {
+      "key": "miner",
+      "value": "un\nmineur"
+    },
+    {
+      "key": "diver",
+      "value": "un\nplongeur"
+    },
+    {
+      "key": "courier",
+      "value": "un\nmessager"
+    },
+    {
+      "key": "maid",
+      "value": "une\ndomestique"
+    },
+    {
+      "key": "carpenter",
+      "value": "un\nmenuisier"
+    },
+    {
+      "key": "lumberjack",
+      "value": "un\nbûcheron"
+    },
+    {
+      "key": "concierge",
+      "value": "un\nconcierge"
+    },
+    {
+      "key": "lecturer",
+      "value": "un maître\nde conférences"
+    }
+  ]
+}

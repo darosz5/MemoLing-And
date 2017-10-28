@@ -1,0 +1,240 @@
+﻿{
+  "items": [
+    {
+      "key": "hat",
+      "value": "der\nHut"
+    },
+    {
+      "key": "shoe",
+      "value": "der\nSchuh"
+    },
+    {
+      "key": "socks",
+      "value": "Socken"
+    },
+    {
+      "key": "shirt",
+      "value": "das\nHemd"
+    },
+    {
+      "key": "T-shirt",
+      "value": "das\nT-shirt"
+    },
+    {
+      "key": "dress",
+      "value": "das\nKleid"
+    },
+    {
+      "key": "glasses",
+      "value": "die\nBrille"
+    },
+    {
+      "key": "jacket",
+      "value": "die\nJacke"
+    },
+    {
+      "key": "shorts",
+      "value": "die kurze\nHose"
+    },
+    {
+      "key": "trousers",
+      "value": "die\nHose"
+    },
+    {
+      "key": "jeans",
+      "value": "die\nJeanshose"
+    },
+    {
+      "key": "skirt",
+      "value": "der\nRock"
+    },
+    {
+      "key": "umbrella",
+      "value": "der\nRegenschirm"
+    },
+    {
+      "key": "underwear",
+      "value": "die\nUnterwäsche"
+    },
+    {
+      "key": "coat",
+      "value": "der\nMantel"
+    },
+    {
+      "key": "suit",
+      "value": "der\nAnzug"
+    },
+    {
+      "key": "backpack",
+      "value": "der\nRucksack"
+    },
+    {
+      "key": "cap",
+      "value": "die\nMütze"
+    },
+    {
+      "key": "belt",
+      "value": "der\nGürtel"
+    },
+    {
+      "key": "bra",
+      "value": "der\nBH"
+    },
+    {
+      "key": "panties",
+      "value": "die\nUnterhose"
+    },
+    {
+      "key": "to hand wash",
+      "value": "von Hand\nwaschen"
+    },
+    {
+      "key": "pyjamas",
+      "value": "der\nSchlafanzug"
+    },
+    {
+      "key": "iron",
+      "value": "das\nBügeleisen"
+    },
+    {
+      "key": "tie",
+      "value": "die\nKrawatte"
+    },
+    {
+      "key": "gloves",
+      "value": "Handschuhe"
+    },
+    {
+      "key": "scarf",
+      "value": "der\nSchal"
+    },
+    {
+      "key": "handbag",
+      "value": "die\nHandtasche"
+    },
+    {
+      "key": "purse",
+      "value": "das\nPortemonnaie"
+    },
+    {
+      "key": "vest",
+      "value": "die\nVeste"
+    },
+    {
+      "key": "pocket watch",
+      "value": "die\nTaschenuhr"
+    },
+    {
+      "key": "winter hat",
+      "value": "die\nWintermütze"
+    },
+    {
+      "key": "wallet",
+      "value": "der\nGeldbeutel"
+    },
+    {
+      "key": "suitcase",
+      "value": "der\nKoffer"
+    },
+    {
+      "key": "polo shirt",
+      "value": "das\nPoloshirt"
+    },
+    {
+      "key": "pullover",
+      "value": "der\nPullover"
+    },
+    {
+      "key": "bow tie",
+      "value": "die\nFliege"
+    },
+    {
+      "key": "swimsuit",
+      "value": "der\nBadeanzug"
+    },
+    {
+      "key": "high heels",
+      "value": "Absatzschuhe"
+    },
+    {
+      "key": "briefcase",
+      "value": "die\nAktentasche"
+    },
+    {
+      "key": "jersey",
+      "value": "das\nTrikot"
+    },
+    {
+      "key": "bathrobe",
+      "value": "der\nBademantel"
+    },
+    {
+      "key": "slippers",
+      "value": "Hausschuhe"
+    },
+    {
+      "key": "sneakers",
+      "value": "Turnschuhe"
+    },
+    {
+      "key": "portfolio",
+      "value": "die\nAktenmappe"
+    },
+    {
+      "key": "wristwatch",
+      "value": "die\nArmbanduhr"
+    },
+    {
+      "key": "zipper",
+      "value": "der\nReißverschluss"
+    },
+    {
+      "key": "hoodie",
+      "value": "der\nKapuzenpullover"
+    },
+    {
+      "key": "top hat",
+      "value": "der\nZylinder"
+    },
+    {
+      "key": "overall",
+      "value": "die\nLatzhose"
+    },
+    {
+      "key": "mittens",
+      "value": "Fausthandschuhe"
+    },
+    {
+      "key": "trench coat",
+      "value": "der\nTrenchcoat"
+    },
+    {
+      "key": "bleach",
+      "value": "das\nBleichmittel"
+    },
+    {
+      "key": "shawl",
+      "value": "das\nSchultertuch"
+    },
+    {
+      "key": "tracksuit",
+      "value": "der\nSportanzug"
+    },
+    {
+      "key": "cane",
+      "value": "der\nStock"
+    },
+    {
+      "key": "monocle",
+      "value": "das\nEinglas"
+    },
+    {
+      "key": "lingerie",
+      "value": "die\nDamenunterwäsche"
+    },
+    {
+      "key": "handkerchief",
+      "value": "das\nTaschentuch"
+    }
+  ]
+}

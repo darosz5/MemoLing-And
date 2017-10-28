@@ -1,0 +1,206 @@
+﻿{
+  "items": [
+    {
+      "key": "water",
+      "value": "das\nWasser"
+    },    
+    {
+      "key": "tree",
+      "value": "der\nBaum"
+    },
+    {
+      "key": "earth",
+      "value": "die\nErde"
+    },
+    {
+      "key": "forest",
+      "value": "der\nWald"
+    },
+    {
+      "key": "leaf",
+      "value": "das\nBlatt"
+    },
+    {
+      "key": "bush",
+      "value": "der\nBusch"
+    },
+    {
+      "key": "mushroom",
+      "value": "der\nPilz"
+    },
+    {
+      "key": "plant",
+      "value": "die\nPflanze"
+    },
+    {
+      "key": "battery",
+      "value": "die\nBatterie"
+    },
+    {
+      "key": "birdhouse",
+      "value": "das\nVogelhaus"
+    },
+    {
+      "key": "oil",
+      "value": "das\nErdöl"
+    },
+    {
+      "key": "biofuel",
+      "value": "der\nBiotreibstoff"
+    },
+    {
+      "key": "garbage truck",
+      "value": "der\nMüllwagen"
+    },
+    {
+      "key": "electric car",
+      "value": "das\nElektroauto"
+    },
+    {
+      "key": "tractor",
+      "value": "der\nTraktor"
+    },
+    {
+      "key": "global warming",
+      "value": "die globale\nErwärmung"
+    },
+    {
+      "key": "factory",
+      "value": "die\nFabrik"
+    },
+    {
+      "key": "barn",
+      "value": "die\nScheune"
+    },
+    {
+      "key": "recycling",
+      "value": "die\nWiederverwertung"
+    },
+    {
+      "key": "thermometer",
+      "value": "das\nThermometer"
+    },
+    {
+      "key": "oxygen",
+      "value": "der\nSauerstoff"
+    },
+    {
+      "key": "hose",
+      "value": "der\nSchlauch"
+    },
+    {
+      "key": "log",
+      "value": "der\nHolzklotz"
+    },
+    {
+      "key": "water drop",
+      "value": "der\nWassertropfen"
+    },
+    {
+      "key": "campfire",
+      "value": "das\nLagerfeuer"
+    },
+    {
+      "key": "beehive",
+      "value": "der\nBienenstock"
+    },
+    {
+      "key": "clover",
+      "value": "der\nKlee"
+    },
+    {
+      "key": "fertilizer",
+      "value": "der\nDünger"
+    },
+    {
+      "key": "carbon dioxide",
+      "value": "das\nKohlendioxid"
+    },
+    {
+      "key": "solar energy",
+      "value": "die\nSonnenenergie"
+    },
+    {
+      "key": "solar panel",
+      "value": "der\nSonnenkollektor"
+    },
+    {
+      "key": "hay",
+      "value": "das\nHeu"
+    },
+    {
+      "key": "ozone layer",
+      "value": "die\nOzonschicht"
+    },
+    {
+      "key": "watering can",
+      "value": "die\nGießkanne"
+    },
+    {
+      "key": "well",
+      "value": "der\nBrunnen"
+    },
+    {
+      "key": "lawn mower",
+      "value": "der\nRasenmäher"
+    },
+    {
+      "key": "sunflower",
+      "value": "die\nSonnenblume"
+    },
+    {
+      "key": "pinecone",
+      "value": "der\nKiefernzapfen"
+    },
+    {
+      "key": "greenhouse effect",
+      "value": "der\nTreibhauseffekt"
+    },
+    {
+      "key": "radiation",
+      "value": "die\nStrahlung"
+    },
+    {
+      "key": "waste",
+      "value": "Abwässer"
+    },
+    {
+      "key": "renewable energy",
+      "value": "die erneuerbare\nEnergie"
+    },
+    {
+      "key": "windmill",
+      "value": "die\nWindmühle"
+    },
+    {
+      "key": "wheat",
+      "value": "der\nWeizen"
+    },
+    {
+      "key": "harvest",
+      "value": "die\nErnte"
+    },
+    {
+      "key": "sprout",
+      "value": "der\nSpross"
+    },
+    {
+      "key": "deciduous tree",
+      "value": "der\nLaubbaum"
+    },
+    {
+      "key": "conifer",
+      "value": "der\nNadelbaum"
+    },
+    {
+      "key": "nuclear plant",
+      "value": "das\nAtomkraftwerk"
+    },
+    {
+      "key": "acorn",
+      "value": "die\nEichel"
+    }
+
+
+  ]
+}

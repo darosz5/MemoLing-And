@@ -1,0 +1,317 @@
+﻿{
+  "items": [
+    {
+      "key": "apple",
+      "value": "la\nmanzana"
+    },
+      {
+      "key": "pizza",
+      "value": "la\npizza"
+    },
+    {
+      "key": "banana",
+      "value": "el\nplátano"
+    },
+    {
+      "key": "orange",
+      "value": "la\nnaranja"
+    },     
+      {
+      "key": "lemon",
+      "value": "el\nlimón"
+    },
+    {
+      "key": "drink",
+      "value": "la\nbebida"
+    },
+      {
+      "key": "meat",
+      "value": "la\ncarne"
+    },
+    {
+      "key": "burger",
+      "value": "la\nhamburguesa"
+    },
+     {
+      "key": "fish",
+      "value": "el\npescado"
+    },
+    {
+      "key": "bread",
+      "value": "el\npan"
+    },
+      {
+      "key": "rice",
+      "value": "el\narroz"
+    },
+    {
+      "key": "carrot",
+      "value": "la\nzanahoria"
+    },
+      {
+      "key": "salad",
+      "value": "la\nensalada"
+    },
+    {
+      "key": "salt",
+      "value": "la\nsal"
+    },
+    {
+      "key": "pepper",
+      "value": "la\npimienta"
+    },
+      {
+      "key": "popcorn",
+      "value": "las palomitas\nde maíz"
+    },
+    {
+      "key": "bacon",
+      "value": "el\nbeicon"
+    },
+    {
+      "key": "cheese",
+      "value": "el\nqueso"
+    },
+    {
+      "key": "onion",
+      "value": "la\ncebolla"
+    },
+      {
+      "key": "sandwich",
+      "value": "el\nbocadillo"
+    },
+      {
+      "key": "ketchup",
+      "value": "el\nketchup"
+    },
+    {
+      "key": "chicken leg",
+      "value": "la pierna\nde pollo"
+    },
+    {
+      "key": "roast chicken",
+      "value": "el pollo\nal horno"
+    },
+      {
+      "key": "soup",
+      "value": "la\nsopa"
+    },
+      {
+      "key": "noodles",
+      "value": "los\nfideos"
+    },
+      {
+      "key": "ice cream",
+      "value": "los\nhelados"
+    },
+    {
+      "key": "honey",
+      "value": "la\nmiel"
+    },
+      {
+      "key": "yoghurt",
+      "value": "el\nyogur"
+    },
+      {
+      "key": "pie",
+      "value": "la\ntarta"
+    },
+    {
+      "key": "cake",
+      "value": "el\npastel"
+    },
+     {
+      "key": "chocolate",
+      "value": "el\nchocolate"
+    },
+    {
+      "key": "boiled egg",
+      "value": "el huevo\nduro"
+    },
+    {
+      "key": "fried-egg",
+      "value": "el huevo\nfrito"
+    },
+    {
+      "key": "mushroom",
+      "value": "la\nseta"
+    },
+      {
+      "key": "olives",
+      "value": "las\naceitunas"
+    },
+    {
+      "key": "olive oil",
+      "value": "el aceite\nde oliva"
+    },
+    {
+      "key": "tomato",
+      "value": "el\ntomate"
+    },
+    {
+      "key": "candy",
+      "value": "el\ncaramelo"
+    },
+      {
+      "key": "jam",
+      "value": "la\nmarmelada"
+    },
+    {
+      "key": "broccoli",
+      "value": "el\nbrócoli"
+    },
+    {
+      "key": "lettuce",
+      "value": "la\nlechuga"
+    },
+      {
+      "key": "pasta",
+      "value": "pasta"
+    },
+    {
+      "key": "corn",
+      "value": "el\nmaíz"
+    },
+      {
+      "key": "strawberry",
+      "value": "la\nfresa"
+    },
+    {
+      "key": "cherry",
+      "value": "la\ncereza"
+    },
+    {
+      "key": "grapes",
+      "value": "las\nuvas"
+    },
+    {
+      "key": "peach",
+      "value": "el\nmelocotón"
+    },
+    {
+      "key": "pear",
+      "value": "la\npera"
+    },
+    {
+      "key": "pineapple",
+      "value": "la\npiña"
+    },
+      {
+      "key": "raspberry",
+      "value": "la\nframbuesa"
+    },
+     {
+      "key": "french-fries",
+      "value": "las patatas\nfritas"
+    },
+    {
+      "key": "peas",
+      "value": "los\nguisantes"
+    },
+    {
+      "key": "burrito",
+      "value": "el\nburrito"
+    },
+    {
+      "key": "jelly",
+      "value": "la\ngelatina"
+    },
+      {
+      "key": "lollipop",
+      "value": "el\npirulí"
+    },
+    {
+      "key": "kiwi",
+      "value": "el\nkiwi"
+    },
+      {
+      "key": "watermelon",
+      "value": "la\nsandía"
+    },
+    {
+      "key": "avocado",
+      "value": "el\naguacate"
+    },
+    {
+      "key": "bell pepper",
+      "value": "el\npimiento"
+    },
+      {
+      "key": "pumpkin",
+      "value": "la\ncalabaza"
+    },
+     {
+      "key": "crab",
+      "value": "el\ncangrejo"
+    },
+    {
+      "key": "chili pepper",
+      "value": "el\nchile"
+    },
+      {
+      "key": "muffin",
+      "value": "el\nmuffin"
+    },
+     {
+      "key": "donut",
+      "value": "el\ndonut"
+    },
+    {
+      "key": "cupcake",
+      "value": "el\ncupcake"
+    },
+      {
+      "key": "pretzel",
+      "value": "el\nbretzel"
+    },
+    {
+      "key": "cookie",
+      "value": "la\ngalleta"
+    },
+     {
+      "key": "croissant",
+      "value": "el\ncruasán"
+    },
+    {
+      "key": "cotton candy",
+      "value": "el algodón\nde azúcar"
+    },
+    {
+      "key": "soy sauce",
+      "value": "la salsa\nde soja"
+    },
+      {
+      "key": "tuna",
+      "value": "el\natún"
+    },
+      {
+      "key": "prawn",
+      "value": "la\ngamba"
+    },
+    {
+      "key": "lobster",
+      "value": "la\nlangosta"
+    },
+    {
+      "key": "mussel",
+      "value": "el\nmejillón"
+    },
+      {
+      "key": "vinegar",
+      "value": "el\nvinagre"
+    },
+      {
+      "key": "radish",
+      "value": "el\nrábano"
+    },
+    {
+      "key": "artichoke",
+      "value": "la\nalcachofa"
+    },
+     {
+      "key": "eggplant",
+      "value": "la\nberenjena"
+    }
+
+  ]
+}

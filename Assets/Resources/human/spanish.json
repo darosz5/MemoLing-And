@@ -1,0 +1,232 @@
+﻿{
+  "items": [  
+    {
+      "key": "family",
+      "value": "la\nfamilia"
+    },
+    {
+      "key": "old",
+      "value": "viejo"
+    },
+    {
+      "key": "to walk",
+      "value": "caminar"
+    },
+    {
+      "key": "to eat",
+      "value": "comer"
+    },
+    {
+      "key": "to stand",
+      "value": "estar\nde pie"
+    },
+    {
+      "key": "to speak",
+      "value": "hablar"
+    },
+    {
+      "key": "to run",
+      "value": "correr"
+    },
+    {
+      "key": "to sit",
+      "value": "sentarse"
+    },
+    {
+      "key": "to sleep",
+      "value": "dormir"
+    },
+    {
+      "key": "to love",
+      "value": "querer"
+    },
+    {
+      "key": "happy",
+      "value": "feliz"
+    },
+    {
+      "key": "sad",
+      "value": "triste"
+    },
+    {
+      "key": "to read",
+      "value": "leer"
+    },
+    {
+      "key": "to dance",
+      "value": "bailar"
+    },
+    {
+      "key": "to talk",
+      "value": "conversar"
+    },
+    {
+      "key": "to think",
+      "value": "pensar"
+    },
+    {
+      "key": "to die",
+      "value": "morir"
+    },
+    {
+      "key": "to drive",
+      "value": "conducir"
+    },
+    {
+      "key": "to watch",
+      "value": "ver"
+    },
+    {
+      "key": "to cook",
+      "value": "cocinar"
+    },
+     {
+      "key": "to work",
+      "value": "trabajar"
+    },
+    {
+      "key": "to kiss",
+      "value": "besar"
+    },
+    {
+      "key": "to shop",
+      "value": "comprar"
+    },
+    {
+      "key": "to go to work",
+      "value": "ir\nal trabajo"
+    },
+    {
+      "key": "to relax",
+      "value": "relajar"
+    },
+    {
+      "key": "to wait",
+      "value": "esperar"
+    },
+    {
+      "key": "to travel",
+      "value": "viajar"
+    },
+    {
+      "key": "to listen to music",
+      "value": "escuchar\nmúsica"
+    },
+    {
+      "key": "parent",
+      "value": "el\npadre"
+    },
+      {
+      "key": "couple",
+      "value": "la\npareja"
+    }, 
+    {
+      "key": "child",
+      "value": "el\nhijo"
+    },
+    {
+      "key": "to fight",
+      "value": "pelear"
+    },
+    {
+      "key": "to party",
+      "value": "parrandear"
+    },
+     {
+      "key": "to win",
+      "value": "ganar"
+    },
+    {
+      "key": "to text",
+      "value": "enviar mensajes\nde texto"
+    },
+    {
+      "key": "friendship",
+      "value": "la\namistad"
+    },
+    {
+      "key": "to hug",
+      "value": "abrazarse"
+    },
+    {
+      "key": "to talk on the phone",
+      "value": "hablar\npor teléfono"
+    },
+    {
+      "key": "to take a picture",
+      "value": "tomar\nuna foto"
+    },
+    {
+      "key": "to go upstairs",
+      "value": "subir\nlas escaleras"
+    },
+    {
+      "key": "to have a birthday",
+      "value": "tener\nun cumpleaños"
+    },
+    {
+      "key": "to have a question",
+      "value": "tener\nuna pregunta"
+    },
+    {
+      "key": "to take a shower",
+      "value": "ducharse"
+    },
+    {
+      "key": "ill",
+      "value": "enfermo"
+    },
+    {
+      "key": "to exercise",
+      "value": "ejercitar"
+    },
+    {
+      "key": "to scream",
+      "value": "gritar"
+    },
+    {
+      "key": "to pray",
+      "value": "rezar"
+    },   
+    {
+      "key": "to present",
+      "value": "presentar"
+    },
+    {
+      "key": "to dress",
+      "value": "vestir"
+    },
+    {
+      "key": "marriage",
+      "value": "el\nmatrimonio"
+    },
+    {
+      "key": "disabled",
+      "value": "discapacitado"
+    },
+    {
+      "key": "to repair",
+      "value": "reparar"
+    },
+    {
+      "key": "pregnant",
+      "value": "embarazada"
+    },
+    {
+      "key": "to propose",
+      "value": "proponer\nmatrimonio"
+    },
+    {
+      "key": "to make friends",
+      "value": "hacer\namigos"
+    },
+    {
+      "key": "to earn money",
+      "value": "ganar\ndinero"
+    },
+    {
+      "key": "newborn",
+      "value": "recién\nnacido"
+    }
+  ]
+}

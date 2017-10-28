@@ -1,0 +1,100 @@
+ManifestFileVersion: 0
+CRC: 2566596714
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6d78ce25d498b0e659453a02417ff09d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21f0dc8ebad690f009368069428e0a1a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Icons/countries/italy.png
+- Assets/Icons/countries/new zealand.png
+- Assets/Icons/countries/colombia.png
+- Assets/Icons/countries/united kingdom.png
+- Assets/Icons/countries/romania.png
+- Assets/Icons/countries/switzerland.png
+- Assets/Icons/countries/india.png
+- Assets/Icons/countries/poland.png
+- Assets/Icons/countries/belgium.png
+- Assets/Icons/countries/bulgaria.png
+- Assets/Icons/countries/slovakia.png
+- Assets/Icons/countries/thailand.png
+- Assets/Icons/countries/japan.png
+- Assets/Icons/countries/mexico.png
+- Assets/Icons/countries/uganda.png
+- Assets/Icons/countries/denmark.png
+- Assets/Icons/countries/england.png
+- Assets/Icons/countries/tunisia.png
+- Assets/Icons/countries/ireland.png
+- Assets/Icons/countries/wales.png
+- Assets/Icons/countries/united arab emirates.png
+- Assets/Icons/countries/hungary.png
+- Assets/Icons/countries/belarus.png
+- Assets/Icons/countries/malaysia.png
+- Assets/Icons/countries/croatia.png
+- Assets/Icons/countries/israel.png
+- Assets/Icons/countries/afghanistan.png
+- Assets/Icons/countries/morocco.png
+- Assets/Icons/countries/tibet.png
+- Assets/Icons/countries/cuba.png
+- Assets/Icons/Categories/countries.png
+- Assets/Icons/countries/south africa.png
+- Assets/Icons/countries/vatican city.png
+- Assets/Icons/countries/nigeria.png
+- Assets/Icons/countries/north korea.png
+- Assets/Icons/countries/iraq.png
+- Assets/Icons/countries/monaco.png
+- Assets/Icons/countries/pakistan.png
+- Assets/Icons/countries/peru.png
+- Assets/Icons/countries/spain.png
+- Assets/Icons/countries/portugal.png
+- Assets/Icons/countries/ecuador.png
+- Assets/Icons/countries/serbia.png
+- Assets/Icons/countries/qatar.png
+- Assets/Icons/countries/jamaica.png
+- Assets/Icons/countries/iceland.png
+- Assets/Icons/countries/mongolia.png
+- Assets/Icons/countries/united states.png
+- Assets/Icons/countries/argentina.png
+- Assets/Icons/countries/vietnam.png
+- Assets/Icons/countries/luxembourg.png
+- Assets/Icons/countries/indonesia.png
+- Assets/Icons/countries/germany.png
+- Assets/Icons/countries/kazakhstan.png
+- Assets/Icons/countries/syria.png
+- Assets/Icons/countries/uruguay.png
+- Assets/Icons/countries/finland.png
+- Assets/Icons/countries/ukraine.png
+- Assets/Icons/countries/china.png
+- Assets/Icons/countries/chile.png
+- Assets/Icons/countries/saudi arabia.png
+- Assets/Icons/countries/egypt.png
+- Assets/Icons/countries/philippines.png
+- Assets/Icons/countries/kenya.png
+- Assets/Icons/countries/costa rica.png
+- Assets/Icons/countries/brazil.png
+- Assets/Icons/countries/norway.png
+- Assets/Icons/countries/canada.png
+- Assets/Icons/countries/austria.png
+- Assets/Icons/countries/venezuela.png
+- Assets/Icons/countries/australia.png
+- Assets/Icons/countries/greece.png
+- Assets/Icons/countries/netherlands.png
+- Assets/Icons/countries/iran.png
+- Assets/Icons/countries/scotland.png
+- Assets/Icons/countries/sweden.png
+- Assets/Icons/countries/montenegro.png
+- Assets/Icons/countries/south korea.png
+- Assets/Icons/countries/france.png
+- Assets/Icons/countries/russia.png
+- Assets/Icons/countries/european union.png
+- Assets/Icons/countries/turkey.png
+- Assets/Icons/countries/czech republic.png
+Dependencies: []

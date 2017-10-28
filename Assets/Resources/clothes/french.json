@@ -1,0 +1,240 @@
+﻿{
+  "items": [
+    {
+      "key": "hat",
+      "value": "un\nchapeau"
+    },
+    {
+      "key": "shoe",
+      "value": "une\nchaussure"
+    },
+    {
+      "key": "socks",
+      "value": "des\nchaussettes"
+    },
+    {
+      "key": "shirt",
+      "value": "une\nchemise"
+    },
+    {
+      "key": "T-shirt",
+      "value": "un\nt-shirt"
+    },
+    {
+      "key": "dress",
+      "value": "une\nrobe"
+    },
+    {
+      "key": "glasses",
+      "value": "des\nlunettes"
+    },
+    {
+      "key": "jacket",
+      "value": "une\nveste"
+    },
+    {
+      "key": "shorts",
+      "value": "un\nshort"
+    },
+    {
+      "key": "trousers",
+      "value": "un\npantalon"
+    },
+    {
+      "key": "jeans",
+      "value": "un\njean"
+    },
+    {
+      "key": "skirt",
+      "value": "une\njupe"
+    },
+    {
+      "key": "umbrella",
+      "value": "un\nparapluie"
+    },
+    {
+      "key": "underwear",
+      "value": "des\nsous-vêtements"
+    },
+    {
+      "key": "coat",
+      "value": "un\nmanteau"
+    },
+    {
+      "key": "suit",
+      "value": "un\ncostume"
+    },
+    {
+      "key": "backpack",
+      "value": "un sac\nà dos"
+    },
+    {
+      "key": "cap",
+      "value": "une\ncasquette"
+    },
+    {
+      "key": "belt",
+      "value": "une\nceinture"
+    },
+    {
+      "key": "bra",
+      "value": "un\nsoutien-gorge"
+    },
+    {
+      "key": "panties",
+      "value": "une\nculotte"
+    },
+    {
+      "key": "to hand wash",
+      "value": "laver\nà la main"
+    },
+    {
+      "key": "pyjamas",
+      "value": "un\npyjama"
+    },
+    {
+      "key": "iron",
+      "value": "un fer\nà repasser"
+    },
+    {
+      "key": "tie",
+      "value": "une\ncravate"
+    },
+    {
+      "key": "gloves",
+      "value": "des\ngants"
+    },
+    {
+      "key": "scarf",
+      "value": "une\nécharpe"
+    },
+    {
+      "key": "handbag",
+      "value": "un sac\nà main"
+    },
+    {
+      "key": "purse",
+      "value": "un\nporte-monnaie"
+    },
+    {
+      "key": "vest",
+      "value": "un\ngilet"
+    },
+    {
+      "key": "pocket watch",
+      "value": "une montre\nde poche"
+    },
+    {
+      "key": "winter hat",
+      "value": "un chapeau\nd'hiver"
+    },
+    {
+      "key": "wallet",
+      "value": "un\nportefeuille"
+    },
+    {
+      "key": "suitcase",
+      "value": "une\nvalise"
+    },
+    {
+      "key": "polo shirt",
+      "value": "un\npolo"
+    },
+    {
+      "key": "pullover",
+      "value": "un\npull-over"
+    },
+    {
+      "key": "bow tie",
+      "value": "un nœud\npapillon"
+    },
+    {
+      "key": "swimsuit",
+      "value": "un maillot\nde bain"
+    },
+    {
+      "key": "high heels",
+      "value": "des talons\naiguilles"
+    },
+    {
+      "key": "briefcase",
+      "value": "une\nserviette"
+    },
+    {
+      "key": "jersey",
+      "value": "un\ntricot"
+    },
+    {
+      "key": "bathrobe",
+      "value": "un peignoir\nde bain"
+    },
+    {
+      "key": "slippers",
+      "value": "des\npantoufles"
+    },
+    {
+      "key": "sneakers",
+      "value": "des\nbaskets"
+    },
+    {
+      "key": "portfolio",
+      "value": "une\nserviette"
+    },
+    {
+      "key": "wristwatch",
+      "value": "une\nmontre"
+    },
+    {
+      "key": "zipper",
+      "value": "un\nzip"
+    },
+    {
+      "key": "hoodie",
+      "value": "un pull\nà capuche"
+    },
+    {
+      "key": "top hat",
+      "value": "un chapeau\nhaut-de-forme"
+    },
+    {
+      "key": "overall",
+      "value": "une\nsalopette"
+    },
+    {
+      "key": "mittens",
+      "value": "des\nmoufles"
+    },
+    {
+      "key": "trench coat",
+      "value": "un\ntrench-coat"
+    },
+    {
+      "key": "bleach",
+      "value": "un agent\nblanchissant"
+    },
+    {
+      "key": "shawl",
+      "value": "un\nchâle"
+    },
+    {
+      "key": "tracksuit",
+      "value": "un\nsurvêtement"
+    },
+    {
+      "key": "cane",
+      "value": "une\ncanne"
+    },
+    {
+      "key": "monocle",
+      "value": "un\nmonocle"
+    },
+    {
+      "key": "lingerie",
+      "value": "la\nlingerie"
+    },
+    {
+      "key": "handkerchief",
+      "value": "une\nmouchoir"
+    }
+  ]
+}

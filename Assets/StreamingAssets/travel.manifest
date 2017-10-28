@@ -1,0 +1,86 @@
+ManifestFileVersion: 0
+CRC: 656867288
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1c201f62f0400a8dba44a7191e351e33
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21f0dc8ebad690f009368069428e0a1a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Icons/travel/sun cream.png
+- Assets/Icons/travel/jeep.png
+- Assets/Icons/travel/beach ball.png
+- Assets/Icons/travel/ship.png
+- Assets/Icons/travel/money.png
+- Assets/Icons/Categories/travel.png
+- Assets/Icons/travel/headphones.png
+- Assets/Icons/travel/camera.png
+- Assets/Icons/travel/cloudy.png
+- Assets/Icons/travel/jackknife.png
+- Assets/Icons/travel/towel.png
+- Assets/Icons/travel/beach.png
+- Assets/Icons/travel/credit card.png
+- Assets/Icons/travel/map.png
+- Assets/Icons/travel/fishing.png
+- Assets/Icons/travel/mountain.png
+- Assets/Icons/travel/camcorder.png
+- Assets/Icons/travel/forest.png
+- Assets/Icons/travel/trailer.png
+- Assets/Icons/travel/swimsuit.png
+- Assets/Icons/travel/sunbed.png
+- Assets/Icons/travel/doorknob hanger.png
+- Assets/Icons/travel/toothbrush.png
+- Assets/Icons/travel/snorkeling.png
+- Assets/Icons/travel/wallet.png
+- Assets/Icons/travel/bikini.png
+- Assets/Icons/travel/sunglasses.png
+- Assets/Icons/travel/sun umbrella.png
+- Assets/Icons/travel/compass.png
+- Assets/Icons/travel/life jacket.png
+- Assets/Icons/travel/picture.png
+- Assets/Icons/travel/currency exchange.png
+- Assets/Icons/travel/rain.png
+- Assets/Icons/travel/restaurant.png
+- Assets/Icons/travel/postcard.png
+- Assets/Icons/travel/hotel.png
+- Assets/Icons/travel/arrival.png
+- Assets/Icons/travel/hot air balloon.png
+- Assets/Icons/travel/flip-flops.png
+- Assets/Icons/travel/surfboard.png
+- Assets/Icons/travel/grill.png
+- Assets/Icons/travel/souvenir.png
+- Assets/Icons/travel/sunset.png
+- Assets/Icons/travel/cityscape.png
+- Assets/Icons/travel/ticket.png
+- Assets/Icons/travel/island.png
+- Assets/Icons/travel/cactus.png
+- Assets/Icons/travel/wristwatch.png
+- Assets/Icons/travel/key.png
+- Assets/Icons/travel/bicycle.png
+- Assets/Icons/travel/RV.png
+- Assets/Icons/travel/luggage.png
+- Assets/Icons/travel/lemonade.png
+- Assets/Icons/travel/train.png
+- Assets/Icons/travel/plane.png
+- Assets/Icons/travel/flippers.png
+- Assets/Icons/travel/bus.png
+- Assets/Icons/travel/passport.png
+- Assets/Icons/travel/highway.png
+- Assets/Icons/travel/lifesaver.png
+- Assets/Icons/travel/sun.png
+- Assets/Icons/travel/directions.png
+- Assets/Icons/travel/departure.png
+- Assets/Icons/travel/laptop.png
+- Assets/Icons/travel/socket.png
+- Assets/Icons/travel/binoculars.png
+- Assets/Icons/travel/beach bag.png
+- Assets/Icons/travel/reception.png
+- Assets/Icons/travel/backpack.png
+Dependencies: []

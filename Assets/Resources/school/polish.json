@@ -1,0 +1,255 @@
+﻿{
+  "items": [
+    {
+      "key": "art",
+      "value": "plastyka"
+    },
+    {
+      "key": "biology",
+      "value": "biologia"
+    },
+    {
+      "key": "blackboard",
+      "value": "tablica"
+    },
+    {
+      "key": "calculator",
+      "value": "kalkulator"
+    },
+    {
+      "key": "chair",
+      "value": "krzesło"
+    },
+    {
+      "key": "chemistry",
+      "value": "chemia"
+    },
+    {
+      "key": "clock",
+      "value": "zegar"
+    },
+    {
+      "key": "computer",
+      "value": "komputer"
+    },
+    {
+      "key": "desk",
+      "value": "ławka"
+    },
+    {
+      "key": "eraser",
+      "value": "gumka"
+    },
+    {
+      "key": "geography",
+      "value": "geografia"
+    },
+    {
+      "key": "glasses",
+      "value": "okulary"
+    },
+    {
+      "key": "glue",
+      "value": "klej"
+    },
+    {
+      "key": "history",
+      "value": "historia"
+    },
+    {
+      "key": "IT",
+      "value": "informatyka"
+    },
+    {
+      "key": "lamp",
+      "value": "lampka"
+    },
+    {
+      "key": "lesson plan",
+      "value": "plan\nlekcji"
+    },
+    {
+      "key": "lunch",
+      "value": "drugie\nśniadanie"
+    },
+    {
+      "key": "math",
+      "value": "matematyka"
+    },
+    {
+      "key": "music",
+      "value": "muzyka"
+    },
+    {
+      "key": "notebook",
+      "value": "zeszyt"
+    },
+    {
+      "key": "PE",
+      "value": "WF"
+    },
+    {
+      "key": "pen",
+      "value": "długopis"
+    },
+    {
+      "key": "pencil",
+      "value": "ołówek"
+    },
+    {
+      "key": "pendrive",
+      "value": "pendrive"
+    },
+    {
+      "key": "physics",
+      "value": "fizyka"
+    },
+    {
+      "key": "ruler",
+      "value": "linijka"
+    },
+    {
+      "key": "school",
+      "value": "szkoła"
+    },
+    {
+      "key": "scissors",
+      "value": "nożyczki"
+    },
+    {
+      "key": "student",
+      "value": "uczeń"
+    },
+    {
+      "key": "teacher",
+      "value": "nauczyciel"
+    },
+    {
+      "key": "test",
+      "value": "spawdzian"
+    },
+    {
+      "key": "book",
+      "value": "książka"
+    },
+    {
+      "key": "backpack",
+      "value": "plecak"
+    },
+    {
+      "key": "bell",
+      "value": "dzwonek"
+    },
+    {
+      "key": "globe",
+      "value": "globus"
+    },
+    {
+      "key": "headset",
+      "value": "słuchawki"
+    },
+    {
+      "key": "pencil case",
+      "value": "piórnik"
+    },
+    {
+      "key": "pencil sharpener",
+      "value": "temperówka"
+    },
+    {
+      "key": "printer",
+      "value": "drukarka"
+    },
+    {
+      "key": "school bus",
+      "value": "autobus\nszkolny"
+    },
+    {
+      "key": "sports shoe",
+      "value": "adidas"
+    },
+    {
+      "key": "map",
+      "value": "mapa"
+    },
+    {
+      "key": "microscope",
+      "value": "mikroskop"
+    },
+    {
+      "key": "mouse",
+      "value": "myszka"
+    },
+    {
+      "key": "textbook",
+      "value": "podręcznik"
+    },
+    {
+      "key": "watercolor",
+      "value": "farbki"
+    },
+    {
+      "key": "folder",
+      "value": "teczka"
+    },
+    {
+      "key": "pin",
+      "value": "pinezka"
+    },
+    {
+      "key": "adhesive tape",
+      "value": "taśma\nklejąca"
+    },
+    {
+      "key": "certificate",
+      "value": "certyfikat"
+    },
+    {
+      "key": "compasses",
+      "value": "cyrkiel"
+    },
+    {
+      "key": "felt-tip pen",
+      "value": "pisak"
+    },
+    {
+      "key": "fountain pen",
+      "value": "pióro"
+    },
+    {
+      "key": "highlighter",
+      "value": "zakreślacz"
+    },
+    {
+      "key": "ID",
+      "value": "identyfikator"
+    },
+    {
+      "key": "keyboard",
+      "value": "klawiatura"
+    },
+    {
+      "key": "lockers",
+      "value": "szafki"
+    },
+    {
+      "key": "stapler",
+      "value": "zszywacz"
+    },
+    {
+      "key": "set square",
+      "value": "ekierka"
+    },
+    {
+      "key": "puncher",
+      "value": "dziurkacz"
+    },
+    {
+      "key": "essay",
+      "value": "wypracowanie"
+    }
+   
+
+
+  ]
+}

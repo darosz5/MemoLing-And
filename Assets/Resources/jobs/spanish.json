@@ -1,0 +1,188 @@
+﻿{
+  "items": [
+     {
+      "key": "policeman",
+      "value": "el\npolicía"
+    },
+    {
+      "key": "doctor",
+      "value": "el\nmédico"
+    },
+    {
+      "key": "firefighter",
+      "value": "el\nbombero"
+    },   
+        {
+      "key": "teacher",
+      "value": "el\nprofesor"
+    },
+    {
+      "key": "chef",
+      "value": "el\ncocinero"
+    },
+    {
+      "key": "pilot",
+      "value": "el\npiloto"
+    },
+    {
+      "key": "manager",
+      "value": "el\ndirector"
+    },
+    {
+      "key": "mechanic",
+      "value": "el\nmecánico"
+    },
+    {
+      "key": "detective",
+      "value": "el\ndetective"
+    },
+        {
+      "key": "waiter",
+      "value": "el\ncamarero"
+    },
+     {
+      "key": "clown",
+      "value": "el\npayaso"
+    },
+    {
+      "key": "builder",
+      "value": "el\nconstructor"
+    },
+        {
+      "key": "driver",
+      "value": "el\nconductor"
+    },
+      {
+      "key": "programmer",
+      "value": "el\nprogramador"
+    },
+     {
+      "key": "postman",
+      "value": "el\ncartero"
+    },
+    {
+      "key": "politician",
+      "value": "el\npolítico"
+    },
+      {
+      "key": "soldier",
+      "value": "el\nsoldado"
+    },
+    {
+      "key": "nurse",
+      "value": "el\nenfermero"
+    },
+    {
+      "key": "farmer",
+      "value": "el\ngranjero"
+    },
+    {
+      "key": "DJ",
+      "value": "el\nDJ"
+    }, 
+      {
+      "key": "singer",
+      "value": "el\ncantante"
+    },
+    {
+      "key": "chemist",
+      "value": "el\nquímico"
+    },
+    {
+      "key": "secretary",
+      "value": "la\nsecretaria"
+    },
+      {
+      "key": "stewardess",
+      "value": "la\nazafata"
+    },
+      {
+      "key": "priest",
+      "value": "el\nsacerdote"
+    },
+    {
+      "key": "photographer",
+      "value": "el\nfotógrafo"
+    },
+        {
+      "key": "writer",
+      "value": "el\nescritor"
+    },
+    {
+      "key": "painter",
+      "value": "el\npintor"
+    },
+    {
+      "key": "magician",
+      "value": "el\nprestidigitador"
+    },
+    {
+      "key": "electrician",
+      "value": "el\nelectricista"
+    },
+    {
+      "key": "gardner",
+      "value": "el\njardinero"
+    },
+    {
+      "key": "hairdresser",
+      "value": "el\npeluquero"
+    },
+    {
+      "key": "fisherman",
+      "value": "el\npescador"
+    },
+    {
+      "key": "astronaut",
+      "value": "el\nastronauta"
+    },
+    {
+      "key": "athlete",
+      "value": "el\natleta"
+    },
+      {
+      "key": "sailor",
+      "value": "el\nmarinero"
+    },
+    {
+      "key": "cashier",
+      "value": "el\ncajero"
+    },
+    {
+      "key": "plumber",
+      "value": "el\nplomero"
+    },
+    {
+      "key": "miner",
+      "value": "el\nminero"
+    },
+    {
+      "key": "diver",
+      "value": "el\nsaltador"
+    },
+    {
+      "key": "courier",
+      "value": "el\nmensajero"
+    },
+    {
+      "key": "maid",
+      "value": "la\ncriada"
+    },
+    {
+      "key": "carpenter",
+      "value": "el\ncarpintero"
+    },
+    {
+      "key": "lumberjack",
+      "value": "el\nleñador"
+    },
+    {
+      "key": "concierge",
+      "value": "el\nconserje"
+    },
+    {
+      "key": "lecturer",
+      "value": "el profesor\nde universidad"
+    }
+  ]
+}

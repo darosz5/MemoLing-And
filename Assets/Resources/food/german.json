@@ -1,0 +1,317 @@
+﻿{
+  "items": [
+    {
+      "key": "apple",
+      "value": "der\nApfel"
+    },
+      {
+      "key": "pizza",
+      "value": "die\nPizza"
+    },
+    {
+      "key": "banana",
+      "value": "die\nBanane"
+    },
+    {
+      "key": "orange",
+      "value": "die\nOrange"
+    },     
+      {
+      "key": "lemon",
+      "value": "die\nZitrone"
+    },
+    {
+      "key": "drink",
+      "value": "das\nGetränk"
+    },
+      {
+      "key": "meat",
+      "value": "das\nFleisch"
+    },
+    {
+      "key": "burger",
+      "value": "der\nBurger"
+    },
+     {
+      "key": "fish",
+      "value": "der\nFisch"
+    },
+    {
+      "key": "bread",
+      "value": "das\nBrot"
+    },
+      {
+      "key": "rice",
+      "value": "der\nReis"
+    },
+    {
+      "key": "carrot",
+      "value": "die\nKarotte"
+    },
+      {
+      "key": "salad",
+      "value": "der\nSalat"
+    },
+    {
+      "key": "salt",
+      "value": "das\nSalz"
+    },
+    {
+      "key": "pepper",
+      "value": "der\nPfeffer"
+    },
+      {
+      "key": "popcorn",
+      "value": "das\nPopcorn"
+    },
+    {
+      "key": "bacon",
+      "value": "der\nSpeck"
+    },
+    {
+      "key": "cheese",
+      "value": "der\nKäse"
+    },
+    {
+      "key": "onion",
+      "value": "die\nZwiebel"
+    },
+      {
+      "key": "sandwich",
+      "value": "das\nButterbrot"
+    },
+      {
+      "key": "ketchup",
+      "value": "der\nKetchup"
+    },
+    {
+      "key": "chicken leg",
+      "value": "die\nHühnerkeule"
+    },
+    {
+      "key": "roast chicken",
+      "value": "das\nBrathähnchen"
+    },
+      {
+      "key": "soup",
+      "value": "die\nSuppe"
+    },
+      {
+      "key": "noodles",
+      "value": "Nudeln"
+    },
+      {
+      "key": "ice cream",
+      "value": "das\nEis"
+    },
+    {
+      "key": "honey",
+      "value": "der\nHonig"
+    },
+      {
+      "key": "yoghurt",
+      "value": "der\nJogurt"
+    },
+      {
+      "key": "pie",
+      "value": "der\nKuchen"
+    },
+    {
+      "key": "cake",
+      "value": "die\nTorte"
+    },
+     {
+      "key": "chocolate",
+      "value": "die\nSchokolade"
+    },
+    {
+      "key": "boiled egg",
+      "value": "hart\ngekochtes Ei"
+    },
+    {
+      "key": "fried-egg",
+      "value": "das\nSpiegelei"
+    },
+    {
+      "key": "mushroom",
+      "value": "der\nPilz"
+    },
+      {
+      "key": "olives",
+      "value": "Oliven"
+    },
+    {
+      "key": "olive oil",
+      "value": "das\nOlivenöl"
+    },
+    {
+      "key": "tomato",
+      "value": "die\nTomate"
+    },
+    {
+      "key": "candy",
+      "value": "das\nBonbon"
+    },
+      {
+      "key": "jam",
+      "value": "die\nMarmelade"
+    },
+    {
+      "key": "broccoli",
+      "value": "der\nBroccoli"
+    },
+    {
+      "key": "lettuce",
+      "value": "der\nSalat"
+    },
+      {
+      "key": "pasta",
+      "value": "Nudeln"
+    },
+    {
+      "key": "corn",
+      "value": "der\nMais"
+    },
+      {
+      "key": "strawberry",
+      "value": "die\nErdbeere"
+    },
+    {
+      "key": "cherry",
+      "value": "die\nKirsche"
+    },
+    {
+      "key": "grapes",
+      "value": "Trauben"
+    },
+    {
+      "key": "peach",
+      "value": "der\nPfirsich"
+    },
+    {
+      "key": "pear",
+      "value": "die\nBirne"
+    },
+    {
+      "key": "pineapple",
+      "value": "die\nAnanas"
+    },
+      {
+      "key": "raspberry",
+      "value": "die\nHimbeere"
+    },
+     {
+      "key": "french-fries",
+      "value": "Pommes\nfrites"
+    },
+    {
+      "key": "peas",
+      "value": "Erbsen"
+    },
+    {
+      "key": "burrito",
+      "value": "der\nBurrito"
+    },
+    {
+      "key": "jelly",
+      "value": "der\nWackelpudding"
+    },
+      {
+      "key": "lollipop",
+      "value": "der\nLutscher"
+    },
+    {
+      "key": "kiwi",
+      "value": "die\nKiwi"
+    },
+      {
+      "key": "watermelon",
+      "value": "die\nWassermelone"
+    },
+    {
+      "key": "avocado",
+      "value": "die\nAvocado"
+    },
+    {
+      "key": "bell pepper",
+      "value": "die\nPaprika"
+    },
+      {
+      "key": "pumpkin",
+      "value": "der\nKürbis"
+    },
+     {
+      "key": "crab",
+      "value": "die\nKrabbe"
+    },
+    {
+      "key": "chili pepper",
+      "value": "der\nChili"
+    },
+      {
+      "key": "muffin",
+      "value": "das\nMuffin"
+    },
+     {
+      "key": "donut",
+      "value": "der\nDonut"
+    },
+    {
+      "key": "cupcake",
+      "value": "der\nCupcake"
+    },
+      {
+      "key": "pretzel",
+      "value": "die\nBrezel"
+    },
+    {
+      "key": "cookie",
+      "value": "der\nKeks"
+    },
+     {
+      "key": "croissant",
+      "value": "das\nCroissant"
+    },
+    {
+      "key": "cotton candy",
+      "value": "die\nZuckerwatte"
+    },
+    {
+      "key": "soy sauce",
+      "value": "die\nSojasoße"
+    },
+      {
+      "key": "tuna",
+      "value": "der\nTunfisch"
+    },
+      {
+      "key": "prawn",
+      "value": "die\nGarnele"
+    },
+    {
+      "key": "lobster",
+      "value": "der\nHummer"
+    },
+    {
+      "key": "mussel",
+      "value": "die\nMuschel"
+    },
+      {
+      "key": "vinegar",
+      "value": "der\nEssig"
+    },
+      {
+      "key": "radish",
+      "value": "das\nRadieschen"
+    },
+    {
+      "key": "artichoke",
+      "value": "die\nArtischocke"
+    },
+     {
+      "key": "eggplant",
+      "value": "die\nAubergine"
+    }
+
+  ]
+}

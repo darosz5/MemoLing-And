@@ -1,0 +1,247 @@
+﻿{
+  "items": [
+    {
+      "key": "bed",
+      "value": "łóżko"
+    },
+    {
+      "key": "chair",
+      "value": "krzesło"
+    },
+    {
+      "key": "table",
+      "value": "stół"
+    },
+    {
+      "key": "lamp",
+      "value": "lampa"
+    },
+    {
+      "key": "desk",
+      "value": "biurko"
+    },
+    {
+      "key": "flower",
+      "value": "kwiatek"
+    },
+    {
+      "key": "phone",
+      "value": "telefon"
+    },
+    {
+      "key": "window",
+      "value": "okno"
+    },
+    {
+      "key": "wall",
+      "value": "ściana"
+    },
+    {
+      "key": "microwave",
+      "value": "mikrofalówka"
+    },
+{
+      "key": "wardrobe",
+      "value": "szafa"
+    },
+    {
+      "key": "TV",
+      "value": "telewizor"
+    },
+    {
+      "key": "toilet",
+      "value": "toaleta"
+    },
+    {
+      "key": "plate",
+      "value": "talerz"
+    },
+    {
+      "key": "fork",
+      "value": "widelec"
+    },
+    {
+      "key": "spoon",
+      "value": "łyżka"
+    },
+    {
+      "key": "mixer",
+      "value": "mikser"
+    },
+    {
+      "key": "bottle",
+      "value": "butelka"
+    },
+    {
+      "key": "glass",
+      "value": "kieliszek"
+    },
+    {
+      "key": "mirror",
+      "value": "lustro"
+    },
+    {
+      "key": "carpet",
+      "value": "dywan"
+    },
+    {
+      "key": "key",
+      "value": "klucz"
+    },
+    {
+      "key": "knife",
+      "value": "nóż"
+    },
+    {
+      "key": "cup of coffee",
+      "value": "filiżanka\nkawy"
+    },
+    {
+      "key": "hammer",
+      "value": "młotek"
+    },
+    {
+      "key": "alarm clock",
+      "value": "budzik"
+    },
+    {
+      "key": "blender",
+      "value": "blender"
+    },
+    {
+      "key": "pot",
+      "value": "garnek"
+    },
+    {
+      "key": "shower",
+      "value": "prysznic"
+    },
+    {
+      "key": "pan",
+      "value": "patelnia"
+    },
+    {
+      "key": "sofa",
+      "value": "sofa"
+    },
+    {
+      "key": "coffee maker",
+      "value": "ekspres\ndo kawy"
+    },
+    {
+      "key": "garbage bin",
+      "value": "kubeł\nna śmieci"
+    },
+    {
+      "key": "armchair",
+      "value": "fotel"
+    },
+    {
+      "key": "bowl",
+      "value": "miska"
+    },
+    {
+      "key": "teapot",
+      "value": "dzbanek\ndo herbaty"
+    },
+{
+      "key": "curtain",
+      "value": "zasłona"
+    },
+    {
+      "key": "oven",
+      "value": "piec"
+    },
+    {
+      "key": "fridge",
+      "value": "lodówka"
+    },
+    {
+      "key": "fireplace",
+      "value": "kominek"
+    },
+    {
+      "key": "fan",
+      "value": "wiatrak"
+    },
+    {
+      "key": "light bulb",
+      "value": "żarówka"
+    },
+    {
+      "key": "coat stand",
+      "value": "wieszak"
+    },
+    {
+      "key": "bathtub",
+      "value": "wanna"
+    },
+    {
+      "key": "fence",
+      "value": "płot"
+    },
+    {
+      "key": "sink",
+      "value": "zlew"
+    },
+    {
+      "key": "scales",
+      "value": "waga"
+    },
+    {
+      "key": "washing machine",
+      "value": "pralka"
+    },
+    {
+      "key": "espresso maker",
+      "value": "kawiarka"
+    },
+    {
+      "key": "hair dryer",
+      "value": "suszarka"
+    },
+    {
+      "key": "vaccum cleaner",
+      "value": "odkurzacz"
+    },
+    {
+      "key": "ladle",
+      "value": "chochla"
+    },
+    {
+      "key": "spatula",
+      "value": "łopatka"
+    },
+    {
+      "key": "stool",
+      "value": "stołek"
+    },
+    {
+      "key": "nightstand",
+      "value": "szafka\nnocna"
+    },
+    {
+      "key": "socket",
+      "value": "gniazdko"
+    },
+    {
+      "key": "cutlery",
+      "value": "sztućce"
+    },
+    {
+      "key": "tap",
+      "value": "kran"
+    },
+    {
+      "key": "chest of drawers",
+      "value": "komoda"
+    },
+    {
+      "key": "mortar",
+      "value": "moździerz"
+    }
+
+
+
+  ]
+}

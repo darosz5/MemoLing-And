@@ -1,0 +1,77 @@
+ManifestFileVersion: 0
+CRC: 3842352290
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1a53d263d6af30de127423d6b098e2cf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21f0dc8ebad690f009368069428e0a1a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Icons/clothes/bathrobe.png
+- Assets/Icons/clothes/cane.png
+- Assets/Icons/clothes/wallet.png
+- Assets/Icons/clothes/shirt.png
+- Assets/Icons/clothes/top hat.png
+- Assets/Icons/clothes/monocle.png
+- Assets/Icons/clothes/zipper.png
+- Assets/Icons/clothes/overall.png
+- Assets/Icons/clothes/handbag.png
+- Assets/Icons/clothes/belt.png
+- Assets/Icons/clothes/shorts.png
+- Assets/Icons/clothes/bleach.png
+- Assets/Icons/clothes/slippers.png
+- Assets/Icons/clothes/wristwatch.png
+- Assets/Icons/clothes/shoe.png
+- Assets/Icons/clothes/coat.png
+- Assets/Icons/clothes/T-shirt.png
+- Assets/Icons/clothes/hoodie.png
+- Assets/Icons/clothes/jeans.png
+- Assets/Icons/clothes/dress.png
+- Assets/Icons/clothes/skirt.png
+- Assets/Icons/clothes/bow tie.png
+- Assets/Icons/clothes/socks.png
+- Assets/Icons/clothes/trousers.png
+- Assets/Icons/clothes/high heels.png
+- Assets/Icons/clothes/trench coat.png
+- Assets/Icons/clothes/swimsuit.png
+- Assets/Icons/clothes/panties.png
+- Assets/Icons/clothes/boot.png
+- Assets/Icons/clothes/cap.png
+- Assets/Icons/clothes/shawl.png
+- Assets/Icons/clothes/portfolio.png
+- Assets/Icons/clothes/handkerchief.png
+- Assets/Icons/clothes/scarf.png
+- Assets/Icons/clothes/lingerie.png
+- Assets/Icons/clothes/backpack.png
+- Assets/Icons/clothes/purse.png
+- Assets/Icons/clothes/sneakers.png
+- Assets/Icons/clothes/underwear.png
+- Assets/Icons/clothes/bra.png
+- Assets/Icons/clothes/vest.png
+- Assets/Icons/clothes/jacket.png
+- Assets/Icons/clothes/mittens.png
+- Assets/Icons/clothes/tracksuit.png
+- Assets/Icons/clothes/jersey.png
+- Assets/Icons/clothes/gloves.png
+- Assets/Icons/clothes/iron.png
+- Assets/Icons/clothes/winter hat.png
+- Assets/Icons/clothes/glasses.png
+- Assets/Icons/clothes/umbrella.png
+- Assets/Icons/clothes/suit.png
+- Assets/Icons/clothes/pocket watch.png
+- Assets/Icons/clothes/pyjamas.png
+- Assets/Icons/clothes/pullover.png
+- Assets/Icons/clothes/suitcase.png
+- Assets/Icons/clothes/polo shirt.png
+- Assets/Icons/clothes/briefcase.png
+- Assets/Icons/clothes/tie.png
+- Assets/Icons/clothes/to hand wash.png
+- Assets/Icons/clothes/hat.png
+Dependencies: []

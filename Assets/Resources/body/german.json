@@ -1,0 +1,242 @@
+﻿{
+  "items": [
+    {
+      "key": "head",
+      "value": "der\nKopf"
+    },
+    {
+      "key": "leg",
+      "value": "das\nBein"
+    },
+    {
+      "key": "heart",
+      "value": "das\nHerz"
+    },
+    {
+      "key": "nose",
+      "value": "die\nNase"
+    },
+    {
+      "key": "hand",
+      "value": "die\nHand"
+    },
+    {
+      "key": "mouth",
+      "value": "der\nMund"
+    },
+    {
+      "key": "eye",
+      "value": "das\nAuge"
+    },
+    {
+      "key": "ear",
+      "value": "das\nOhr"
+    },
+    {
+      "key": "hair",
+      "value": "Haare"
+    },
+    {
+      "key": "foot",
+      "value": "der\nFuß"
+    },
+    {
+      "key": "finger",
+      "value": "der\nFinger"
+    },
+    {
+      "key": "tooth",
+      "value": "der\nZahn"
+    },
+    {
+      "key": "teeth",
+      "value": "Zähne"
+    },
+    {
+      "key": "bone",
+      "value": "der\nKnochen"
+    },
+    {
+      "key": "muscle",
+      "value": "der\nMuskel"
+    },
+    {
+      "key": "brain",
+      "value": "das\nGehirn"
+    },
+    {
+      "key": "back",
+      "value": "der\nRücken"
+    },
+    {
+      "key": "elbow",
+      "value": "der\nEllenbogen"
+    },
+    {
+      "key": "neck",
+      "value": "der\nHals"
+    },
+    {
+      "key": "eyebrow",
+      "value": "die\nAugenbraue"
+    },
+    {
+      "key": "tongue",
+      "value": "die\nZunge"
+    },
+    {
+      "key": "eyelashes",
+      "value": "Wimpern"
+    },
+    {
+      "key": "nail",
+      "value": "der\nNagel"
+    },
+    {
+      "key": "DNA",
+      "value": "die\nDNA"
+    },
+    {
+      "key": "chest",
+      "value": "die\nBrust"
+    },
+    {
+      "key": "shoulder",
+      "value": "die\nSchulter"
+    },
+    {
+      "key": "stomach",
+      "value": "der\nMagen"
+    },
+    {
+      "key": "moustache",
+      "value": "der\nSchnurrbart"
+    },
+    {
+      "key": "ankle",
+      "value": "der\nFußknöchel"
+    },
+    {
+      "key": "knee",
+      "value": "das\nKnie"
+    },
+    {
+      "key": "skull",
+      "value": "der\nSchädel"
+    },
+    {
+      "key": "palm",
+      "value": "die\nHandfläche"
+    },
+    {
+      "key": "toe",
+      "value": "der\nZeh"
+    },
+    {
+      "key": "cell",
+      "value": "die\nZelle"
+    },
+    {
+      "key": "liver",
+      "value": "die\nLeber"
+    },
+    {
+      "key": "lungs",
+      "value": "die Lunge"
+    },
+    {
+      "key": "hip",
+      "value": "die\nHüfte"
+    },
+    {
+      "key": "ribs",
+      "value": "Rippen"
+    },
+    {
+      "key": "spine",
+      "value": "die\nWirbelsäule"
+    },
+    {
+      "key": "kidneys",
+      "value": "Nieren"
+    },
+    {
+      "key": "small intestine",
+      "value": "der\nDünndarm"
+    },
+    {
+      "key": "joint",
+      "value": "das\nGelenk"
+    },
+    {
+      "key": "buttocks",
+      "value": "Pobacken"
+    },
+    {
+      "key": "calves",
+      "value": "Waden"
+    },
+    {
+      "key": "chromosomes",
+      "value": "Chromosomen"
+    },
+    {
+      "key": "fingerprint",
+      "value": "der\nFingerabdruck"
+    },
+    {
+      "key": "blood vessel",
+      "value": "das\nBlutgefäß"
+    },
+    {
+      "key": "spleen",
+      "value": "die\nMilz"
+    },
+    {
+      "key": "bladder",
+      "value": "die\nBlase"
+    },
+    {
+      "key": "fertilization",
+      "value": "die\nBefruchtung"
+    },
+    {
+      "key": "tonsils",
+      "value": "Mandeln"
+    },
+    {
+      "key": "neuron",
+      "value": "das\nNeuron"
+    },
+    {
+      "key": "fetus",
+      "value": "der\nFetus"
+    },
+    {
+      "key": "trachea",
+      "value": "die\nLuftröhre"
+    },
+    {
+      "key": "uterus",
+      "value": "die\nGebärmutter"
+    },
+    {
+      "key": "digestive system",
+      "value": "das\nVerdauungs-\nsystem"
+    },
+    {
+      "key": "large intestine",
+      "value": "der\nDickdarm"
+    },
+    {
+      "key": "respiratory system",
+      "value": "das\nAtmungs-\nsystem"
+    },
+    {
+      "key": "vertebra",
+      "value": "der\nWirbel"
+    }
+
+
+  ]
+}

@@ -1,0 +1,317 @@
+﻿{
+  "items": [
+    {
+      "key": "apple",
+      "value": "jabłko"
+    },
+      {
+      "key": "pizza",
+      "value": "pizza"
+    },
+    {
+      "key": "banana",
+      "value": "banan"
+    },
+    {
+      "key": "orange",
+      "value": "pomarańcza"
+    },     
+      {
+      "key": "lemon",
+      "value": "cytryna"
+    },
+    {
+      "key": "drink",
+      "value": "napój"
+    },
+      {
+      "key": "meat",
+      "value": "mięso"
+    },
+    {
+      "key": "burger",
+      "value": "burger"
+    },
+     {
+      "key": "fish",
+      "value": "ryba"
+    },
+    {
+      "key": "bread",
+      "value": "chleb"
+    },
+      {
+      "key": "rice",
+      "value": "ryż"
+    },
+    {
+      "key": "carrot",
+      "value": "marchewka"
+    },
+      {
+      "key": "salad",
+      "value": "sałatka"
+    },
+    {
+      "key": "salt",
+      "value": "sól"
+    },
+    {
+      "key": "pepper",
+      "value": "pieprz"
+    },
+      {
+      "key": "popcorn",
+      "value": "popcorn"
+    },
+    {
+      "key": "bacon",
+      "value": "bekon"
+    },
+    {
+      "key": "cheese",
+      "value": "ser"
+    },
+    {
+      "key": "onion",
+      "value": "cebula"
+    },
+      {
+      "key": "sandwich",
+      "value": "kanapka"
+    },
+      {
+      "key": "ketchup",
+      "value": "keczup"
+    },
+    {
+      "key": "chicken leg",
+      "value": "nóżka\nz kurczaka"
+    },
+    {
+      "key": "roast chicken",
+      "value": "pieczony\nkurczak"
+    },
+      {
+      "key": "soup",
+      "value": "zupa"
+    },
+      {
+      "key": "noodles",
+      "value": "makaron"
+    },
+      {
+      "key": "ice cream",
+      "value": "lody"
+    },
+    {
+      "key": "honey",
+      "value": "miód"
+    },
+      {
+      "key": "yoghurt",
+      "value": "jogurt"
+    },
+      {
+      "key": "pie",
+      "value": "placek"
+    },
+    {
+      "key": "cake",
+      "value": "tort" 
+    },
+     {
+      "key": "chocolate",
+      "value": "czekolada"
+    },
+    {
+      "key": "boiled egg",
+      "value": "jajko\nna twardo"
+    },
+    {
+      "key": "fried-egg",
+      "value": "jajko\nsadzone"
+    },
+    {
+      "key": "mushroom",
+      "value": "grzyb"
+    },
+      {
+      "key": "olives",
+      "value": "oliwki"
+    },
+    {
+      "key": "olive oil",
+      "value": "oliwa\nz oliwek"
+    },
+    {
+      "key": "tomato",
+      "value": "pomidor"
+    },
+    {
+      "key": "candy",
+      "value": "cukierek"
+    },
+      {
+      "key": "jam",
+      "value": "dżem"
+    },
+    {
+      "key": "broccoli",
+      "value": "brokuł"
+    },
+    {
+      "key": "lettuce",
+      "value": "sałata"
+    },
+      {
+      "key": "pasta",
+      "value": "makaron"
+    },
+    {
+      "key": "corn",
+      "value": "kukurydza"
+    },
+      {
+      "key": "strawberry",
+      "value": "truskawka"
+    },
+    {
+      "key": "cherry",
+      "value": "wiśnia"
+    },
+    {
+      "key": "grapes",
+      "value": "winogrona"
+    },
+    {
+      "key": "peach",
+      "value": "brzoskwinia"
+    },
+    {
+      "key": "pear",
+      "value": "gruszka"
+    },
+    {
+      "key": "pineapple",
+      "value": "ananas"
+    },
+      {
+      "key": "raspberry",
+      "value": "malina"
+    },
+     {
+      "key": "french-fries",
+      "value": "frytki"
+    },
+    {
+      "key": "peas",
+      "value": "groszek"
+    },
+    {
+      "key": "burrito",
+      "value": "burrito"
+    },
+    {
+      "key": "jelly",
+      "value": "galaretka"
+    },
+      {
+      "key": "lollipop",
+      "value": "lizak"
+    },
+    {
+      "key": "kiwi",
+      "value": "kiwi"
+    },
+      {
+      "key": "watermelon",
+      "value": "arbuz"
+    },
+    {
+      "key": "avocado",
+      "value": "awokado"
+    },
+    {
+      "key": "bell pepper",
+      "value": "papryka"
+    },
+      {
+      "key": "pumpkin",
+      "value": "dynia"
+    },
+     {
+      "key": "crab",
+      "value": "krab"
+    },
+    {
+      "key": "chili pepper",
+      "value": "papryka\nchili"
+    },
+      {
+      "key": "muffin",
+      "value": "muffinek"
+    },
+     {
+      "key": "donut",
+      "value": "pączek"
+    },
+    {
+      "key": "cupcake",
+      "value": "babeczka"
+    },
+      {
+      "key": "pretzel",
+      "value": "precel"
+    },
+    {
+      "key": "cookie",
+      "value": "ciasteczko"
+    },
+     {
+      "key": "croissant",
+      "value": "rogal"
+    },
+    {
+      "key": "cotton candy",
+      "value": "wata\ncukrowa"
+    },
+    {
+      "key": "soy sauce",
+      "value": "sos\nsojowy"
+    },
+      {
+      "key": "tuna",
+      "value": "tuńczyk"
+    },
+      {
+      "key": "prawn",
+      "value": "krewetka"
+    },
+    {
+      "key": "lobster",
+      "value": "homar"
+    },
+    {
+      "key": "mussel",
+      "value": "małż"
+    },
+      {
+      "key": "vinegar",
+      "value": "ocet"
+    },
+      {
+      "key": "radish",
+      "value": "rzodkiewka"
+    },
+    {
+      "key": "artichoke",
+      "value": "karczoch"
+    },
+     {
+      "key": "eggplant",
+      "value": "bakłażan"
+    }
+
+  ]
+}

@@ -1,0 +1,242 @@
+﻿{
+  "items": [
+    {
+      "key": "head",
+      "value": "la\ncabeza"
+    },
+    {
+      "key": "leg",
+      "value": "la\npierna"
+    },
+    {
+      "key": "heart",
+      "value": "el\ncorazón"
+    },
+    {
+      "key": "nose",
+      "value": "la\nnariz"
+    },
+    {
+      "key": "hand",
+      "value": "la\nmano"
+    },
+    {
+      "key": "mouth",
+      "value": "la\nboca"
+    },
+    {
+      "key": "eye",
+      "value": "el\nojo"
+    },
+    {
+      "key": "ear",
+      "value": "la\noreja"
+    },
+    {
+      "key": "hair",
+      "value": "el\npelo"
+    },
+    {
+      "key": "foot",
+      "value": "el\npie"
+    },
+    {
+      "key": "finger",
+      "value": "el\ndedo"
+    },
+    {
+      "key": "tooth",
+      "value": "el\ndiente"
+    },
+    {
+      "key": "teeth",
+      "value": "los\ndientes"
+    },
+    {
+      "key": "bone",
+      "value": "el\nhueso"
+    },
+    {
+      "key": "muscle",
+      "value": "el\nmúsculo"
+    },
+    {
+      "key": "brain",
+      "value": "el\ncerebro"
+    },
+    {
+      "key": "back",
+      "value": "la\nespalda"
+    },
+    {
+      "key": "elbow",
+      "value": "el\ncodo"
+    },
+    {
+      "key": "neck",
+      "value": "el\ncuello"
+    },
+    {
+      "key": "eyebrow",
+      "value": "la\nceja"
+    },
+    {
+      "key": "tongue",
+      "value": "la\nlengua"
+    },
+    {
+      "key": "eyelashes",
+      "value": "las\npestañas"
+    },
+    {
+      "key": "nail",
+      "value": "el\nclavo"
+    },
+    {
+      "key": "DNA",
+      "value": "el\nADN"
+    },
+    {
+      "key": "chest",
+      "value": "el\npecho"
+    },
+    {
+      "key": "shoulder",
+      "value": "el\nhombro"
+    },
+    {
+      "key": "stomach",
+      "value": "el\nestómago"
+    },
+    {
+      "key": "moustache",
+      "value": "el\nbigote"
+    },
+    {
+      "key": "ankle",
+      "value": "el\ntobillo"
+    },
+    {
+      "key": "knee",
+      "value": "la\nrodilla"
+    },
+    {
+      "key": "skull",
+      "value": "el\ncráneo"
+    },
+    {
+      "key": "palm",
+      "value": "la\npalma"
+    },
+    {
+      "key": "toe",
+      "value": "el dedo\ndel pie"
+    },
+    {
+      "key": "cell",
+      "value": "la\ncélula"
+    },
+    {
+      "key": "liver",
+      "value": "el\nhígado"
+    },
+    {
+      "key": "lungs",
+      "value": "los\npulmones"
+    },
+    {
+      "key": "hip",
+      "value": "la\ncadera"
+    },
+    {
+      "key": "ribs",
+      "value": "la\ncostilla"
+    },
+    {
+      "key": "spine",
+      "value": "la columna\nvertebral"
+    },
+    {
+      "key": "kidneys",
+      "value": "los\nriñones"
+    },
+    {
+      "key": "small intestine",
+      "value": "el intestino\ndelgado"
+    },
+    {
+      "key": "joint",
+      "value": "la\narticulación"
+    },
+    {
+      "key": "buttocks",
+      "value": "las\n nalgas"
+    },
+    {
+      "key": "calves",
+      "value": "las\npantorrillas"
+    },
+    {
+      "key": "chromosomes",
+      "value": "los\ncromosomas"
+    },
+    {
+      "key": "fingerprint",
+      "value": "la huella\ndactilar"
+    },
+    {
+      "key": "blood vessel",
+      "value": "el vaso\nsanguíneo"
+    },
+    {
+      "key": "spleen",
+      "value": "el\nbazo"
+    },
+    {
+      "key": "bladder",
+      "value": "la\nvejiga"
+    },
+    {
+      "key": "fertilization",
+      "value": "la\nfecundación"
+    },
+    {
+      "key": "tonsils",
+      "value": "las\namígdalas"
+    },
+    {
+      "key": "neuron",
+      "value": "la\nneurona"
+    },
+    {
+      "key": "fetus",
+      "value": "el\nfeto"
+    },
+    {
+      "key": "trachea",
+      "value": "la\ntráquea"
+    },
+    {
+      "key": "uterus",
+      "value": "el\nútero"
+    },
+    {
+      "key": "digestive system",
+      "value": "el aparato\ndigestivoy"
+    },
+    {
+      "key": "large intestine",
+      "value": "el intestino\ngrueso"
+    },
+    {
+      "key": "respiratory system",
+      "value": "el aparato\nrespiratorio"
+    },
+    {
+      "key": "vertebra",
+      "value": "la\nvértebra"
+    }
+
+
+  ]
+}

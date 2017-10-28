@@ -1,0 +1,335 @@
+﻿{
+  "items": [
+      {
+      "key": "dog",
+      "value": "der\nHund"
+    },
+
+    {
+      "key": "cat",
+      "value": "die\nKatze"
+    },
+      {
+      "key": "horse",
+      "value": "das\nPferd"
+    },
+  {
+      "key": "fish",
+      "value": "der\nFisch"
+    },
+    {
+      "key": "cow",
+      "value": "die\nKuh"
+    },
+
+    {
+      "key": "bird",
+      "value": "der\nVogel"
+    },
+    {
+      "key": "mouse",
+      "value": "die\nMaus"
+    },
+    {
+      "key": "sheep",
+      "value": "das\nSchaf"
+    },
+    {
+      "key": "pig",
+      "value": "das\nSchwein"
+    },
+    {
+      "key": "lion",
+      "value": "der\nLöwe"
+    },
+
+    {
+      "key": "tiger",
+      "value": "der\nTiger"
+    },
+    {
+      "key": "monkey",
+      "value": "der\nAffe"
+    },
+    {
+      "key": "elephant",
+      "value": "der\nElefant"
+    },
+    {
+      "key": "dolphin",
+      "value": "der\nDelfin"
+    },
+
+    {
+      "key": "snake",
+      "value": "die\nSchlange"
+    },
+    {
+      "key": "bear",
+      "value": "der\nBär"
+    },
+    {
+      "key": "frog",
+      "value": "der\nFrosch"
+    },
+    {
+      "key": "panda",
+      "value": "der\nPanda"
+    },
+    {
+      "key": "chicken",
+      "value": "das\nHuhn"
+    },
+    {
+      "key": "bat",
+      "value": "die\nFledermaus"
+    },
+    {
+      "key": "rabbit",
+      "value": "das\nKaninchen"
+    },
+
+    {
+      "key": "duck",
+      "value": "die\nEnte"
+    },
+    {
+      "key": "crocodile",
+      "value": "das\nKrokodil"
+    },
+    {
+      "key": "spider",
+      "value": "die\nSpinne"
+    },
+    {
+      "key": "bee",
+      "value": "die\nBiene"
+    },
+    {
+      "key": "hamster",
+      "value": "der\nHamster"
+    },
+    {
+      "key": "zebra",
+      "value": "das\nZebra"
+    },
+    {
+      "key": "butterfly",
+      "value": "der\nSchmetterling"
+    },
+    {
+      "key": "donkey",
+      "value": "der\nEsel"
+    },
+    {
+      "key": "wolf",
+      "value": "der\nWolf"
+    },
+    {
+      "key": "fox",
+      "value": "der\nFuchs"
+    },
+    {
+      "key": "gorilla",
+      "value": "der\nGorilla"
+    },
+    {
+      "key": "parrot",
+      "value": "der\nPapagei"
+    },
+
+    {
+      "key": "goat",
+      "value": "die\nZiege"
+    },
+    {
+      "key": "koala",
+      "value": "der\nKoala"
+    },
+    {
+      "key": "crab",
+      "value": "die\nKrabbe"
+    },
+    {
+      "key": "snail",
+      "value": "die\nSchnecke"
+    },
+    {
+      "key": "scorpion",
+      "value": "der\nSkorpion"
+    },
+    {
+      "key": "kangaroo",
+      "value": "das\nKänguru"
+    },
+    {
+      "key": "panther",
+      "value": "der\nPanther"
+    },
+    {
+      "key": "giraffe",
+      "value": "die\nGiraffe"
+    },
+    {
+      "key": "turtle",
+      "value": "die\nSchildkröte"
+    },
+    {
+      "key": "penguin",
+      "value": "der\nPinguin"
+    },
+    {
+      "key": "deer",
+      "value": "der\nHirsch"
+    },
+    {
+      "key": "camel",
+      "value": "das\nKamel"
+    },
+    {
+      "key": "hippopotamus",
+      "value": "das\nNilpferd"
+    },
+{
+      "key": "antelope",
+      "value": "die\nAntilope"
+    },
+    {
+      "key": "flamingo",
+      "value": "der\nFlamingo"
+    },
+
+    {
+      "key": "toad",
+      "value": "die\nKröte"
+    },
+    {
+      "key": "owl",
+      "value": "die\nEule"
+    },
+    {
+      "key": "rhinoceros",
+      "value": "das\nNashorn"
+    },
+    {
+      "key": "squirrel",
+      "value": "das\nEichhörnchen"
+    },
+    {
+      "key": "toucan",
+      "value": "der\nTukan"
+    },
+    {
+      "key": "hyena",
+      "value": "die\nHyäne"
+    },
+    {
+      "key": "beetle",
+      "value": "der\nKäfer"
+    },
+    {
+      "key": "hedgehog",
+      "value": "der\nIgel"
+    },
+
+    {
+      "key": "seal",
+      "value": "die\nRobbe"
+    },
+    {
+      "key": "bison",
+      "value": "der\nBison"
+    },
+     {
+      "key": "skunk",
+      "value": "das\nStinktier"
+    },
+    {
+      "key": "kiwi",
+      "value": "der\nKiwi"
+    },
+    {
+      "key": "crow",
+      "value": "die\nKrähe"
+    },
+    {
+      "key": "cheetah",
+      "value": "der\nGepard"
+    },
+    {
+      "key": "lizard",
+      "value": "die\nEidechse"
+    },
+    {
+      "key": "moose",
+      "value": "der\nElch"
+    },
+    {
+      "key": "whale",
+      "value": "der\nWal"
+    },
+
+    {
+      "key": "mole",
+      "value": "der\nMaulwurf"
+    },
+    {
+      "key": "ostrich",
+      "value": "der\nStrauß"
+    },
+    {
+      "key": "jellyfish",
+      "value": "die\nQualle"
+    },
+    {
+      "key": "clam",
+      "value": "die\nMuschel"
+    },
+    {
+      "key": "starfish",
+      "value": "der\nSeestern"
+    },
+    {
+      "key": "racoon",
+      "value": "der\nWaschbär"
+    },
+    {
+      "key": "coral",
+      "value": "die\nKoralle"
+    },
+    {
+      "key": "badger",
+      "value": "der\nDachs"
+    },
+    {
+      "key": "weasel",
+      "value": "das\nWiesel"
+    },
+    {
+      "key": "wolverine",
+      "value": "der\nVielfraß"
+    },
+    {
+      "key": "armadillo",
+      "value": "das\nGürteltier"
+    },
+    {
+      "key": "alpaca",
+      "value": "das\nAlpaka"
+    },
+    {
+      "key": "boar",
+      "value": "das\nWildschwein"
+    },
+    {
+      "key": "puffer fish",
+      "value": "der\nKugelfisch"
+    },
+    {
+      "key": "walrus",
+      "value": "das\nWalross"
+    }
+
+
+  ]
+}

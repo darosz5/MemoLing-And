@@ -1,0 +1,252 @@
+﻿{
+  "items": [
+    {
+      "key": "bus",
+      "value": "bus"
+    },
+    {
+      "key": "bicycle",
+      "value": "bicycle"
+    },
+    {
+      "key": "hotel",
+      "value": "hotel"
+    },
+    {
+      "key": "sun",
+      "value": "sun"
+    },
+    {
+      "key": "map",
+      "value": "map"
+    },
+    {
+      "key": "money",
+      "value": "money"
+    },
+    {
+      "key": "credit card",
+      "value": "credit\ncard"
+    },
+    {
+      "key": "restaurant",
+      "value": "restaurant"
+    },
+    {
+      "key": "plane",
+      "value": "plane"
+    },
+    {
+      "key": "compass",
+      "value": "compass"
+    },    
+     {
+      "key": "trailer",
+      "value": "trailer"
+    },
+    {
+      "key": "laptop",
+      "value": "laptop"
+    },
+    {
+      "key": "grill",
+      "value": "grill"
+    },
+    {
+      "key": "beach",
+      "value": "beach"
+    },
+    {
+      "key": "forest",
+      "value": "forest"
+    },
+    {
+      "key": "mountain",
+      "value": "mountain"
+    },
+    {
+      "key": "fishing",
+      "value": "fishing"
+    },
+    {
+      "key": "bikini",
+      "value": "bikini"
+    },
+    {
+      "key": "key",
+      "value": "key"
+    },
+    {
+      "key": "rain",
+      "value": "rain"
+    },
+     {
+      "key": "camera",
+      "value": "camera"
+    },
+    {
+      "key": "picture",
+      "value": "picture"
+    },
+    {
+      "key": "island",
+      "value": "island"
+    },
+     {
+      "key": "train",
+      "value": "train"
+    },
+    {
+      "key": "backpack",
+      "value": "backpack"
+    },
+    {
+      "key": "headphones",
+      "value": "headphones"
+    },
+    {
+      "key": "passport",
+      "value": "passport"
+    },
+     {
+      "key": "toothbrush",
+      "value": "toothbrush"
+    },
+     {
+      "key": "ticket",
+      "value": "ticket"
+    },
+    {
+      "key": "jeep",
+      "value": "jeep"
+    },
+    {
+      "key": "sunglasses",
+      "value": "sunglasses"
+    },
+    {
+      "key": "beach ball",
+      "value": "beach\nball"
+    },
+    {
+      "key": "sunbed",
+      "value": "sunbed"
+    },
+    {
+      "key": "sun cream",
+      "value": "sunscreen"
+    },
+    {
+      "key": "ship",
+      "value": "ship"
+    },
+    {
+      "key": "flip-flops",
+      "value": "flip-flops"
+    },
+    {
+      "key": "towel",
+      "value": "towel"
+    },
+    {
+      "key": "lemonade",
+      "value": "lemonade"
+    },
+    {
+      "key": "directions",
+      "value": "directions"
+    },
+    {
+      "key": "cloudy",
+      "value": "cloudy"
+    },
+    {
+      "key": "sunset",
+      "value": "sunset"
+    },
+    {
+      "key": "reception",
+      "value": "reception"
+    },
+    {
+      "key": "highway",
+      "value": "highway"
+    },
+    {
+      "key": "flippers",
+      "value": "flippers"
+    },
+    {
+      "key": "postcard",
+      "value": "postcard"
+    },
+    {
+      "key": "swimsuit",
+      "value": "swimsuit"
+    },
+    {
+      "key": "surfboard",
+      "value": "surfboard"
+    },
+    {
+      "key": "wallet",
+      "value": "wallet"
+    },
+     {
+      "key": "camcorder",
+      "value": "camcorder"
+    },
+    {
+      "key": "luggage",
+      "value": "luggage"
+    },
+    {
+      "key": "arrival",
+      "value": "arrival"
+    },
+    {
+      "key": "departure",
+      "value": "departure"
+    },
+    {
+      "key": "life jacket",
+      "value": "life\njacket"
+    },
+    {
+      "key": "socket",
+      "value": "socket"
+    },
+   {
+      "key": "wristwatch",
+      "value": "wristwatch"
+    },
+    {
+      "key": "jackknife",
+      "value": "jackknife"
+    },
+     {
+      "key": "cityscape",
+      "value": "cityscape"
+    },
+    {
+      "key": "currency exchange",
+      "value": "currency\nexchange"
+    },
+     {
+      "key": "RV",
+      "value": "RV"
+    },
+    {
+      "key": "souvenir",
+      "value": "souvenir"
+    },
+    {
+      "key": "binoculars",
+      "value": "binoculars"
+    },
+    {
+      "key": "snorkeling",
+      "value": "snorkeling"
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+﻿{
+  "items": [   
+    {
+      "key": "family",
+      "value": "die\nFamilie"
+    },
+    {
+      "key": "old",
+      "value": "alt"
+    },
+    {
+      "key": "to walk",
+      "value": "gehen"
+    },
+    {
+      "key": "to eat",
+      "value": "essen"
+    },
+    {
+      "key": "to stand",
+      "value": "stehen"
+    },
+    {
+      "key": "to speak",
+      "value": "sprechen"
+    },
+    {
+      "key": "to run",
+      "value": "laufen"
+    },
+    {
+      "key": "to sit",
+      "value": "sitzen"
+    },
+    {
+      "key": "to sleep",
+      "value": "schlafen"
+    },
+    {
+      "key": "to love",
+      "value": "lieben"
+    },
+    {
+      "key": "happy",
+      "value": "glücklich"
+    },
+    {
+      "key": "sad",
+      "value": "traurig"
+    },
+    {
+      "key": "to read",
+      "value": "lesen"
+    },
+    {
+      "key": "to dance",
+      "value": "tanzen"
+    },
+    {
+      "key": "to talk",
+      "value": "reden"
+    },
+    {
+      "key": "to think",
+      "value": "denken"
+    },
+    {
+      "key": "to die",
+      "value": "sterben"
+    },
+    {
+      "key": "to drive",
+      "value": "fahren"
+    },
+    {
+      "key": "to watch",
+      "value": "sehen"
+    },
+    {
+      "key": "to cook",
+      "value": "kochen"
+    },
+     {
+      "key": "to work",
+      "value": "arbeiten"
+    },
+    {
+      "key": "to kiss",
+      "value": "küssen"
+    },
+    {
+      "key": "to shop",
+      "value": "einkaufen"
+    },
+    {
+      "key": "to go to work",
+      "value": "zur Arbeit\ngehen"
+    },
+    {
+      "key": "to relax",
+      "value": "sich\nentspannen"
+    },
+    {
+      "key": "to wait",
+      "value": "warten"
+    },
+    {
+      "key": "to travel",
+      "value": "reisen"
+    },
+    {
+      "key": "to listen to music",
+      "value": "Musik\nhören"
+    },
+    {
+      "key": "parent",
+      "value": "der\nElternteil"
+    },
+      {
+      "key": "couple",
+      "value": "das\nPaar"
+    },   
+    {
+      "key": "child",
+      "value": "das\nKind"
+    },
+    {
+      "key": "to fight",
+      "value": "kämpfen"
+    },
+    {
+      "key": "to party",
+      "value": "feiern"
+    },
+     {
+      "key": "to win",
+      "value": "gewinnen"
+    },
+    {
+      "key": "to text",
+      "value": "eine SMS\nsenden"
+    },
+    {
+      "key": "friendship",
+      "value": "die\nFreundschaft"
+    },
+    {
+      "key": "to hug",
+      "value": "umarmen"
+    },
+    {
+      "key": "to talk on the phone",
+      "value": "telefonieren"
+    },
+    {
+      "key": "to take a picture",
+      "value": "ein Foto\nmachen"
+    },
+    {
+      "key": "to go upstairs",
+      "value": "die Treppe\nhochgehen"
+    },
+    {
+      "key": "to have a birthday",
+      "value": "Geburtstag\nhaben"
+    },
+    {
+      "key": "to have a question",
+      "value": "eine Frage\nhaben"
+    },
+    {
+      "key": "to take a shower",
+      "value": "sich\nduschen"
+    },
+    {
+      "key": "ill",
+      "value": "krank"
+    },
+    {
+      "key": "to exercise",
+      "value": "trainieren"
+    },
+    {
+      "key": "to scream",
+      "value": "schreien"
+    },
+    {
+      "key": "to pray",
+      "value": "beten"
+    },   
+    {
+      "key": "to present",
+      "value": "vortragen"
+    },
+    {
+      "key": "to dress",
+      "value": "sich\nanziehen"
+    },
+    {
+      "key": "marriage",
+      "value": "die\nEhe"
+    },
+    {
+      "key": "disabled",
+      "value": "behindert"
+    },
+    {
+      "key": "to repair",
+      "value": "reparieren"
+    },
+    {
+      "key": "pregnant",
+      "value": "schwanger"
+    },
+    {
+      "key": "to propose",
+      "value": "einen Heiratsantrag\nmachen"
+    },
+    {
+      "key": "to make friends",
+      "value": "sich\nanfreunden"
+    },
+    {
+      "key": "to earn money",
+      "value": "Geld\nverdienen"
+    },
+    {
+      "key": "newborn",
+      "value": "das\nNeugeborene"
+    }
+  ]
+}

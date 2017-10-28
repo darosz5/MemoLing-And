@@ -1,0 +1,247 @@
+﻿{
+  "items": [
+    {
+      "key": "bed",
+      "value": "das\nBett"
+    },
+    {
+      "key": "chair",
+      "value": "der\nStuhl"
+    },
+    {
+      "key": "table",
+      "value": "der\nTisch"
+    },
+    {
+      "key": "lamp",
+      "value": "die\nLampe"
+    },
+    {
+      "key": "desk",
+      "value": "der\nSchreibtisch"
+    },
+    {
+      "key": "flower",
+      "value": "die\nBlume"
+    },
+    {
+      "key": "phone",
+      "value": "das\nTelefon"
+    },
+    {
+      "key": "window",
+      "value": "das\nFenster"
+    },
+    {
+      "key": "wall",
+      "value": "die\nWand"
+    },
+    {
+      "key": "microwave",
+      "value": "die\nMikrowelle"
+    },
+    {
+      "key": "wardrobe",
+      "value": "der\nKleiderschrank"
+    },
+    {
+      "key": "TV",
+      "value": "der\nFernseher"
+    },
+    {
+      "key": "toilet",
+      "value": "die\nToilette"
+    },
+    {
+      "key": "plate",
+      "value": "der\nTeller"
+    },
+    {
+      "key": "fork",
+      "value": "die\nGabel"
+    },
+    {
+      "key": "spoon",
+      "value": "der\nLöffel"
+    },
+    {
+      "key": "mixer",
+      "value": "der\nMixer"
+    },
+    {
+      "key": "bottle",
+      "value": "die\nFlasche"
+    },
+    {
+      "key": "glass",
+      "value": "das\nGlas"
+    },
+    {
+      "key": "mirror",
+      "value": "der\nSpiegel"
+    },
+    {
+      "key": "carpet",
+      "value": "der\nTeppich"
+    },
+    {
+      "key": "key",
+      "value": "der\nSchlüssel"
+    },
+    {
+      "key": "knife",
+      "value": "das\nMesser"
+    },
+    {
+      "key": "cup of coffee",
+      "value": "die Tasse\nKaffee"
+    },
+    {
+      "key": "hammer",
+      "value": "der\nHammer"
+    },
+    {
+      "key": "alarm clock",
+      "value": "der\nWecker"
+    },
+    {
+      "key": "blender",
+      "value": "der\nMixstab"
+    },
+    {
+      "key": "pot",
+      "value": "der\nTopf"
+    },
+    {
+      "key": "shower",
+      "value": "die\nDusche"
+    },
+    {
+      "key": "pan",
+      "value": "die\nPfanne"
+    },
+    {
+      "key": "sofa",
+      "value": "das\nSofa"
+    },
+    {
+      "key": "coffee maker",
+      "value": "die\nKaffeemaschine"
+    },
+    {
+      "key": "garbage bin",
+      "value": "der\nMülleimer"
+    },
+    {
+      "key": "armchair",
+      "value": "der\nSessel"
+    },
+    {
+      "key": "bowl",
+      "value": "die\nSchüssel"
+    },
+    {
+      "key": "teapot",
+      "value": "die\nTeekanne"
+    },
+{
+      "key": "curtain",
+      "value": "der\nVorhang"
+    },
+    {
+      "key": "oven",
+      "value": "der\nOfen"
+    },
+    {
+      "key": "fridge",
+      "value": "der\nKühlschrank"
+    },
+    {
+      "key": "fireplace",
+      "value": "der\nKamin"
+    },
+    {
+      "key": "fan",
+      "value": "der\nVentilator"
+    },
+    {
+      "key": "light bulb",
+      "value": "die\nGlühbirne"
+    },
+    {
+      "key": "coat stand",
+      "value": "der\nKleiderständer"
+    },
+    {
+      "key": "bathtub",
+      "value": "die\nBadewanne"
+    },
+    {
+      "key": "fence",
+      "value": "der\nZaun"
+    },
+    {
+      "key": "sink",
+      "value": "das\nWaschbecken"
+    },
+    {
+      "key": "scales",
+      "value": "die\nWaage"
+    },
+    {
+      "key": "washing machine",
+      "value": "die\nWaschmaschine"
+    },
+    {
+      "key": "espresso maker",
+      "value": "der\nEspressokocher"
+    },
+    {
+      "key": "hair dryer",
+      "value": "der\nFöhn"
+    },
+    {
+      "key": "vaccum cleaner",
+      "value": "der\nStaubsauger"
+    },
+    {
+      "key": "ladle",
+      "value": "der\nSchöpflöffel"
+    },
+    {
+      "key": "spatula",
+      "value": "der\nPfannenwender"
+    },
+    {
+      "key": "stool",
+      "value": "der\nHocker"
+    },
+    {
+      "key": "nightstand",
+      "value": "der\nNachttisch"
+    },
+    {
+      "key": "socket",
+      "value": "die\nSteckdose"
+    },
+    {
+      "key": "cutlery",
+      "value": "das\nBesteck"
+    },
+    {
+      "key": "tap",
+      "value": "der\nWasserhahn"
+    },
+    {
+      "key": "chest of drawers",
+      "value": "die\nKommode"
+    },
+    {
+      "key": "mortar",
+      "value": "der\nMörser"
+    }
+
+
+
+  ]
+}

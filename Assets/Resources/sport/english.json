@@ -1,0 +1,312 @@
+﻿{
+  "items": [
+     {
+      "key": "football",
+      "value": "football"
+    },
+    {
+      "key": "basketball",
+      "value": "basketball"
+    },
+    {
+      "key": "tennis",
+      "value": "tennis"
+    },
+     {
+      "key": "volleyball",
+      "value": "volleyball"
+    },
+    {
+      "key": "american football",
+      "value": "american\nfootball"
+    },
+    {
+      "key": "baseball",
+      "value": "baseball"
+    },
+    {
+      "key": "boxing",
+      "value": "boxing"
+    },
+    {
+      "key": "golf",
+      "value": "golf"
+    },
+    {
+      "key": "hockey",
+      "value": "hockey"
+    },
+    {
+      "key": "medal",
+      "value": "medal"
+    },
+    {
+      "key": "bottle",
+      "value": "bottle"
+    },
+    {
+      "key": "glove",
+      "value": "glove"
+    },
+    {
+      "key": "bag",
+      "value": "bag"
+    },
+    {
+      "key": "skiing",
+      "value": "skiing"
+    },
+    {
+      "key": "backpack",
+      "value": "backpack"
+    },
+    {
+      "key": "cycling",
+      "value": "cycling"
+    },
+    {
+      "key": "helmet",
+      "value": "helmet"
+    },
+    {
+      "key": "cap",
+      "value": "cap"
+    },
+    {
+      "key": "cup",
+      "value": "cup"
+    },
+    {
+      "key": "goggles",
+      "value": "goggles"
+    },
+    {
+      "key": "locker",
+      "value": "locker"
+    },
+    {
+      "key": "olympics",
+      "value": "olympics"
+    },
+    {
+      "key": "skateboarding",
+      "value": "skateboarding"
+    },
+    {
+      "key": "snowboarding",
+      "value": "snowboarding"
+    },
+    {
+      "key": "fishing",
+      "value": "fishing"
+    },
+    {
+      "key": "car racing",
+      "value": "car\nracing"
+    },
+    {
+      "key": "motorcycle racing",
+      "value": "motorcycle\nracing"
+    },
+    {
+      "key": "goal",
+      "value": "goal"
+    },
+    {
+      "key": "polo",
+      "value": "polo"
+    },
+    {
+      "key": "bowling",
+      "value": "bowling"
+    },
+    {
+      "key": "pool",
+      "value": "pool"
+    },
+     {
+      "key": "whistle",
+      "value": "whistle"
+    },
+    {
+      "key": "chess",
+      "value": "chess"
+    },
+    {
+      "key": "darts",
+      "value": "darts"
+    },
+    {
+      "key": "hiking",
+      "value": "hiking"
+    },
+    {
+      "key": "ice skating",
+      "value": "ice\nskating"
+    },
+    {
+      "key": "jersey",
+      "value": "jersey"
+    },
+    {
+      "key": "kayak",
+      "value": "kayak"
+    },
+    {
+      "key": "muscle",
+      "value": "muscle"
+    },
+    {
+      "key": "surfboard",
+      "value": "surfboard"
+    },
+    {
+      "key": "gymnastics",
+      "value": "gymnastics"
+    },
+    {
+      "key": "table tennis",
+      "value": "table\ntennis"
+    },
+    {
+      "key": "ballet",
+      "value": "ballet"
+    },
+    {
+      "key": "golf club",
+      "value": "golf\nclub"
+    },
+    {
+      "key": "baseball glove",
+      "value": "baseball\nglove"
+    },
+    {
+      "key": "basketball court",
+      "value": "basketball\ncourt"
+    },
+    {
+      "key": "football field",
+      "value": "football\nfield"
+    },
+    {
+      "key": "tennis racket",
+      "value": "tennis\nracket"
+    },
+    {
+      "key": "podium",
+      "value": "podium"
+    },
+    {
+      "key": "polo shirt",
+      "value": "polo\nshirt"
+    },
+    {
+      "key": "roller skating",
+      "value": "roller\nskating"
+    },
+    {
+      "key": "swimming suit",
+      "value": "swimming\nsuit"
+    },
+    {
+      "key": "bow",
+      "value": "bow"
+    },
+     {
+      "key": "sailing",
+      "value": "sailing"
+    },
+     {
+      "key": "stopwatch",
+      "value": "stopwatch"
+    },
+    {
+      "key": "bowling pin",
+      "value": "bowling\npin"
+    },
+    {
+      "key": "curling",
+      "value": "curling"
+    },
+    {
+      "key": "pads",
+      "value": "pads"
+    },
+    {
+      "key": "parachuting",
+      "value": "parachuting"
+    },
+    {
+      "key": "puck",
+      "value": "puck"
+    },
+    {
+      "key": "punching bag",
+      "value": "punching\nbag"
+    },
+    {
+      "key": "scoreboard",
+      "value": "scoreboard"
+    },
+    {
+      "key": "referee",
+      "value": "referee"
+    },   
+     {
+      "key": "stationary bike",
+      "value": "stationary\nbike"
+    },
+    {
+      "key": "archery",
+      "value": "archery"
+    },
+    {
+      "key": "cricket",
+      "value": "cricket"
+    },
+    {
+      "key": "hammer throwing",
+      "value": "hammer\nthrow"
+    },
+    {
+      "key": "biathlon",
+      "value": "biathlon"
+    },
+    {
+      "key": "bobsleigh",
+      "value": "bobsleigh"
+    },
+    {
+      "key": "mouthpiece",
+      "value": "mouthpiece"
+    },
+    {
+      "key": "olympic torch",
+      "value": "olympic\ntorch"
+    },
+     {
+      "key": "treadmill",
+      "value": "treadmill"
+    },
+    {
+      "key": "dumbbell",
+      "value": "dumbbell"
+    },
+    {
+      "key": "fencing",
+      "value": "fencing"
+    },
+    {
+      "key": "pommel horse",
+      "value": "pommel\nhorse"
+    },
+    {
+      "key": "cue stick",
+      "value": "cue\nstick"
+    },
+    {
+      "key": "foil",
+      "value": "foil"
+    }
+  ]
+}

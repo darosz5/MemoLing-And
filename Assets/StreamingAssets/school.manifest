@@ -1,0 +1,79 @@
+ManifestFileVersion: 0
+CRC: 2210338357
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 97be598a55550ecbea4a87abd298cf7a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21f0dc8ebad690f009368069428e0a1a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Icons/school/music.png
+- Assets/Icons/school/essay.png
+- Assets/Icons/school/teacher.png
+- Assets/Icons/school/ruler.png
+- Assets/Icons/school/stapler.png
+- Assets/Icons/school/chemistry.png
+- Assets/Icons/school/bell.png
+- Assets/Icons/school/history.png
+- Assets/Icons/school/felt-tip pen.png
+- Assets/Icons/school/highlighter.png
+- Assets/Icons/school/set square.png
+- Assets/Icons/school/clock.png
+- Assets/Icons/school/physics.png
+- Assets/Icons/school/printer.png
+- Assets/Icons/school/art.png
+- Assets/Icons/school/student.png
+- Assets/Icons/school/pencil.png
+- Assets/Icons/school/puncher.png
+- Assets/Icons/school/pin.png
+- Assets/Icons/school/lamp.png
+- Assets/Icons/school/lesson plan.png
+- Assets/Icons/school/pencil sharpener.png
+- Assets/Icons/school/IT.png
+- Assets/Icons/school/calculator.png
+- Assets/Icons/school/mouse.png
+- Assets/Icons/school/pendrive.png
+- Assets/Icons/school/glasses.png
+- Assets/Icons/school/headset.png
+- Assets/Icons/school/chair.png
+- Assets/Icons/school/biology.png
+- Assets/Icons/school/school.png
+- Assets/Icons/school/backpack.png
+- Assets/Icons/school/eraser.png
+- Assets/Icons/school/test.png
+- Assets/Icons/school/lockers.png
+- Assets/Icons/school/school bus.png
+- Assets/Icons/school/notebook.png
+- Assets/Icons/school/lunch.png
+- Assets/Icons/school/blackboard.png
+- Assets/Icons/school/glue.png
+- Assets/Icons/school/pencil case.png
+- Assets/Icons/school/adhesive tape.png
+- Assets/Icons/school/desk.png
+- Assets/Icons/school/ID.png
+- Assets/Icons/school/watercolor.png
+- Assets/Icons/school/PE.png
+- Assets/Icons/school/sports shoe.png
+- Assets/Icons/school/fountain pen.png
+- Assets/Icons/school/pen.png
+- Assets/Icons/school/scissors.png
+- Assets/Icons/school/globe.png
+- Assets/Icons/school/textbook.png
+- Assets/Icons/school/microscope.png
+- Assets/Icons/school/compasses.png
+- Assets/Icons/school/folder.png
+- Assets/Icons/school/book.png
+- Assets/Icons/school/keyboard.png
+- Assets/Icons/school/geography.png
+- Assets/Icons/school/math.png
+- Assets/Icons/school/computer.png
+- Assets/Icons/school/certificate.png
+- Assets/Icons/school/map.png
+Dependencies: []

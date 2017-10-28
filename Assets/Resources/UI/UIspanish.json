@@ -1,0 +1,422 @@
+﻿{
+  "items": [
+      {
+      "key": "_nativeLanguage",
+      "value": "Seleccione su\nlengua materna."
+    },
+    {
+      "key": "_secondLanguage",
+      "value": "Seleccione el\nidioma que desea aprender."
+    },
+    {
+      "key": "_spinwheel",
+      "value": "Ruleta de la suerte"
+    },
+    {
+      "key": "_spindailydescr",
+      "value": "¡Gírela todos los días y gane un premio!"
+    },  
+    {
+      "key": "_video",
+      "value": "Video"
+    },
+    {
+      "key": "_free",
+      "value": "Free"
+    },
+    {
+      "key": "_withvideo",
+      "value": "con video"
+    },
+    {
+      "key": "_timetolearn",
+      "value": "Es la hora de aprender"
+    },
+    {
+      "key": "_trytoremember",
+      "value": "Recuerde qué palabra\ncoincide con qué imagen"
+    },
+    {
+      "key": "_rememberpicture",
+      "value": "Pinche en la burbuja con la imagen\nsi no está seguro de lo que representa.\nLa descripción aparecerá en\nla parte inferior de la pantalla."
+    },
+    {
+      "key": "_remembertext",
+      "value": "Pinche en la burbuja\ncon la palabra si quiere\nescuchar cómo se pronuncia."
+    },
+    {
+      "key": "_shufflewhenready",
+      "value": "Pinche 'Mezclar' si está listo."
+    },
+   {
+      "key": "_timetoplay",
+      "value": "¡Es la hora de jugar!"
+    },
+     {
+      "key": "_matchwords",
+      "value": "De la vuelta a una burbuja blanca y a otra azul\npara ver si forman una pareja. Si coinciden,\nse quedarán destapadas. Si no coinciden, \nse les volverá a dar la vuelta.\nRecuerde lo que había en cada burbuja\ny dónde estaba. El nivel\nse completa cuando todas las imágenes\nse han emparejado con sus descripciones."
+    },
+    {
+      "key": "_playmoves",
+      "value": "Tendrá un límite de movimientos..."
+    },
+    {
+      "key": "_playtime",
+      "value": "...o un límite de tiempo."
+    },
+    {
+      "key": "_powerups",
+      "value": "Potenciadores"
+    },
+     {
+      "key": "_tutorial",
+      "value": "Tutorial"
+    },
+    {
+      "key": "_powwerupstutorial",
+      "value": "Antes de cada juego puede conseguir\nhasta tres potenciadores.\n Puede utilizarlos antes de mezclar las burbujas."
+    },
+    {
+      "key": "_timepowerup",
+      "value": "Obtenga movimientos\no tiempo adicional."
+    },
+    {
+      "key": "_revealpowerup",
+      "value": "Descubra una pareja al principio."
+    },
+    {
+      "key": "_sidepowerup",
+      "value": "Eche un vistazo\na las imágenes ya barajadas."
+    },
+    {
+      "key": "_thatsit",
+      "value": "¡Eso es!"
+    },
+    {
+      "key": "_readytoplay",
+      "value": "Usted está listo para jugar."
+    },
+     {
+      "key": "_full",
+      "value": "lleno"
+    },
+    {
+      "key": "_unlockedlevel",
+      "value": "¡Todavía no ha\ndesbloqueado este nivel!"
+    },
+     {
+      "key": "_moves",
+      "value": "movimientos"
+    },
+    {
+      "key": "_seconds",
+      "value": "segundos"
+    },
+     {
+      "key": "_spindeath",
+      "value": "¡Gire la rueda\ny pruebe su suerte!"
+    },
+    {
+      "key": "_showicons",
+      "value": "Enseñe imagenes"
+    },
+    {
+      "key": "_yourhighscore",
+      "value": "Su mejor resultado:"
+    },
+    {
+      "key": "_settings",
+      "value": "Ajustes"
+    },
+    {
+      "key": "_spin",
+      "value": "¡Gírela!"
+    },
+    {
+      "key": "_languageselect",
+      "value": "Seleccione\nel idioma."
+    },
+    {
+      "key": "_save",
+      "value": "Guardar"
+    },
+    {
+      "key": "_music",
+      "value": "Música"
+    },
+    {
+      "key": "_sound",
+      "value": "Sonido"
+    },
+    {
+      "key": "_helpinfo",
+      "value": "Si necesita ayuda o tiene\nalguna sugerencia, por favor\npóngase en contacto\ncon wordling.acgames@gmail.com"
+    },
+    {
+      "key": "_quit",
+      "value": "¿Está seguro de\nque quiere salir?"
+    },
+    {
+      "key": "_recievereward",
+      "value": "¡Cobre\nsu premio!"
+    },
+    {
+      "key": "_food",
+      "value": "Comida"
+    },
+    {
+      "key": "_house",
+      "value": "Casa"
+    },
+    {
+      "key": "_ecology",
+      "value": "Ecología"
+    },
+    {
+      "key": "_jobs",
+      "value": "Trabajos"
+    },
+    {
+      "key": "_travel",
+      "value": "Viajes"
+    },
+    {
+      "key": "_sport",
+      "value": "Deporte"
+    },
+    {
+      "key": "_city",
+      "value": "Ciudad"
+    },
+    {
+      "key": "_clothes",
+      "value": "Ropa"
+    },
+    {
+      "key": "_animals",
+      "value": "Animales"
+    },
+    {
+      "key": "_humanbody",
+      "value": "Partes\ndel cuerpo"
+    },
+    {
+      "key": "_everydaylife",
+      "value": "Vida\ncotidiana"
+    },
+    {
+      "key": "_countries",
+      "value": "Países"
+    },
+    {
+      "key": "_categories",
+      "value": "Categorías"
+    },
+   
+    {
+      "key": "_level",
+      "value": "Nivel"
+    },
+     
+    {
+      "key": "_yourscore",
+      "value": "Su resultado:"
+    },
+    {
+      "key": "_revealpair",
+      "value": "Descubra una pareja"
+    },
+     {
+      "key": "_watchandgetbooster",
+      "value": "¡Vea un video para\nrecibir un potenciador!"
+    },
+    {
+      "key": "_moretimemoves",
+      "value": "Más tiempo\no movimientos"
+    },
+    {
+      "key": "_go",
+      "value": "¡Empezar!"
+    }, 
+    {
+      "key": "_shuffle",
+      "value": "Mezclar"
+    },
+    {
+      "key": "_gamepaused",
+      "value": "Juego pausado..."
+    },
+    {
+      "key": "_resume",
+      "value": "Reanudar"
+    },
+    {
+      "key": "_quitlevel",
+      "value": "Salir"
+    },
+    {
+      "key": "_nextstage",
+      "value": "Siguiente\netapa"
+    },
+    {
+      "key": "_youlose",
+      "value": "Ha perdido..."
+    },
+
+    {
+      "key": "_gameover",
+      "value": "Fin de partida"
+    },
+    {
+      "key": "_english",
+      "value": "Inglés"
+    },
+    {
+      "key": "_polish",
+      "value": "Polaco"
+    },
+    {
+      "key": "_german",
+      "value": "Alemán"
+    },
+    {
+      "key": "_spanish",
+      "value": "Español"
+    },
+    {
+      "key": "_french",
+      "value": "Francés"
+    },
+    {
+      "key": "_help",
+      "value": "Ayuda"
+    },
+    {
+      "key": "_yes",
+      "value": "Si"
+    },
+    {
+      "key": "_no",
+      "value": "No"
+    },
+    {
+      "key": "_levels",
+      "value": "Niveles"
+    },
+    {
+      "key": "_easy",
+      "value": "Fácil"
+    },
+    {
+      "key": "_normal",
+      "value": "Normal"
+    },
+    {
+      "key": "_hard",
+      "value": "Duro"
+    },
+    {
+      "key": "_veryhard",
+      "value": "Muy duro"
+    },
+    {
+      "key": "_ups",
+      "value": "???"
+    },
+    {
+      "key": "_finishin",
+      "value": "Termine en "
+    },
+    {
+      "key": "_addlife",
+      "value": "Añada 1 vida"
+    },
+    {
+      "key": "_addlifedescr",
+      "value": "¡Vea un video para\nrecibir una vida adicional!"
+    },
+
+    {
+      "key": "_loading",
+      "value": "Cargando..."
+    },
+    {
+      "key": "_noconnection",
+      "value": "Sin conexión..."
+    },
+    {
+      "key": "_noconnectiondescr",
+      "value": "Necesita conexión a Internet\npara obtener nuevas categorías.\nIntente conectar su dispositivo."
+    },
+    {
+      "key": "_wait",
+      "value": "Espere..."
+    },
+    {
+      "key": "_nextspin",
+      "value": "Pueda girar la rueda\notra vez en:"
+    },
+    {
+      "key": "_complete",
+      "value": "¡Nivel superado!"
+    },
+    {
+      "key": "_tutorialdescr",
+      "value": "¿Quiere aprender\na jugar antes de empezar?"
+    },
+    {
+      "key": "_new",
+      "value": "Nuevo"
+    },
+      {
+      "key": "_failedad",
+      "value": "Tenemos un problema con\nsu conexión a Internet.\nConecte su dispositivo\ny vuelva a intentarlo."
+    },
+    {
+      "key": "_skippedad",
+      "value": "Es posible que haya\nomitido el video.\n¿Le gustaría volver\na intentarlo?"
+    },
+    {
+      "key": "_shop",
+      "value": "Sklep"
+    },
+    {
+      "key": "_welcome",
+      "value": "Witaj w naszym sklepie!"
+    },
+    {
+      "key": "_shopsuccess",
+      "value": "Gratulacje! Zakup udany."
+    },
+    {
+      "key": "_shopfail",
+      "value": "Zakup nieudany"
+    },
+    {
+      "key": "_shopalreadyhas",
+      "value": "Już posiadasz tę kategorię.\nMożesz zagrać w nią w tej chwili"
+    },
+    {
+      "key": "_good",
+      "value": "BUENO"
+    },
+    {
+      "key": "_great",
+      "value": "¡ESTUPENDO!"
+    },
+    {
+      "key": "_fantastic",
+      "value": "¡MARAVILLOSO!"
+    },
+     {
+      "key": "_school",
+      "value": "Escuela"
+    }
+
+
+
+
+    
+
+  ]
+}

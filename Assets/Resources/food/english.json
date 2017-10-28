@@ -1,0 +1,317 @@
+{
+  "items": [
+    {
+      "key": "apple",
+      "value": "apple"
+    },
+      {
+      "key": "pizza",
+      "value": "pizza"
+    },
+    {
+      "key": "banana",
+      "value": "banana"
+    },
+    {
+      "key": "orange",
+      "value": "orange"
+    },    
+      {
+      "key": "lemon",
+      "value": "lemon"
+    },
+    {
+      "key": "drink",
+      "value": "drink"
+    },
+      {
+      "key": "meat",
+      "value": "meat"
+    },
+    {
+      "key": "burger",
+      "value": "burger"
+    },
+     {
+      "key": "fish",
+      "value": "fish"
+    },
+    {
+      "key": "bread",
+      "value": "bread"
+    },
+      {
+      "key": "rice",
+      "value": "rice"
+    },
+    {
+      "key": "carrot",
+      "value": "carrot"
+    },
+      {
+      "key": "salad",
+      "value": "salad"
+    },
+    {
+      "key": "salt",
+      "value": "salt"
+    },
+    {
+      "key": "pepper",
+      "value": "pepper"
+    },
+      {
+      "key": "popcorn",
+      "value": "popcorn"
+    },
+    {
+      "key": "bacon",
+      "value": "bacon"
+    },
+    {
+      "key": "cheese",
+      "value": "cheese"
+    },
+    {
+      "key": "onion",
+      "value": "onion"
+    },
+      {
+      "key": "sandwich",
+      "value": "sandwich"
+    },
+      {
+      "key": "ketchup",
+      "value": "ketchup"
+    },
+    {
+      "key": "chicken leg",
+      "value": "chicken\nleg"
+    },
+    {
+      "key": "roast chicken",
+      "value": "roast\nchicken"
+    },
+      {
+      "key": "soup",
+      "value": "soup"
+    },
+      {
+      "key": "noodles",
+      "value": "noodles"
+    },
+      {
+      "key": "ice cream",
+      "value": "ice\ncream"
+    },
+    {
+      "key": "honey",
+      "value": "honey"
+    },
+      {
+      "key": "yoghurt",
+      "value": "yoghurt"
+    },
+      {
+      "key": "pie",
+      "value": "pie"
+    },
+    {
+      "key": "cake",
+      "value": "cake"
+    },
+     {
+      "key": "chocolate",
+      "value": "chocolate"
+    },
+    {
+      "key": "boiled egg",
+      "value": "boiled\negg"
+    },
+    {
+      "key": "fried-egg",
+      "value": "fried\negg"
+    },
+    {
+      "key": "mushroom",
+      "value": "mushroom"
+    },
+      {
+      "key": "olives",
+      "value": "olives"
+    },
+    {
+      "key": "olive oil",
+      "value": "olive\noil"
+    },
+     {
+      "key": "tomato",
+      "value": "tomato"
+    },
+    {
+      "key": "candy",
+      "value": "candy"
+    },
+      {
+      "key": "jam",
+      "value": "jam"
+    },
+    {
+      "key": "broccoli",
+      "value": "broccoli"
+    },
+    {
+      "key": "lettuce",
+      "value": "lettuce"
+    },
+      {
+      "key": "pasta",
+      "value": "pasta"
+    },
+    {
+      "key": "corn",
+      "value": "corn"
+    },
+      {
+      "key": "strawberry",
+      "value": "strawberry"
+    },
+    {
+      "key": "cherry",
+      "value": "cherry"
+    },
+    {
+      "key": "grapes",
+      "value": "grapes"
+    },
+    {
+      "key": "peach",
+      "value": "peach"
+    },
+    {
+      "key": "pear",
+      "value": "pear"
+    },
+    {
+      "key": "pineapple",
+      "value": "pineapple"
+    },
+      {
+      "key": "raspberry",
+      "value": "raspberry"
+    },
+     {
+      "key": "french-fries",
+      "value": "french\nfries"
+    },
+    {
+      "key": "peas",
+      "value": "peas"
+    },
+    {
+      "key": "burrito",
+      "value": "burrito"
+    },
+    {
+      "key": "jelly",
+      "value": "jelly"
+    },
+      {
+      "key": "lollipop",
+      "value": "lollipop"
+    },
+    {
+      "key": "kiwi",
+      "value": "kiwi"
+    },
+      {
+      "key": "watermelon",
+      "value": "watermelon"
+    },
+    {
+      "key": "avocado",
+      "value": "avocado"
+    },
+    {
+      "key": "bell pepper",
+      "value": "bell\npepper"
+    },
+      {
+      "key": "pumpkin",
+      "value": "pumpkin"
+    },
+     {
+      "key": "crab",
+      "value": "crab"
+    },
+    {
+      "key": "chili pepper",
+      "value": "chili\npepper"
+    },
+      {
+      "key": "muffin",
+      "value": "muffin"
+    },
+     {
+      "key": "donut",
+      "value": "donut"
+    },
+    {
+      "key": "cupcake",
+      "value": "cupcake"
+    },
+      {
+      "key": "pretzel",
+      "value": "pretzel"
+    },
+    {
+      "key": "cookie",
+      "value": "cookie"
+    },
+     {
+      "key": "croissant",
+      "value": "croissant"
+    },
+    {
+      "key": "cotton candy",
+      "value": "cotton\ncandy"
+    },
+    {
+      "key": "soy sauce",
+      "value": "soy\nsauce"
+    },
+      {
+      "key": "tuna",
+      "value": "tuna"
+    },
+      {
+      "key": "prawn",
+      "value": "prawn"
+    },
+    {
+      "key": "lobster",
+      "value": "lobster"
+    },
+    {
+      "key": "mussel",
+      "value": "mussel"
+    },
+      {
+      "key": "vinegar",
+      "value": "vinegar"
+    },
+      {
+      "key": "radish",
+      "value": "radish"
+    },
+    {
+      "key": "artichoke",
+      "value": "artichoke"
+    },
+     {
+      "key": "eggplant",
+      "value": "eggplant"
+    }
+
+  ]
+}

@@ -1,0 +1,254 @@
+﻿{
+  "items": [
+    {
+      "key": "art",
+      "value": "el\narte"
+    },
+    {
+      "key": "biology",
+      "value": "la\nbiología"
+    },
+    {
+      "key": "blackboard",
+      "value": "la\npizarra"
+    },
+    {
+      "key": "calculator",
+      "value": "la\ncalculadora"
+    },
+    {
+      "key": "chair",
+      "value": "la \nsilla"
+    },
+    {
+      "key": "chemistry",
+      "value": "la\nquímica"
+    },
+    {
+      "key": "clock",
+      "value": "el\nreloj"
+    },
+    {
+      "key": "computer",
+      "value": "el\nordenador"
+    },
+    {
+      "key": "desk",
+      "value": "un\npupitre"
+    },
+    {
+      "key": "eraser",
+      "value": "la\ngoma"
+    },
+    {
+      "key": "geography",
+      "value": "la\ngeografía"
+    },
+    {
+      "key": "glasses",
+      "value": "las\ngafas"
+    },
+    {
+      "key": "glue",
+      "value": "el\npegamento"
+    },
+    {
+      "key": "history",
+      "value": "la\nhistoria"
+    },
+    {
+      "key": "IT",
+      "value": "la\ninformática"
+    },
+    {
+      "key": "lamp",
+      "value": "la\nlámpara"
+    },
+    {
+      "key": "lesson plan",
+      "value": "el\nhorario"
+    },
+    {
+      "key": "lunch",
+      "value": "el\nalmuerzo"
+    },
+    {
+      "key": "math",
+      "value": "las\nmatemáticas"
+    },
+    {
+      "key": "music",
+      "value": "la\nmúsica"
+    },
+    {
+      "key": "notebook",
+      "value": "el\ncuaderno"
+    },
+    {
+      "key": "PE",
+      "value": "la educación\nfísica"
+    },
+    {
+      "key": "pen",
+      "value": "el\nbolígrafo"
+    },
+    {
+      "key": "pencil",
+      "value": "el\nlápiz"
+    },
+    {
+      "key": "pendrive",
+      "value": "el lápiz \nde memoria"
+    },
+    {
+      "key": "physics",
+      "value": "la\nfísica"
+    },
+    {
+      "key": "ruler",
+      "value": "la\nregla"
+    },
+    {
+      "key": "school",
+      "value": "la\nescuela"
+    },
+    {
+      "key": "scissors",
+      "value": "las\ntijeras"
+    },
+    {
+      "key": "student",
+      "value": "el \nalumno"
+    },
+    {
+      "key": "teacher",
+      "value": "el\nprofesor"
+    },
+    {
+      "key": "test",
+      "value": "la\nprueba"
+    },
+    {
+      "key": "book",
+      "value": "el\nlibro"
+    },
+    {
+      "key": "backpack",
+      "value": "la\nmochila"
+    },
+    {
+      "key": "bell",
+      "value": "la\ncampana"
+    },
+    {
+      "key": "globe",
+      "value": "el globo\nterráqueo"
+    },
+    {
+      "key": "headset",
+      "value": "los\nauriculares"
+    },
+    {
+      "key": "pencil case",
+      "value": "el\nestuche"
+    },
+    {
+      "key": "pencil sharpener",
+      "value": "el\nsacapuntas"
+    },
+    {
+      "key": "printer",
+      "value": "la\nimpresora"
+    },
+    {
+      "key": "school bus",
+      "value": "el bus\nescolar"
+    },
+    {
+      "key": "sports shoe",
+      "value": "la zapatilla\nde deporte"
+    },
+    {
+      "key": "map",
+      "value": "el\nmapa"
+    },
+    {
+      "key": "microscope",
+      "value": "el\nmicroscopio"
+    },
+    {
+      "key": "mouse",
+      "value": "el\nratón"
+    },
+    {
+      "key": "textbook",
+      "value": "el\nmanual"
+    },
+    {
+      "key": "watercolor",
+      "value": "la\nacuarela"
+    },
+    {
+      "key": "folder",
+      "value": "la\ncarpeta"
+    },
+    {
+      "key": "pin",
+      "value": "el\nalfiler"
+    },
+    {
+      "key": "adhesive tape",
+      "value": "la cinta\nadhesiva"
+    },
+    {
+      "key": "certificate",
+      "value": "el\ncertificado"
+    },
+    {
+      "key": "compasses",
+      "value": "el\ncompás"
+    },
+    {
+      "key": "felt-tip pen",
+      "value": "el\nrotulador"
+    },
+    {
+      "key": "fountain pen",
+      "value": "la\npluma"
+    },
+    {
+      "key": "highlighter",
+      "value": "el\nmarcatextos"
+    },
+    {
+      "key": "ID",
+      "value": "el carnet de\nidentificación"
+    },
+    {
+      "key": "keyboard",
+      "value": "el\nteclado"
+    },
+    {
+      "key": "lockers",
+      "value": "los\ncasilleros"
+    },
+    {
+      "key": "stapler",
+      "value": "la\ngrapadora"
+    },
+    {
+      "key": "set square",
+      "value": "la\nescuadra"
+    },
+    {
+      "key": "puncher",
+      "value": "la\nperforadora"
+    },
+    {
+      "key": "essay",
+      "value": "la\nelaboración"
+    }
+
+
+  ]
+}

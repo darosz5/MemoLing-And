@@ -1,0 +1,31 @@
+﻿{
+  "items": [
+    
+    {
+      "key": "bat",
+      "value": "die\nFledermaus"
+    },
+    {
+      "key": "bear",
+      "value": "der\nBär"
+    },
+    {
+      "key": "bee",
+      "value": "die\nBiene"
+    },
+    {
+      "key": "bird",
+      "value": "der\nVogel"
+    },
+    {
+      "key": "dog",
+      "value": "der\nHund"
+    },
+    {
+      "key": "fish",
+      "value": "der\nFisch"
+    }
+
+
+  ]
+}

@@ -1,0 +1,31 @@
+﻿{
+  "items": [
+    
+    {
+      "key": "bat",
+      "value": "nietoperz"
+    },
+    {
+      "key": "bear",
+      "value": "nieźwiedź"
+    },
+    {
+      "key": "bee",
+      "value": "pszczoła"
+    },
+    {
+      "key": "bird",
+      "value": "ptak"
+    },
+    {
+      "key": "dog",
+      "value": "pies"
+    },
+    {
+      "key": "fish",
+      "value": "ryba"
+    }
+
+
+  ]
+}

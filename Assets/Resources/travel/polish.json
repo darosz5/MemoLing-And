@@ -1,0 +1,252 @@
+﻿{
+  "items": [
+    {
+      "key": "bus",
+      "value": "autobus"
+    },
+    {
+      "key": "bicycle",
+      "value": "rower"
+    },
+    {
+      "key": "hotel",
+      "value": "hotel"
+    },
+    {
+      "key": "sun",
+      "value": "słońce"
+    },
+    {
+      "key": "map",
+      "value": "mapa"
+    },
+    {
+      "key": "money",
+      "value": "pieniądze"
+    },
+    {
+      "key": "credit card",
+      "value": "karta\nkredytowa"
+    },
+    {
+      "key": "restaurant",
+      "value": "restauracja"
+    },
+    {
+      "key": "plane",
+      "value": "samolot"
+    },
+    {
+      "key": "compass",
+      "value": "kompas"
+    },    
+     {
+      "key": "trailer",
+      "value": "przyczepa\nkempingowa"
+    },
+    {
+      "key": "laptop",
+      "value": "laptop"
+    },
+    {
+      "key": "grill",
+      "value": "grill"
+    },
+    {
+      "key": "beach",
+      "value": "plaża"
+    },
+    {
+      "key": "forest",
+      "value": "las"
+    },
+    {
+      "key": "mountain",
+      "value": "góra"
+    },
+    {
+      "key": "fishing",
+      "value": "wędkarstwo"
+    },
+    {
+      "key": "bikini",
+      "value": "bikini"
+    },
+    {
+      "key": "key",
+      "value": "klucz"
+    },
+    {
+      "key": "rain",
+      "value": "deszcz"
+    },
+     {
+      "key": "camera",
+      "value": "aparat\nfotograficzny"
+    },
+    {
+      "key": "picture",
+      "value": "zdjęcie"
+    },
+    {
+      "key": "island",
+      "value": "wyspa"
+    },
+     {
+      "key": "train",
+      "value": "pociąg"
+    },
+    {
+      "key": "backpack",
+      "value": "plecak"
+    },
+    {
+      "key": "headphones",
+      "value": "słuchawki"
+    },
+    {
+      "key": "passport",
+      "value": "paszport"
+    },
+     {
+      "key": "toothbrush",
+      "value": "szczoteczka\ndo zębów"
+    },
+     {
+      "key": "ticket",
+      "value": "bilet"
+    },
+    {
+      "key": "jeep",
+      "value": "samochód\nterenowy"
+    },
+    {
+      "key": "sunglasses",
+      "value": "okulary\nprzeciwsłoneczne"
+    },
+    {
+      "key": "beach ball",
+      "value": "piłka\nplażowa"
+    },
+    {
+      "key": "sunbed",
+      "value": "leżak"
+    },
+    {
+      "key": "sun cream",
+      "value": "krem\ndo opalania"
+    },
+    {
+      "key": "ship",
+      "value": "statek"
+    },
+    {
+      "key": "flip-flops",
+      "value": "klapki"
+    },
+    {
+      "key": "towel",
+      "value": "ręcznik"
+    },
+    {
+      "key": "lemonade",
+      "value": "lemoniada"
+    },
+    {
+      "key": "directions",
+      "value": "kierunki"
+    },
+    {
+      "key": "cloudy",
+      "value": "pochmurno"
+    },
+    {
+      "key": "sunset",
+      "value": "zachód\nsłońca"
+    },
+    {
+      "key": "reception",
+      "value": "recepcja"
+    },
+    {
+      "key": "highway",
+      "value": "autostrada"
+    },
+    {
+      "key": "flippers",
+      "value": "płetwy"
+    },
+    {
+      "key": "postcard",
+      "value": "pocztówka"
+    },
+    {
+      "key": "swimsuit",
+      "value": "strój\nkąpielowy"
+    },
+    {
+      "key": "surfboard",
+      "value": "deska\nserfingowa"
+    },
+    {
+      "key": "wallet",
+      "value": "portfel"
+    },
+     {
+      "key": "camcorder",
+      "value": "kamera"
+    },
+    {
+      "key": "luggage",
+      "value": "bagaż"
+    },
+    {
+      "key": "arrival",
+      "value": "przylot"
+    },
+    {
+      "key": "departure",
+      "value": "odlot"
+    },
+    {
+      "key": "life jacket",
+      "value": "kamizelka\nratunkowa"
+    },
+    {
+      "key": "socket",
+      "value": "gniazdko"
+    },
+   {
+      "key": "wristwatch",
+      "value": "zegarek\nna rękę"
+    },
+    {
+      "key": "jackknife",
+      "value": "scyzoryk"
+    },
+     {
+      "key": "cityscape",
+      "value": "pejzaż\nmiejski"
+    },
+    {
+      "key": "currency exchange",
+      "value": "wymiana\nwalut"
+    },
+     {
+      "key": "RV",
+      "value": "kamper"
+    },
+    {
+      "key": "souvenir",
+      "value": "pamiątka"
+    },
+    {
+      "key": "binoculars",
+      "value": "lornetka"
+    },
+    {
+      "key": "snorkeling",
+      "value": "nurkowanie\nz rurką"
+    }
+  ]
+}

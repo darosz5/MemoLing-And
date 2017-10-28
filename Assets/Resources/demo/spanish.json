@@ -1,0 +1,31 @@
+﻿{
+  "items": [
+    
+    {
+      "key": "bat",
+      "value": "el\nmurciélago"
+    },
+    {
+      "key": "bear",
+      "value": "el\noso"
+    },
+    {
+      "key": "bee",
+      "value": "la\nabeja"
+    },
+    {
+      "key": "bird",
+      "value": "el\npájaro"
+    },
+    {
+      "key": "dog",
+      "value": "el\nperro"
+    },
+    {
+      "key": "fish",
+      "value": "el\npez"
+    }
+
+
+  ]
+}

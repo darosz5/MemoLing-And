@@ -1,0 +1,252 @@
+﻿{
+  "items": [
+    {
+      "key": "bus",
+      "value": "un\nbus"
+    },
+    {
+      "key": "bicycle",
+      "value": "un\nvélo"
+    },
+    {
+      "key": "hotel",
+      "value": "un\nhôtel"
+    },
+    {
+      "key": "sun",
+      "value": "le\nsoleil"
+    },
+    {
+      "key": "map",
+      "value": "une\ncarte"
+    },
+    {
+      "key": "money",
+      "value": "l'argent"
+    },
+    {
+      "key": "credit card",
+      "value": "une carte\nde crédit"
+    },
+    {
+      "key": "restaurant",
+      "value": "un\nrestaurant"
+    },
+    {
+      "key": "plane",
+      "value": "un\navion"
+    },
+    {
+      "key": "compass",
+      "value": "une\nboussole"
+    },   
+     {
+      "key": "trailer",
+      "value": "une\ncaravane"
+    },
+    {
+      "key": "laptop",
+      "value": "un\nportable"
+    },
+    {
+      "key": "grill",
+      "value": "un\ngril"
+    },
+    {
+      "key": "beach",
+      "value": "une\nplage"
+    },
+    {
+      "key": "forest",
+      "value": "une\nforêt"
+    },
+    {
+      "key": "mountain",
+      "value": "une\nmontagne"
+    },
+    {
+      "key": "fishing",
+      "value": "la\npêche"
+    },
+    {
+      "key": "bikini",
+      "value": "un\nbikini"
+    },
+    {
+      "key": "key",
+      "value": "une\nclé"
+    },
+    {
+      "key": "rain",
+      "value": "la\npluie"
+    },
+     {
+      "key": "camera",
+      "value": "un appareil\nphoto"
+    },
+    {
+      "key": "picture",
+      "value": "une\nphoto"
+    },
+    {
+      "key": "island",
+      "value": "une\nîle"
+    },
+     {
+      "key": "train",
+      "value": "un\ntrain"
+    },
+    {
+      "key": "backpack",
+      "value": "un sac\nà dos"
+    },
+    {
+      "key": "headphones",
+      "value": "des\nécouteurs"
+    },
+    {
+      "key": "passport",
+      "value": "un\npasseport"
+    },
+     {
+      "key": "toothbrush",
+      "value": "une brosse\nà dents"
+    },
+     {
+      "key": "ticket",
+      "value": "un\nbillet"
+    },
+    {
+      "key": "jeep",
+      "value": "une\njeep"
+    },
+    {
+      "key": "sunglasses",
+      "value": "des lunettes\nde soleil"
+    },
+    {
+      "key": "beach ball",
+      "value": "un ballon\nde plage"
+    },
+    {
+      "key": "sunbed",
+      "value": "un lit\nde plage"
+    },
+    {
+      "key": "sun cream",
+      "value": "une crème\nsolaire"
+    },
+    {
+      "key": "ship",
+      "value": "un\nbateau"
+    },
+    {
+      "key": "flip-flops",
+      "value": "des\ntongs"
+    },
+    {
+      "key": "towel",
+      "value": "une\nserviette"
+    },
+    {
+      "key": "lemonade",
+      "value": "la\nlimonade"
+    },
+    {
+      "key": "directions",
+      "value": "des\ndirections"
+    },
+    {
+      "key": "cloudy",
+      "value": "nuageux"
+    },
+    {
+      "key": "sunset",
+      "value": "un coucher\ndu soleil"
+    },
+    {
+      "key": "reception",
+      "value": "une\nréception"
+    },
+    {
+      "key": "highway",
+      "value": "une\nautoroute"
+    },
+    {
+      "key": "flippers",
+      "value": "des\npalmes"
+    },
+    {
+      "key": "postcard",
+      "value": "une carte\npostale"
+    },
+    {
+      "key": "swimsuit",
+      "value": "un maillot\nde bain"
+    },
+    {
+      "key": "surfboard",
+      "value": "un planche\nde surf"
+    },
+    {
+      "key": "wallet",
+      "value": "un\nportefeuille"
+    },
+     {
+      "key": "camcorder",
+      "value": "un\ncaméscope"
+    },
+    {
+      "key": "luggage",
+      "value": "des\nbagages"
+    },
+    {
+      "key": "arrival",
+      "value": "une\narrivée"
+    },
+    {
+      "key": "departure",
+      "value": "un\ndépart"
+    },
+    {
+      "key": "life jacket",
+      "value": "un gilet\nde sauvetage"
+    },
+    {
+      "key": "socket",
+      "value": "une prise\nde courant"
+    },
+   {
+      "key": "wristwatch",
+      "value": "une\nmontre"
+    },
+    {
+      "key": "jackknife",
+      "value": "un couteau\nde poche"
+    },
+     {
+      "key": "cityscape",
+      "value": "un paysage\nurbain"
+    },
+    {
+      "key": "currency exchange",
+      "value": "le\nchange"
+    },
+     {
+      "key": "RV",
+      "value": "un\ncamping-car"
+    },
+    {
+      "key": "souvenir",
+      "value": "un\nsouvenir"
+    },
+    {
+      "key": "binoculars",
+      "value": "des\njumelles"
+    },
+    {
+      "key": "snorkeling",
+      "value": "le\nsnorkeling"
+    }
+  ]
+}

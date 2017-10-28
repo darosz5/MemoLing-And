@@ -1,0 +1,270 @@
+﻿{
+  "items": [
+    {
+      "key": "house",
+      "value": "das\nHaus"
+    },
+    {
+      "key": "car",
+      "value": "das\nAuto"
+    },
+    {
+      "key": "bus",
+      "value": "der\nBus"
+    },
+    {
+      "key": "taxi",
+      "value": "das\nTaxi"
+    },
+    {
+      "key": "shop",
+      "value": "das\nGeschäft"
+    },
+    {
+      "key": "parking",
+      "value": "der\nParkplatz"
+    },
+    {
+      "key": "hotel",
+      "value": "das\nHotel"
+    },
+    {
+      "key": "bicycle",
+      "value": "das\nFahrrad"
+    },
+    {
+      "key": "billboard",
+      "value": "die\nPlakatwand"
+    },
+    {
+      "key": "bank",
+      "value": "die\nBank"
+    },
+    {
+      "key": "tree",
+      "value": "der\nBaum"
+    },
+    {
+      "key": "market",
+      "value": "der\nMarkt"
+    },
+    {
+      "key": "bus stop",
+      "value": "die\nBushaltestelle"
+    },
+    {
+      "key": "school",
+      "value": "die\nSchule"
+    },
+    {
+      "key": "hospital",
+      "value": "das\nKrankenhaus"
+    },
+    {
+      "key": "museum",
+      "value": "das\nMuseum"
+    },
+    {
+      "key": "theatre",
+      "value": "das\nTheater"
+    },
+    {
+      "key": "pizza shop",
+      "value": "die\nPizzeria"
+    },
+    {
+      "key": "road",
+      "value": "die\nStraße"
+    },
+    {
+      "key": "apartment building",
+      "value": "das\nAppartementhaus"
+    },
+    {
+      "key": "police station",
+      "value": "die\nPolizeiwache"
+    },
+    {
+      "key": "fire station",
+      "value": "die\nFeuerwache"
+    },
+    {
+      "key": "post office",
+      "value": "die\nPost"
+    },
+    {
+      "key": "cinema",
+      "value": "das\nKino"
+    },
+    {
+      "key": "circus",
+      "value": "der\nZirkus"
+    },
+    {
+      "key": "club",
+      "value": "der\nKlub"
+    },
+    {
+      "key": "public toilet",
+      "value": "die öffentliche\nToilette"
+    },
+    {
+      "key": "flower shop",
+      "value": "das\nBlumengeschäft"
+    },
+    {
+      "key": "bush",
+      "value": "der\nBusch"
+    },
+    {
+      "key": "bridge",
+      "value": "die\nBrücke"
+    },
+    {
+      "key": "ATM",
+      "value": "der\nGeldmautomat"
+    },
+    {
+      "key": "cafe",
+      "value": "das\nCafé"
+    },
+    {
+      "key": "pub",
+      "value": "das\nPub"
+    },
+    {
+      "key": "candy shop",
+      "value": "der\nSüßwarenladen"
+    },
+    {
+      "key": "office block",
+      "value": "das\nBürogebäude"
+    },
+    {
+      "key": "railway station",
+      "value": "der\nBahnhof"
+    },
+    {
+      "key": "hydrant",
+      "value": "der\nHydrant"
+    },
+    {
+      "key": "swing",
+      "value": "die\nSchaukel"
+    },
+    {
+      "key": "fountain",
+      "value": "der\nSpringbrunnen"
+    },
+    {
+      "key": "car wash",
+      "value": "Autowäsche"
+    },
+    {
+      "key": "gas station",
+      "value": "die\nTankstelle"
+    },
+      {
+      "key": "bakery",
+      "value": "die\nBäckerei"
+    },
+    {
+      "key": "mailbox",
+      "value": "der\nBriefkasten"
+    },
+    {
+      "key": "mall",
+      "value": "das\nEinkaufszentrum"
+    },
+    {
+      "key": "stadium",
+      "value": "das\nStadion"
+    },
+    {
+      "key": "street light",
+      "value": "die\nStraßenlaterne"
+    },
+    {
+      "key": "traffic light",
+      "value": "die\nAmpel"
+    },
+    {
+      "key": "fence",
+      "value": "der\nZaun"
+    },
+    {
+      "key": "gate",
+      "value": "das\nTor"
+    },
+    {
+      "key": "church",
+      "value": "die\nKirche"
+    },
+    {
+      "key": "cemetery",
+      "value": "der\nFriedhof"
+    },
+    {
+      "key": "prison",
+      "value": "das\nGefängnis"
+    },
+    {
+      "key": "skyscraper",
+      "value": "der\nWolkenkratzer"
+    },
+    {
+      "key": "tram",
+      "value": "die\nStraßenbahn"
+    },
+    {
+      "key": "pedestrian crossing",
+      "value": "der\nFußgängerübergang"
+    },  
+    {
+      "key": "phone booth",
+      "value": "die\nTelefonzelle"
+    },
+    {
+      "key": "pharmacy",
+      "value": "die\nApotheke"
+    },
+    
+    {
+      "key": "power plant",
+      "value": "das\nKraftwerk"
+    },
+    {
+      "key": "intersection",
+      "value": "die\nKreuzung"
+    },
+    {
+      "key": "U-turn",
+      "value": "die\nWende"
+    },
+    {
+      "key": "boutique",
+      "value": "die\nBoutique"
+    },
+    {
+      "key": "ferris wheel",
+      "value": "das\nRiesenrad"
+    },
+    {
+      "key": "mosque",
+      "value": "die\nMoschee"
+    },
+    {
+      "key": "synagogue",
+      "value": "die\nSynagoge"
+    },
+    {
+      "key": "roundabout",
+      "value": "der\nKreisverkehr"
+    },
+    {
+      "key": "vending machine",
+      "value": "der\nVerkaufsautomat"
+    }
+
+  ]
+}

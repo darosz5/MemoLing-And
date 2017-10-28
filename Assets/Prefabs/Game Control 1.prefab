@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1259981721350476}
+  m_IsPrefabParent: 1
+--- !u!1 &1259981721350476
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4914730171799928}
+  - component: {fileID: 114778429707575310}
+  - component: {fileID: 114746536091814874}
+  - component: {fileID: 82045724939594152}
+  m_Layer: 0
+  m_Name: Game Control 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4914730171799928
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1259981721350476}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.17843701, y: -0.22048828, z: 90}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!82 &82045724939594152
+AudioSource:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1259981721350476}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 9cb19eb032d304b07acec596ae2ce4a4, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+--- !u!114 &114746536091814874
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1259981721350476}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 729d3571ed7354ba184275ba6042151c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  popupPrefab: {fileID: 0}
+--- !u!114 &114778429707575310
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1259981721350476}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef2df8eb0d421384a94c776d42a2deb2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  languages:
+  - english
+  - german
+  - spanish
+  - polish
+  - french
+  - p
+  activeBoosters: []
+  SelectedWheelItem: {fileID: 0}
+  deathWheelItem: {fileID: 0}
+  inventory: 
+  avaliableCategories: []
+  baseCategories: []
+  wasHomeSceneLast: 0
+  secondLaunch: 0
+  CategoryStates: []
+  firstLanguage: 
+  secondLanguage: 
+  languageCount: 0
+  LoadingScreen: {fileID: 1465988348026234, guid: 09bbacc515f481847802dca6ed467a2c,
+    type: 2}
+  TimeOut: 45
+  IsPlayingDemo: 0
+  IsTesting: 0
+  IsChecking: 0
+  WasLevelWon: 0
+  levelStarsValues:
+  - Star1: 800
+    Star2: 2000
+    Star3: 2250
+  - Star1: 900
+    Star2: 2100
+    Star3: 2300
+  - Star1: 1000
+    Star2: 2200
+    Star3: 2400
+  - Star1: 1800
+    Star2: 3110
+    Star3: 3460
+  - Star1: 1820
+    Star2: 3140
+    Star3: 3490
+  - Star1: 1840
+    Star2: 3170
+    Star3: 3520
+  - Star1: 1860
+    Star2: 3200
+    Star3: 3530
+  - Star1: 1880
+    Star2: 3220
+    Star3: 3550
+  - Star1: 1900
+    Star2: 3240
+    Star3: 3570
+  - Star1: 2120
+    Star2: 3460
+    Star3: 3790
+  - Star1: 2140
+    Star2: 3480
+    Star3: 3810
+  - Star1: 2160
+    Star2: 3500
+    Star3: 3866
+  numOfCards: 0
+  isLanguageAvalibleForSpeech: 0
+  checkingInterval: 0.1
+  FirstCategoryPosition: {x: -252, y: 318, z: 0}
+  LostConnectionPopup: {fileID: 1858214969941594, guid: f19c497bd4516774f82fabccc10b2a13,
+    type: 2}
+  DemoScenePopup: {fileID: 1673862963394216, guid: a4ebab2ef39a887489b00ffe2d92056a,
+    type: 2}
+  LanguageSelectPopup: {fileID: 1954230616205538, guid: 7f8af6bf1384d2544b0901d518cd7f6e,
+    type: 2}
+  TestingPanel: {fileID: 1398776713413304, guid: 788d475d673faaa46a473becf8f1954b,
+    type: 2}
+  timeModfier: 3
+  matchNumModifier: 1
+  TestingPlayTime: 0

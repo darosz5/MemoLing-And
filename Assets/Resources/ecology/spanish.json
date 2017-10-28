@@ -1,0 +1,206 @@
+﻿{
+  "items": [
+    {
+      "key": "water",
+      "value": "el\nagua"
+    },    
+    {
+      "key": "tree",
+      "value": "el\nárbol"
+    },
+    {
+      "key": "earth",
+      "value": "la\nTierra"
+    },
+    {
+      "key": "forest",
+      "value": "el\nbosque"
+    },
+    {
+      "key": "leaf",
+      "value": "la\nhoja"
+    },
+    {
+      "key": "bush",
+      "value": "el\narbusto"
+    },
+    {
+      "key": "mushroom",
+      "value": "el\nhongo"
+    },
+    {
+      "key": "plant",
+      "value": "la\nplanta"
+    },
+    {
+      "key": "battery",
+      "value": "la\nbatería"
+    },
+    {
+      "key": "birdhouse",
+      "value": "la\npajarera"
+    },
+    {
+      "key": "oil",
+      "value": "el\npetróleo"
+    },
+    {
+      "key": "biofuel",
+      "value": "el\nbiocombustible"
+    },
+    {
+      "key": "garbage truck",
+      "value": "el camión\nde la basura"
+    },
+    {
+      "key": "electric car",
+      "value": "el coche\neléctrico"
+    },
+    {
+      "key": "tractor",
+      "value": "el\ntractor"
+    },
+    {
+      "key": "global warming",
+      "value": "el calentamiento\nglobal"
+    },
+    {
+      "key": "factory",
+      "value": "la\nfábrica"
+    },
+    {
+      "key": "barn",
+      "value": "el\ngranero"
+    },
+    {
+      "key": "recycling",
+      "value": "el\nreciclaje"
+    },
+    {
+      "key": "thermometer",
+      "value": "el\ntermómetro"
+    },
+    {
+      "key": "oxygen",
+      "value": "el\noxígeno"
+    },
+    {
+      "key": "hose",
+      "value": "la\nmanguera"
+    },
+    {
+      "key": "log",
+      "value": "el\ntronco"
+    },
+    {
+      "key": "water drop",
+      "value": "la gota\nde agua"
+    },
+    {
+      "key": "campfire",
+      "value": "la\nhoguera"
+    },
+    {
+      "key": "beehive",
+      "value": "la\ncolmena"
+    },
+    {
+      "key": "clover",
+      "value": "el\ntrébol"
+    },
+    {
+      "key": "fertilizer",
+      "value": "el\nfertilizante"
+    },
+    {
+      "key": "carbon dioxide",
+      "value": "el dióxido\nde carbono"
+    },
+    {
+      "key": "solar energy",
+      "value": "la energía\nsolar"
+    },
+    {
+      "key": "solar panel",
+      "value": "el panel\nsolar"
+    },
+    {
+      "key": "hay",
+      "value": "el\nheno"
+    },
+    {
+      "key": "ozone layer",
+      "value": "la capa\nde ozono"
+    },
+    {
+      "key": "watering can",
+      "value": "la\nregadera"
+    },
+    {
+      "key": "well",
+      "value": "el\npozo"
+    },
+    {
+      "key": "lawn mower",
+      "value": "la cortadora\nde césped"
+    },
+    {
+      "key": "sunflower",
+      "value": "el\ngirasol"
+    },
+    {
+      "key": "pinecone",
+      "value": "el cono\ndel pino"
+    },
+    {
+      "key": "greenhouse effect",
+      "value": "el efecto\ninvernadero"
+    },
+    {
+      "key": "radiation",
+      "value": "la\nradiación"
+    },
+    {
+      "key": "waste",
+      "value": "los\nresiduos"
+    },
+    {
+      "key": "renewable energy",
+      "value": "la energía\nrenovable"
+    },
+    {
+      "key": "windmill",
+      "value": "el\nmolino"
+    },
+    {
+      "key": "wheat",
+      "value": "el\ntrigo"
+    },
+    {
+      "key": "harvest",
+      "value": "la\ncosecha"
+    },
+    {
+      "key": "sprout",
+      "value": "el\nbrote"
+    },
+    {
+      "key": "deciduous tree",
+      "value": "el árbol\nde hoja caduca"
+    },
+    {
+      "key": "conifer",
+      "value": "la\nconífera"
+    },
+    {
+      "key": "nuclear plant",
+      "value": "la planta\nnuclear"
+    },
+    {
+      "key": "acorn",
+      "value": "la\nbellota"
+    }
+
+
+  ]
+}

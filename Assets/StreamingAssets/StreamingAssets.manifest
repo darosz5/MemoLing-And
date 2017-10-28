@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 2047651923
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: city
+      Dependencies: {}
+    Info_1:
+      Name: jobs
+      Dependencies: {}
+    Info_2:
+      Name: animals
+      Dependencies: {}
+    Info_3:
+      Name: food
+      Dependencies: {}
+    Info_4:
+      Name: travel
+      Dependencies: {}
+    Info_5:
+      Name: sport
+      Dependencies: {}
+    Info_6:
+      Name: human
+      Dependencies: {}
+    Info_7:
+      Name: house
+      Dependencies: {}
+    Info_8:
+      Name: countries
+      Dependencies: {}
+    Info_9:
+      Name: ecology
+      Dependencies: {}
+    Info_10:
+      Name: body
+      Dependencies: {}
+    Info_11:
+      Name: clothes
+      Dependencies: {}
+    Info_12:
+      Name: school
+      Dependencies: {}

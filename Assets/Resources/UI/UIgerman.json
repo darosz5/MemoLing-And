@@ -1,0 +1,422 @@
+﻿{
+  "items": [
+      {
+      "key": "_nativeLanguage",
+      "value": "Wähle deine\nMuttersprache."
+    },
+    {
+      "key": "_secondLanguage",
+      "value": "Wähle die Sprache,\ndie du lernen willst."
+    },
+    {
+      "key": "_spinwheel",
+      "value": "das Glücksrad"
+    },
+    {
+      "key": "_spindailydescr",
+      "value": "Du darfst jeden Tag drehen\nund einen Bonus gewinnen!"
+    },  
+    {
+      "key": "_video",
+      "value": "Video"
+    },
+    {
+      "key": "_free",
+      "value": "Free"
+    },
+    {
+      "key": "_withvideo",
+      "value": "mit Video"
+    },
+    {
+      "key": "_timetolearn",
+      "value": "Zeit zum Lernen"
+    },
+    {
+      "key": "_trytoremember",
+      "value": "Merke dir, welches Wort zu welchem Bild passt."
+    },
+     {
+      "key": "_rememberpicture",
+      "value": "Klick auf ein Bild, wenn du dir\nnicht sicher bist, was es darstellt.\nDie Beschreibung wird unten\nauf dem Bildschirm erscheinen."
+    },
+    {
+      "key": "_remembertext",
+      "value": "Klick auf ein Wort,\num zu hören,\nwie es ausgesprochen wird."
+    },
+    {
+      "key": "_shufflewhenready",
+      "value": "Klick 'Mischen' wenn du fertig bist."
+    },
+    {
+      "key": "_timetoplay",
+      "value": "Zeit zum Spielen!"
+    },
+    {
+      "key": "_matchwords",
+      "value": "Deck je eine weiße und eine blaue Blase auf\n und sehe, ob sie zueinander passen.\nWenn sie passen, werden sie aufgedeckt bleiben.\nWenn sie nicht passen, werden sie wieder\nzugedeckt. Merke dir, was wo war.\n Das Spiel ist zu Ende, wenn alle Bilder mit\nden dazu passenden Wörtern verbunden wurden."
+    },
+    {
+      "key": "_playmoves",
+      "value": "Du wirst entweder eine begrenzte\nAnzahl von Zügen..."
+    },
+    {
+      "key": "_playtime",
+      "value": "...oder eine begrenzte Zeit haben."
+    },
+    {
+      "key": "_powerups",
+      "value": "Power-ups"
+    },
+     {
+      "key": "_tutorial",
+      "value": "Tutorial"
+    },
+    {
+      "key": "_powwerupstutorial",
+      "value": "Vor jedem Spiel kannst du bis zu drei\nPower-ups bekommen. Du kannst sie vor\ndem Mischen der Blasen nutzen."
+    },
+    {
+      "key": "_timepowerup",
+      "value": "Dieses gibt dir zusätzliche Zeit\noder Züge."
+    },
+    {
+      "key": "_revealpowerup",
+      "value": "Dieses deckt ein Paar\nam Anfang auf."
+    },
+    {
+      "key": "_sidepowerup",
+      "value": "Mit diesem kannst du\nnach dem Mischen einen kurzen\nBlick auf die Bilder werfen."
+    },
+    {
+      "key": "_thatsit",
+      "value": "Das war's!"
+    },
+    {
+      "key": "_readytoplay",
+      "value": "Du kannst jetzt zum Spiel übergehen."
+    },
+     {
+      "key": "_full",
+      "value": "Voll"
+    },
+    {
+      "key": "_unlockedlevel",
+      "value": "Das Level ist\nnoch nicht entsperrt!"
+    },
+     {
+      "key": "_moves",
+      "value": "Zügen"
+    },
+    {
+      "key": "_seconds",
+      "value": "Sekunden"
+    },
+     {
+      "key": "_spindeath",
+      "value": "Versuch dein Glück und\ndreh das Rad!"
+    },
+    {
+      "key": "_showicons",
+      "value": "Zeig die Bilder"
+    },
+    {
+      "key": "_yourhighscore",
+      "value": "dein Highscore:"
+    },
+    {
+      "key": "_settings",
+      "value": "Einstellungen"
+    },
+    {
+      "key": "_spin",
+      "value": "Dreh!"
+    },
+    {
+      "key": "_languageselect",
+      "value": "Sprachenwahl"
+    },
+    {
+      "key": "_save",
+      "value": "Speichern"
+    },
+    {
+      "key": "_music",
+      "value": "Musik"
+    },
+    {
+      "key": "_sound",
+      "value": "Ton"
+    },
+    {
+      "key": "_helpinfo",
+      "value": "Wenn du Hilfe brauchst,\nschreib uns an:\nwordling.acgames@gmail.com"
+    },
+    {
+      "key": "_quit",
+      "value": "Möchtest du\nwirklich aussteigen?"
+    },
+    {
+      "key": "_recievereward",
+      "value": "Schnapp dir\ndeinen Bonus!"
+    },
+    {
+      "key": "_food",
+      "value": "Essen"
+    },
+    {
+      "key": "_house",
+      "value": "zu\nHause"
+    },
+    {
+      "key": "_ecology",
+      "value": "Ökologie"
+    },
+    {
+      "key": "_jobs",
+      "value": "Berufe"
+    },
+    {
+      "key": "_travel",
+      "value": "Reisen"
+    },
+    {
+      "key": "_sport",
+      "value": "Sport"
+    },
+    {
+      "key": "_city",
+      "value": "in der\nStadt"
+    },
+    {
+      "key": "_clothes",
+      "value": "Kleider"
+    },
+    {
+      "key": "_animals",
+      "value": "Tiere"
+    },
+    {
+      "key": "_humanbody",
+      "value": "der\nmenschliche\nKörper"
+    },
+    {
+      "key": "_everydaylife",
+      "value": "der\nAlltag"
+    },
+    {
+      "key": "_countries",
+      "value": "Länder"
+    },
+    {
+      "key": "_categories",
+      "value": "Kategorien"
+    },
+   
+    {
+      "key": "_level",
+      "value": "Level"
+    },
+     
+    {
+      "key": "_yourscore",
+      "value": "dein Punktestand:"
+    },
+    {
+      "key": "_revealpair",
+      "value": "Deck ein Paar auf"
+    },
+    {
+      "key": "_watchandgetbooster",
+      "value": "Sieh dir das Video an\nund hol dein Power-up ab!"
+    },
+    {
+      "key": "_moretimemoves",
+      "value": "Mehr Zeit\noder Züge"
+    },
+    {
+      "key": "_go",
+      "value": "Start!"
+    }, 
+    {
+      "key": "_shuffle",
+      "value": "Mischen"
+    },
+    {
+      "key": "_gamepaused",
+      "value": "Pausen..."
+    },
+    {
+      "key": "_resume",
+      "value": "Weiter"
+    },
+    {
+      "key": "_quitlevel",
+      "value": "Aussteigen"
+    },
+    {
+      "key": "_nextstage",
+      "value": "Nächste\nEtappe"
+    },
+    {
+      "key": "_youlose",
+      "value": "Du hast verloren"
+    },
+
+    {
+      "key": "_gameover",
+      "value": "Spielende"
+    },
+    {
+      "key": "_english",
+      "value": "Englisch"
+    },
+    {
+      "key": "_polish",
+      "value": "Polnisch"
+    },
+    {
+      "key": "_german",
+      "value": "Deutsch"
+    },
+    {
+      "key": "_spanish",
+      "value": "Spanisch"
+    },
+    {
+      "key": "_french",
+      "value": "Französisch"
+    },
+    {
+      "key": "_help",
+      "value": "Hilfe"
+    },
+    {
+      "key": "_yes",
+      "value": "Ja"
+    },
+    {
+      "key": "_no",
+      "value": "Nein"
+    },
+    {
+      "key": "_levels",
+      "value": "Levels"
+    },
+    {
+      "key": "_easy",
+      "value": "Leicht"
+    },
+    {
+      "key": "_normal",
+      "value": "Normal"
+    },
+    {
+      "key": "_hard",
+      "value": "Schwer"
+    },
+    {
+      "key": "_veryhard",
+      "value": "Sehr schwer"
+    },
+    {
+      "key": "_ups",
+      "value": "???"
+    },
+    {
+      "key": "_finishin",
+      "value": "Ende in "
+    },
+    {
+      "key": "_addlife",
+      "value": "verdiene\nein Leben"
+    },
+    {
+      "key": "_addlifedescr",
+      "value": "Sieh dir das Video an und\nspiel weiter ohne zu warten"
+    },
+
+    {
+      "key": "_loading",
+      "value": "Wird geladen..."
+    },
+    {
+      "key": "_noconnection",
+      "value": "Keine Verbindung..."
+    },
+    {
+      "key": "_noconnectiondescr",
+      "value": "Für neue Kategorien brauchst\ndu Internetanschluss.\nPrüfe deine Internetverbindung."
+    },
+    {
+      "key": "_wait",
+      "value": "Warte"
+    },
+    {
+      "key": "_nextspin",
+      "value": "Du darfst nochmal\ndrehen in:"
+    },
+    {
+      "key": "_complete",
+      "value": "Level erreicht!"
+    },
+    {
+      "key": "_tutorialdescr",
+      "value": "Möchtest du\ndas Tutorial jetzt spielen?"
+    },
+
+    {
+      "key": "_new",
+      "value": "Neues"
+    },
+     {
+      "key": "_failedad",
+      "value": "Wir haben ein Problem\nmit der Internetverbindung.\nPrüfe deinen Internetanschluss\nund probiere noch einmal."
+    },
+    {
+      "key": "_skippedad",
+      "value": "Du hast wohl das Video\nübersprungen.\nMöchtest du nochmal probieren?"
+    },
+    {
+      "key": "_shop",
+      "value": "das\nGeschaft"
+    },
+    {
+      "key": "_welcome",
+      "value": "Wilkommen"
+    },
+    {
+      "key": "_shopsuccess",
+      "value": "Geschaft success!"
+    },
+    {
+      "key": "_shopfail",
+      "value": "Geschaft Fail"
+    },
+    {
+      "key": "_shopalreadyhas",
+      "value": "You already have this item.\nYou can play it right now! uber alles"
+    },
+    {
+      "key": "_good",
+      "value": "GUT"
+    },
+    {
+      "key": "_great",
+      "value": "TOLL!"
+    },
+    {
+      "key": "_fantastic",
+      "value": "AUSGEZEICHNET!!!"
+    },
+     {
+      "key": "_school",
+      "value": "Schule"
+    }
+
+
+
+    
+
+  ]
+}

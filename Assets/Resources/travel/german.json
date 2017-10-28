@@ -1,0 +1,252 @@
+﻿{
+  "items": [
+    {
+      "key": "bus",
+      "value": "der\nBus"
+    },
+    {
+      "key": "bicycle",
+      "value": "das\nFahrrad"
+    },
+    {
+      "key": "hotel",
+      "value": "das\nHotel"
+    },
+    {
+      "key": "sun",
+      "value": "die\nSonne"
+    },
+    {
+      "key": "map",
+      "value": "die\nLandkarte"
+    },
+    {
+      "key": "money",
+      "value": "das\nGeld"
+    },
+    {
+      "key": "credit card",
+      "value": "die\nKreditkarte"
+    },
+    {
+      "key": "restaurant",
+      "value": "das\nRestaurant"
+    },
+    {
+      "key": "plane",
+      "value": "das\nFlugzeug"
+    },
+    {
+      "key": "compass",
+      "value": "der\nKompass"
+    },   
+     {
+      "key": "trailer",
+      "value": "der\nWohnanhänger"
+    },
+    {
+      "key": "laptop",
+      "value": "der\nLaptop"
+    },
+    {
+      "key": "grill",
+      "value": "der\nGrill"
+    },
+    {
+      "key": "beach",
+      "value": "der\nStrand"
+    },
+    {
+      "key": "forest",
+      "value": "der\nWald"
+    },
+    {
+      "key": "mountain",
+      "value": "der\nBerg"
+    },
+    {
+      "key": "fishing",
+      "value": "Fischen"
+    },
+    {
+      "key": "bikini",
+      "value": "der\nBikini"
+    },
+    {
+      "key": "key",
+      "value": "der\nSchlüssel"
+    },
+    {
+      "key": "rain",
+      "value": "der\nRegen"
+    },
+     {
+      "key": "camera",
+      "value": "der\nFotoapparat"
+    },
+    {
+      "key": "picture",
+      "value": "das\nFoto"
+    },
+    {
+      "key": "island",
+      "value": "die\nInsel"
+    },
+     {
+      "key": "train",
+      "value": "der\nZug"
+    },
+    {
+      "key": "backpack",
+      "value": "der\nRucksack"
+    },
+    {
+      "key": "headphones",
+      "value": "Kopfhörer"
+    },
+    {
+      "key": "passport",
+      "value": "der\nPassport"
+    },
+     {
+      "key": "toothbrush",
+      "value": "die\nZahnbürste"
+    },
+     {
+      "key": "ticket",
+      "value": "das\nTicket"
+    },
+    {
+      "key": "jeep",
+      "value": "der\nJeep"
+    },
+    {
+      "key": "sunglasses",
+      "value": "die\nSonnenbrille"
+    },
+    {
+      "key": "beach ball",
+      "value": "der\nWasserball"
+    },
+    {
+      "key": "sunbed",
+      "value": "der\nLiegestuhl"
+    },
+    {
+      "key": "sun cream",
+      "value": "die\nSonnencreme"
+    },
+    {
+      "key": "ship",
+      "value": "das\nSchiff"
+    },
+    {
+      "key": "flip-flops",
+      "value": "Flip-Flops"
+    },
+    {
+      "key": "towel",
+      "value": "das\nHandtuch"
+    },
+    {
+      "key": "lemonade",
+      "value": "die\nLimonade"
+    },
+    {
+      "key": "directions",
+      "value": "Richtungen"
+    },
+    {
+      "key": "cloudy",
+      "value": "bewölkt"
+    },
+    {
+      "key": "sunset",
+      "value": "der\nSonnenuntergang"
+    },
+    {
+      "key": "reception",
+      "value": "die\nRezeption"
+    },
+    {
+      "key": "highway",
+      "value": "die\nAutobahn"
+    },
+    {
+      "key": "flippers",
+      "value": "Schwimmflossen"
+    },
+    {
+      "key": "postcard",
+      "value": "die\nPostkarte"
+    },
+    {
+      "key": "swimsuit",
+      "value": "der\nBadeanzug"
+    },
+    {
+      "key": "surfboard",
+      "value": "das\nSurfbrett"
+    },
+    {
+      "key": "wallet",
+      "value": "der\nGeldbeutel"
+    },
+     {
+      "key": "camcorder",
+      "value": "die\nKamera"
+    },
+    {
+      "key": "luggage",
+      "value": "das\nGepäck"
+    },
+    {
+      "key": "arrival",
+      "value": "die\nAnkunft"
+    },
+    {
+      "key": "departure",
+      "value": "der\nAbflug"
+    },
+    {
+      "key": "life jacket",
+      "value": "die\nSchwimmweste"
+    },
+    {
+      "key": "socket",
+      "value": "die\nSteckdose"
+    },
+   {
+      "key": "wristwatch",
+      "value": "die\nArmbanduhr"
+    },
+    {
+      "key": "jackknife",
+      "value": "das\nTaschenmesser"
+    },
+     {
+      "key": "cityscape",
+      "value": "das\nStadtbild"
+    },
+    {
+      "key": "currency exchange",
+      "value": "der\nGeldwechsel"
+    },
+     {
+      "key": "RV",
+      "value": "der\nWohnwagen"
+    },
+    {
+      "key": "souvenir",
+      "value": "das\nAndenken"
+    },
+    {
+      "key": "binoculars",
+      "value": "das\nFernglas"
+    },
+    {
+      "key": "snorkeling",
+      "value": "Schnorcheln"
+    }
+  ]
+}

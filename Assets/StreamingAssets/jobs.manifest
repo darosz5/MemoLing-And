@@ -1,0 +1,65 @@
+ManifestFileVersion: 0
+CRC: 1441742431
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9c4d2d73b836dcb796d6ee8ff1e8fe78
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21f0dc8ebad690f009368069428e0a1a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Icons/jobs/politician.png
+- Assets/Icons/jobs/policeman.png
+- Assets/Icons/jobs/secretary.png
+- Assets/Icons/jobs/soldier.png
+- Assets/Icons/jobs/concierge.png
+- Assets/Icons/jobs/gardner.png
+- Assets/Icons/jobs/detective.png
+- Assets/Icons/jobs/photographer.png
+- Assets/Icons/jobs/driver.png
+- Assets/Icons/jobs/farmer.png
+- Assets/Icons/jobs/diver.png
+- Assets/Icons/jobs/writer.png
+- Assets/Icons/jobs/chef.png
+- Assets/Icons/jobs/hairdresser.png
+- Assets/Icons/jobs/teacher.png
+- Assets/Icons/jobs/lecturer.png
+- Assets/Icons/jobs/clown.png
+- Assets/Icons/jobs/miner.png
+- Assets/Icons/Categories/jobs.png
+- Assets/Icons/jobs/singer.png
+- Assets/Icons/jobs/manager.png
+- Assets/Icons/jobs/stewardess.png
+- Assets/Icons/jobs/athlete.png
+- Assets/Icons/jobs/carpenter.png
+- Assets/Icons/jobs/painter.png
+- Assets/Icons/jobs/dyer.png
+- Assets/Icons/jobs/astronaut.png
+- Assets/Icons/jobs/builder.png
+- Assets/Icons/jobs/DJ.png
+- Assets/Icons/jobs/magician.png
+- Assets/Icons/jobs/sailor.png
+- Assets/Icons/jobs/priest.png
+- Assets/Icons/jobs/postman.png
+- Assets/Icons/jobs/maid.png
+- Assets/Icons/jobs/waiter.png
+- Assets/Icons/jobs/plumber.png
+- Assets/Icons/jobs/firefighter.png
+- Assets/Icons/jobs/doctor.png
+- Assets/Icons/jobs/lumberjack.png
+- Assets/Icons/jobs/chemist.png
+- Assets/Icons/jobs/nurse.png
+- Assets/Icons/jobs/mechanic.png
+- Assets/Icons/jobs/fisherman.png
+- Assets/Icons/jobs/courier.png
+- Assets/Icons/jobs/pilot.png
+- Assets/Icons/jobs/electrician.png
+- Assets/Icons/jobs/cashier.png
+- Assets/Icons/jobs/programmer.png
+Dependencies: []

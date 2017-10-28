@@ -1,0 +1,335 @@
+﻿{
+  "items": [
+      {
+      "key": "dog",
+      "value": "pies"
+    },
+
+    {
+      "key": "cat",
+      "value": "kot"
+    },
+      {
+      "key": "horse",
+      "value": "koń"
+    },
+  {
+      "key": "fish",
+      "value": "ryba"
+    },
+    {
+      "key": "cow",
+      "value": "krowa"
+    },
+
+    {
+      "key": "bird",
+      "value": "ptak"
+    },
+    {
+      "key": "mouse",
+      "value": "mysz"
+    },
+    {
+      "key": "sheep",
+      "value": "owca"
+    },
+    {
+      "key": "pig",
+      "value": "świnia"
+    },
+    {
+      "key": "lion",
+      "value": "lew"
+    },
+
+    {
+      "key": "tiger",
+      "value": "tygrys"
+    },
+    {
+      "key": "monkey",
+      "value": "małpa"
+    },
+    {
+      "key": "elephant",
+      "value": "słoń"
+    },
+    {
+      "key": "dolphin",
+      "value": "delfin"
+    },
+
+    {
+      "key": "snake",
+      "value": "wąż"
+    },
+    {
+      "key": "bear",
+      "value": "niedźwiedź"
+    },
+    {
+      "key": "frog",
+      "value": "żaba"
+    },
+    {
+      "key": "panda",
+      "value": "panda"
+    },
+    {
+      "key": "chicken",
+      "value": "kura"
+    },
+    {
+      "key": "bat",
+      "value": "nietoperz"
+    },
+    {
+      "key": "rabbit",
+      "value": "królik"
+    },
+
+    {
+      "key": "duck",
+      "value": "kaczka"
+    },
+    {
+      "key": "crocodile",
+      "value": "krokodyl"
+    },
+    {
+      "key": "spider",
+      "value": "pająk"
+    },
+    {
+      "key": "bee",
+      "value": "pszczoła"
+    },
+    {
+      "key": "hamster",
+      "value": "chomik"
+    },
+    {
+      "key": "zebra",
+      "value": "zebra"
+    },
+    {
+      "key": "butterfly",
+      "value": "motyl"
+    },
+    {
+      "key": "donkey",
+      "value": "osioł"
+    },
+    {
+      "key": "wolf",
+      "value": "wilk"
+    },
+    {
+      "key": "fox",
+      "value": "lis"
+    },
+    {
+      "key": "gorilla",
+      "value": "goryl"
+    },
+    {
+      "key": "parrot",
+      "value": "papuga"
+    },
+
+    {
+      "key": "goat",
+      "value": "koza"
+    },
+    {
+      "key": "koala",
+      "value": "koala"
+    },
+    {
+      "key": "crab",
+      "value": "krab"
+    },
+    {
+      "key": "snail",
+      "value": "ślimak"
+    },
+    {
+      "key": "scorpion",
+      "value": "skorpion"
+    },
+    {
+      "key": "kangaroo",
+      "value": "kangur"
+    },
+    {
+      "key": "panther",
+      "value": "pantera"
+    },
+    {
+      "key": "giraffe",
+      "value": "żyrafa"
+    },
+    {
+      "key": "turtle",
+      "value": "żółw"
+    },
+    {
+      "key": "penguin",
+      "value": "pingwin"
+    },
+    {
+      "key": "deer",
+      "value": "jeleń"
+    },
+    {
+      "key": "camel",
+      "value": "wielbłąd"
+    },
+    {
+      "key": "hippopotamus",
+      "value": "hipopotam"
+    },
+{
+      "key": "antelope",
+      "value": "antylopa"
+    },
+    {
+      "key": "flamingo",
+      "value": "flaming"
+    },
+
+    {
+      "key": "toad",
+      "value": "ropucha"
+    },
+    {
+      "key": "owl",
+      "value": "sowa"
+    },
+    {
+      "key": "rhinoceros",
+      "value": "nosorożec"
+    },
+    {
+      "key": "squirrel",
+      "value": "wiewiórka"
+    },
+    {
+      "key": "toucan",
+      "value": "tukan"
+    },
+    {
+      "key": "hyena",
+      "value": "hiena"
+    },
+    {
+      "key": "beetle",
+      "value": "chrząszcz"
+    },
+    {
+      "key": "hedgehog",
+      "value": "jeż"
+    },
+
+    {
+      "key": "seal",
+      "value": "foka"
+    },
+    {
+      "key": "bison",
+      "value": "bizon"
+    },
+{
+      "key": "skunk",
+      "value": "skunks"
+    },
+    {
+      "key": "kiwi",
+      "value": "kiwi"
+    },
+    {
+      "key": "crow",
+      "value": "wrona"
+    },
+    {
+      "key": "cheetah",
+      "value": "gepard"
+    },
+    {
+      "key": "lizard",
+      "value": "jaszczurka"
+    },
+    {
+      "key": "moose",
+      "value": "łoś"
+    },
+    {
+      "key": "whale",
+      "value": "wieloryb"
+    },
+
+    {
+      "key": "mole",
+      "value": "kret"
+    },
+    {
+      "key": "ostrich",
+      "value": "struś"
+    },
+    {
+      "key": "jellyfish",
+      "value": "meduza"
+    },
+    {
+      "key": "clam",
+      "value": "małż"
+    },
+    {
+      "key": "starfish",
+      "value": "rozgwiazda"
+    },
+    {
+      "key": "racoon",
+      "value": "szop pracz"
+    },
+    {
+      "key": "coral",
+      "value": "koral"
+    },
+    {
+      "key": "badger",
+      "value": "borsuk"
+    },
+    {
+      "key": "weasel",
+      "value": "łasica"
+    },
+    {
+      "key": "wolverine",
+      "value": "rosomak"
+    },
+    {
+      "key": "armadillo",
+      "value": "pancernik"
+    },
+    {
+      "key": "alpaca",
+      "value": "alpaka"
+    },
+    {
+      "key": "boar",
+      "value": "dzik"
+    },
+    {
+      "key": "puffer fish",
+      "value": "kolcobrzuch"
+    },
+    {
+      "key": "walrus",
+      "value": "mors"
+    }
+
+
+  ]
+}

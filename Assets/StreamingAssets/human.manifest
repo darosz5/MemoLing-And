@@ -1,0 +1,79 @@
+ManifestFileVersion: 0
+CRC: 3929765373
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fb6d7a0f0e4dd43b1e7cda357313ee19
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21f0dc8ebad690f009368069428e0a1a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Icons/human/friendship.png
+- Assets/Icons/human/to sit.png
+- Assets/Icons/human/to die.png
+- Assets/Icons/human/to work.png
+- Assets/Icons/human/family.png
+- Assets/Icons/human/to dance.png
+- Assets/Icons/human/to fight.png
+- Assets/Icons/human/to listen to music.png
+- Assets/Icons/human/to present.png
+- Assets/Icons/human/to make friends.png
+- Assets/Icons/human/to win.png
+- Assets/Icons/human/to take a picture.png
+- Assets/Icons/human/to embrace.png
+- Assets/Icons/human/to watch.png
+- Assets/Icons/human/to cook.png
+- Assets/Icons/human/to have a question.png
+- Assets/Icons/human/to propose.png
+- Assets/Icons/human/to read.png
+- Assets/Icons/human/to repair.png
+- Assets/Icons/human/to sleep.png
+- Assets/Icons/human/to chat.png
+- Assets/Icons/human/newborn.png
+- Assets/Icons/human/to think.png
+- Assets/Icons/human/to exercise.png
+- Assets/Icons/human/ill.png
+- Assets/Icons/human/to drive.png
+- Assets/Icons/human/marriage.png
+- Assets/Icons/human/to walk.png
+- Assets/Icons/human/sad.png
+- Assets/Icons/human/to dress.png
+- Assets/Icons/human/to travel.png
+- Assets/Icons/human/to wait.png
+- Assets/Icons/human/to have a birthday.png
+- Assets/Icons/human/to text.png
+- Assets/Icons/human/to take a shower.png
+- Assets/Icons/human/to run.png
+- Assets/Icons/Categories/human.png
+- Assets/Icons/human/to hold hands.png
+- Assets/Icons/human/couple.png
+- Assets/Icons/human/to shop.png
+- Assets/Icons/human/pregnant.png
+- Assets/Icons/human/child.png
+- Assets/Icons/human/to talk.png
+- Assets/Icons/human/to relax.png
+- Assets/Icons/human/to earn money.png
+- Assets/Icons/human/disabled.png
+- Assets/Icons/human/to party.png
+- Assets/Icons/human/to go to work.png
+- Assets/Icons/human/to kiss.png
+- Assets/Icons/human/parent.png
+- Assets/Icons/human/to talk on the phone.png
+- Assets/Icons/human/to stand.png
+- Assets/Icons/human/to go upstairs.png
+- Assets/Icons/human/to pray.png
+- Assets/Icons/human/old.png
+- Assets/Icons/human/to speak.png
+- Assets/Icons/human/to hug.png
+- Assets/Icons/human/to love.png
+- Assets/Icons/human/to scream.png
+- Assets/Icons/human/happy.png
+- Assets/Icons/human/to wave a hand.png
+- Assets/Icons/human/to eat.png
+Dependencies: []

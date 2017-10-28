@@ -1,0 +1,312 @@
+﻿{
+  "items": [
+     {
+      "key": "football",
+      "value": "piłka\nnożna"
+    },
+    {
+      "key": "basketball",
+      "value": "koszykówka"
+    },
+    {
+      "key": "tennis",
+      "value": "tenis"
+    },
+     {
+      "key": "volleyball",
+      "value": "siatkówka"
+    },
+    {
+      "key": "american football",
+      "value": "futbol\namerykański"
+    },
+    {
+      "key": "baseball",
+      "value": "bejsbol"
+    },
+    {
+      "key": "boxing",
+      "value": "boks"
+    },
+    {
+      "key": "golf",
+      "value": "golf"
+    },
+    {
+      "key": "hockey",
+      "value": "hokej"
+    },
+    {
+      "key": "medal",
+      "value": "medal"
+    },
+    {
+      "key": "bottle",
+      "value": "butelka"
+    },
+    {
+      "key": "glove",
+      "value": "rękawica"
+    },
+    {
+      "key": "bag",
+      "value": "torba"
+    },
+    {
+      "key": "skiing",
+      "value": "narciarstwo"
+    },
+    {
+      "key": "backpack",
+      "value": "plecak"
+    },
+    {
+      "key": "cycling",
+      "value": "kolarstwo"
+    },
+    {
+      "key": "helmet",
+      "value": "kask"
+    },
+    {
+      "key": "cap",
+      "value": "czapka"
+    },
+    {
+      "key": "cup",
+      "value": "puchar"
+    },
+    {
+      "key": "goggles",
+      "value": "okulary\ndo pływania"
+    },
+    {
+      "key": "locker",
+      "value": "szafka"
+    },
+    {
+      "key": "olympics",
+      "value": "olimpiada"
+    },
+    {
+      "key": "skateboarding",
+      "value": "jazda\nna deskorolce"
+    },
+    {
+      "key": "snowboarding",
+      "value": "snowboarding"
+    },
+    {
+      "key": "fishing",
+      "value": "wędkarstwo"
+    },
+    {
+      "key": "car racing",
+      "value": "wyścigi\nsamochodowe"
+    },
+    {
+      "key": "motorcycle racing",
+      "value": "wyścigi\nmotocyklowe"
+    },
+    {
+      "key": "goal",
+      "value": "bramka"
+    },
+    {
+      "key": "polo",
+      "value": "polo"
+    },
+    {
+      "key": "bowling",
+      "value": "kręgle"
+    },
+    {
+      "key": "pool",
+      "value": "bilard"
+    },
+     {
+      "key": "whistle",
+      "value": "gwizdek"
+    },
+    {
+      "key": "chess",
+      "value": "szachy"
+    },
+    {
+      "key": "darts",
+      "value": "gra\nw rzutki"
+    },
+    {
+      "key": "hiking",
+      "value": "piesza\nwycieczka"
+    },
+    {
+      "key": "ice skating",
+      "value": "łyżwiarstwo"
+    },
+    {
+      "key": "jersey",
+      "value": "koszulka\nsportowa"
+    },
+    {
+      "key": "kayak",
+      "value": "kajak"
+    },
+    {
+      "key": "muscle",
+      "value": "mięsień"
+    },
+    {
+      "key": "surfboard",
+      "value": "deska\nsurfingowa"
+    },
+    {
+      "key": "gymnastics",
+      "value": "gimnastyka"
+    },
+    {
+      "key": "table tennis",
+      "value": "tenis\nstołowy"
+    },
+    {
+      "key": "ballet",
+      "value": "balet"
+    },
+    {
+      "key": "golf club",
+      "value": "kij\ngolfowy"
+    },
+    {
+      "key": "baseball glove",
+      "value": "rękawica\nbaseballowa"
+    },
+    {
+      "key": "basketball court",
+      "value": "boisko\ndo koszykówki"
+    },
+    {
+      "key": "football field",
+      "value": "boisko\ndo piłki nożnej"
+    },
+    {
+      "key": "tennis racket",
+      "value": "rakieta\ntenisowa"
+    },
+    {
+      "key": "podium",
+      "value": "podium"
+    },
+    {
+      "key": "polo shirt",
+      "value": "koszulka\npolo"
+    },
+    {
+      "key": "roller skating",
+      "value": "jazda\nna wrotkach"
+    },
+    {
+      "key": "swimming suit",
+      "value": "strój\nkompielowy"
+    },
+    {
+      "key": "bow",
+      "value": "łuk"
+    },
+     {
+      "key": "sailing",
+      "value": "żeglarstwo "
+    },
+     {
+      "key": "stopwatch",
+      "value": "stoper"
+    },
+    {
+      "key": "bowling pin",
+      "value": "kręgiel"
+    },
+    {
+      "key": "curling",
+      "value": "curling"
+    },
+    {
+      "key": "pads",
+      "value": "ochraniacze"
+    },
+    {
+      "key": "parachuting",
+      "value": "paralotniarstwo"
+    },
+    {
+      "key": "puck",
+      "value": "krążek\nhokejowy"
+    },
+    {
+      "key": "punching bag",
+      "value": "worek\ntreningowy"
+    },
+    {
+      "key": "scoreboard",
+      "value": "tablica\nwyników"
+    },
+    {
+      "key": "referee",
+      "value": "sędzia"
+    },    
+     {
+      "key": "stationary bike",
+      "value": "rowerek\nstacjonarny"
+    },
+    {
+      "key": "archery",
+      "value": "łucznictwo"
+    },
+    {
+      "key": "cricket",
+      "value": "krykiet"
+    },
+    {
+      "key": "hammer throwing",
+      "value": "rzut\nmłotem"
+    },
+    {
+      "key": "biathlon",
+      "value": "biathlon"
+    },
+    {
+      "key": "bobsleigh",
+      "value": "bobslej"
+    },
+    {
+      "key": "mouthpiece",
+      "value": "ochraniacz\nna zęby"
+    },
+    {
+      "key": "olympic torch",
+      "value": "pochodnia\nolimpijska"
+    },
+     {
+      "key": "treadmill",
+      "value": "bieżnia"
+    },
+    {
+      "key": "dumbbell",
+      "value": "hantel"
+    },
+    {
+      "key": "fencing",
+      "value": "szermierka"
+    },
+    {
+      "key": "pommel horse",
+      "value": "koń\nz łękami"
+    },
+    {
+      "key": "cue stick",
+      "value": "kij\nbilardowy"
+    },
+    {
+      "key": "foil",
+      "value": "floret"
+    }
+  ]
+}

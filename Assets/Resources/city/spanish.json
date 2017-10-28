@@ -1,0 +1,270 @@
+﻿{
+  "items": [
+    {
+      "key": "house",
+      "value": "la\ncasa"
+    },
+    {
+      "key": "car",
+      "value": "el\ncoche"
+    },
+    {
+      "key": "bus",
+      "value": "el\nbus"
+    },
+    {
+      "key": "taxi",
+      "value": "el\ntaxi"
+    },
+    {
+      "key": "shop",
+      "value": "la\ntienda"
+    },
+    {
+      "key": "parking",
+      "value": "el\nestacionamiento"
+    },
+    {
+      "key": "hotel",
+      "value": "el\nhotel"
+    },
+    {
+      "key": "bicycle",
+      "value": "la\nbicicleta"
+    },
+    {
+      "key": "billboard",
+      "value": "la valla\npublicitaria"
+    },
+    {
+      "key": "bank",
+      "value": "el\nbanco"
+    },
+    {
+      "key": "tree",
+      "value": "el\nárbol"
+    },
+    {
+      "key": "market",
+      "value": "el\nmercado"
+    },
+    {
+      "key": "bus stop",
+      "value": "la parada\nde autobús"
+    },
+    {
+      "key": "school",
+      "value": "la\nescuela"
+    },
+    {
+      "key": "hospital",
+      "value": "hospital"
+    },
+    {
+      "key": "museum",
+      "value": "el\nmuseo"
+    },
+    {
+      "key": "theatre",
+      "value": "el\nteatro"
+    },
+    {
+      "key": "pizza shop",
+      "value": "la\npizzería"
+    },
+    {
+      "key": "road",
+      "value": "el\ncamino"
+    },
+    {
+      "key": "apartment building",
+      "value": "el edificio\nde apartamentos"
+    },
+    {
+      "key": "police station",
+      "value": "la\ncomisaría"
+    },
+    {
+      "key": "fire station",
+      "value": "el parque\nde bomberos"
+    },
+    {
+      "key": "post office",
+      "value": "la oficina\nde correos"
+    },
+    {
+      "key": "cinema",
+      "value": "el\ncine"
+    },
+    {
+      "key": "circus",
+      "value": "el\ncirco"
+    },
+    {
+      "key": "club",
+      "value": "el\nclub"
+    },
+    {
+      "key": "public toilet",
+      "value": "el baño\npúblico"
+    },
+    {
+      "key": "flower shop",
+      "value": "la\nfloristería"
+    },
+    {
+      "key": "bush",
+      "value": "el\narbusto"
+    },
+    {
+      "key": "bridge",
+      "value": "el\npuente"
+    },
+    {
+      "key": "ATM",
+      "value": " el\ncajero"
+    },
+    {
+      "key": "cafe",
+      "value": "el\ncafé"
+    },
+    {
+      "key": "pub",
+      "value": "el\npub"
+    },
+    {
+      "key": "candy shop",
+      "value": "la tienda\nde dulcesi"
+    },
+    {
+      "key": "office block",
+      "value": "el bloque\nde oficinas"
+    },
+    {
+      "key": "railway station",
+      "value": "la estación\nde tren"
+    },
+    {
+      "key": "hydrant",
+      "value": "la boca\nde riego"
+    },
+    {
+      "key": "swing",
+      "value": "el\ncolumpio"
+    },
+    {
+      "key": "fountain",
+      "value": "la\nfuente"
+    },
+    {
+      "key": "car wash",
+      "value": "el\nlavacoches"
+    },
+    {
+      "key": "gas station",
+      "value": "la\ngasolineraa"
+    },
+      {
+      "key": "bakery",
+      "value": "la\npanadería"
+    },
+    {
+      "key": "mailbox",
+      "value": "el\nbuzón"
+    },
+    {
+      "key": "mall",
+      "value": "el centro\ncomercial"
+    },
+    {
+      "key": "stadium",
+      "value": "el\nestadio"
+    },
+    {
+      "key": "street light",
+      "value": "la\nfarola"
+    },
+    {
+      "key": "traffic light",
+      "value": "el\nsemáforo"
+    },
+    {
+      "key": "fence",
+      "value": "la\nvalla"
+    },
+    {
+      "key": "gate",
+      "value": "la\npuerta"
+    },
+    {
+      "key": "church",
+      "value": "la\niglesia"
+    },
+    {
+      "key": "cemetery",
+      "value": "el\ncementerio"
+    },
+    {
+      "key": "prison",
+      "value": "la\nprisión"
+    },
+    {
+      "key": "skyscraper",
+      "value": "el\nrascacielos"
+    },
+    {
+      "key": "tram",
+      "value": "el\ntranvía"
+    },
+    {
+      "key": "pedestrian crossing",
+      "value": "el paso\nde peatones"
+    },  
+    {
+      "key": "phone booth",
+      "value": "la cabina\nde teléfono"
+    },
+    {
+      "key": "pharmacy",
+      "value": "la\nfarmacia"
+    },
+    
+    {
+      "key": "power plant",
+      "value": "la planta\neléctrica"
+    },
+    {
+      "key": "intersection",
+      "value": "la\nintersección"
+    },
+    {
+      "key": "U-turn",
+      "value": "la\nvuelta en U"
+    },
+    {
+      "key": "boutique",
+      "value": "la tienda\nde moda"
+    },
+    {
+      "key": "ferris wheel",
+      "value": "la vuelta\nal mundo"
+    },
+    {
+      "key": "mosque",
+      "value": "la\nmezquita"
+    },
+    {
+      "key": "synagogue",
+      "value": "la\nsinagoga"
+    },
+    {
+      "key": "roundabout",
+      "value": "la\nrotonda"
+    },
+    {
+      "key": "vending machine",
+      "value": "la máquina\nexpendedora"
+    }
+
+  ]
+}

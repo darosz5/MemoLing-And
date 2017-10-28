@@ -1,0 +1,87 @@
+ManifestFileVersion: 0
+CRC: 3519659025
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 312a4e3a4e0c1554f9838e0bdcecbaf9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21f0dc8ebad690f009368069428e0a1a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Icons/city/office block.png
+- Assets/Icons/city/vending machine.png
+- Assets/Icons/city/bank.png
+- Assets/Icons/city/church.png
+- Assets/Icons/city/hydrant.png
+- Assets/Icons/city/prison.png
+- Assets/Icons/city/cinema.png
+- Assets/Icons/city/pedestrian crossing.png
+- Assets/Icons/city/bush.png
+- Assets/Icons/city/ATM.png
+- Assets/Icons/city/tram.png
+- Assets/Icons/city/club.png
+- Assets/Icons/city/fence.png
+- Assets/Icons/city/circus.png
+- Assets/Icons/city/cemetery.png
+- Assets/Icons/city/boutique.png
+- Assets/Icons/city/pharmacy.png
+- Assets/Icons/city/billboard.png
+- Assets/Icons/city/public toilet.png
+- Assets/Icons/city/swing.png
+- Assets/Icons/city/fountain.png
+- Assets/Icons/city/cafe.png
+- Assets/Icons/city/road.png
+- Assets/Icons/city/bus stop.png
+- Assets/Icons/city/police station.png
+- Assets/Icons/city/taxi.png
+- Assets/Icons/city/synagogue.png
+- Assets/Icons/city/house.png
+- Assets/Icons/city/stadium.png
+- Assets/Icons/city/intersection.png
+- Assets/Icons/city/street sign.png
+- Assets/Icons/city/school.png
+- Assets/Icons/city/market.png
+- Assets/Icons/city/pizza shop.png
+- Assets/Icons/city/gas station.png
+- Assets/Icons/Categories/city.png
+- Assets/Icons/city/pub.png
+- Assets/Icons/city/street light.png
+- Assets/Icons/city/mosque.png
+- Assets/Icons/city/shop.png
+- Assets/Icons/city/bridge.png
+- Assets/Icons/city/traffic light.png
+- Assets/Icons/city/phone booth.png
+- Assets/Icons/city/gate.png
+- Assets/Icons/city/bicycle.png
+- Assets/Icons/city/roundabout.png
+- Assets/Icons/city/skyscraper.png
+- Assets/Icons/city/hospital.png
+- Assets/Icons/city/museum.png
+- Assets/Icons/city/bench.png
+- Assets/Icons/city/hotel.png
+- Assets/Icons/city/parking.png
+- Assets/Icons/city/U-turn.png
+- Assets/Icons/city/mailbox.png
+- Assets/Icons/city/apartment building.png
+- Assets/Icons/city/car.png
+- Assets/Icons/city/flower shop.png
+- Assets/Icons/city/power plant.png
+- Assets/Icons/city/bakery.png
+- Assets/Icons/city/fire station.png
+- Assets/Icons/city/car wash.png
+- Assets/Icons/city/candy shop.png
+- Assets/Icons/city/theatre.png
+- Assets/Icons/city/railway station.png
+- Assets/Icons/city/ferris wheel.png
+- Assets/Icons/city/tree.png
+- Assets/Icons/city/post office.png
+- Assets/Icons/city/mall.png
+- Assets/Icons/city/bus.png
+- Assets/Icons/city/street map.png
+Dependencies: []

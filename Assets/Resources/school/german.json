@@ -1,0 +1,254 @@
+﻿{
+  "items": [
+    {
+      "key": "art",
+      "value": "Kunst"
+    },
+    {
+      "key": "biology",
+      "value": "Biologie"
+    },
+    {
+      "key": "blackboard",
+      "value": "die\nTafel"
+    },
+    {
+      "key": "calculator",
+      "value": "der\nTaschenrechner"
+    },
+    {
+      "key": "chair",
+      "value": "der\nStuhl"
+    },
+    {
+      "key": "chemistry",
+      "value": "Chemie"
+    },
+    {
+      "key": "clock",
+      "value": "die\nUhr"
+    },
+    {
+      "key": "computer",
+      "value": "der\nComputer"
+    },
+    {
+      "key": "desk",
+      "value": "der\nSchreibtisch"
+    },
+    {
+      "key": "eraser",
+      "value": "das\nRadiergummi"
+    },
+    {
+      "key": "geography",
+      "value": "Erdkunde"
+    },
+    {
+      "key": "glasses",
+      "value": "die\nBrille"
+    },
+    {
+      "key": "glue",
+      "value": "der\nKleber"
+    },
+    {
+      "key": "history",
+      "value": "Geschichte"
+    },
+    {
+      "key": "IT",
+      "value": "Informatik"
+    },
+    {
+      "key": "lamp",
+      "value": "die\nTischlampe"
+    },
+    {
+      "key": "lesson plan",
+      "value": "der\nStundenplan"
+    },
+    {
+      "key": "lunch",
+      "value": "das\nLunchpaket"
+    },
+    {
+      "key": "math",
+      "value": "Mathe"
+    },
+    {
+      "key": "music",
+      "value": "Musik"
+    },
+    {
+      "key": "notebook",
+      "value": "das\nHeft"
+    },
+    {
+      "key": "PE",
+      "value": "Sport"
+    },
+    {
+      "key": "pen",
+      "value": "der\nKuli"
+    },
+    {
+      "key": "pencil",
+      "value": "der\nBleistift"
+    },
+    {
+      "key": "pendrive",
+      "value": "der\nUSB-Stick"
+    },
+    {
+      "key": "physics",
+      "value": "Physik"
+    },
+    {
+      "key": "ruler",
+      "value": "das\nLineal"
+    },
+    {
+      "key": "school",
+      "value": "die\nSchule"
+    },
+    {
+      "key": "scissors",
+      "value": "die\nSchere"
+    },
+    {
+      "key": "student",
+      "value": "der\nSchüler"
+    },
+    {
+      "key": "teacher",
+      "value": "der\nLehrer"
+    },
+    {
+      "key": "test",
+      "value": "der\nTest"
+    },
+    {
+      "key": "book",
+      "value": "das\nBuch"
+    },
+    {
+      "key": "backpack",
+      "value": "der\nRucksack"
+    },
+    {
+      "key": "bell",
+      "value": "die\nGlocke"
+    },
+    {
+      "key": "globe",
+      "value": "der\nGlobus"
+    },
+    {
+      "key": "headset",
+      "value": "Kopfhörer"
+    },
+    {
+      "key": "pencil case",
+      "value": "das\nMäppchen"
+    },
+    {
+      "key": "pencil sharpener",
+      "value": "der\nSpitzer"
+    },
+    {
+      "key": "printer",
+      "value": "der\nDrucker"
+    },
+    {
+      "key": "school bus",
+      "value": "der\nSchulbus"
+    },
+    {
+      "key": "sports shoe",
+      "value": "der\nTurnschuh"
+    },
+    {
+      "key": "map",
+      "value": "die\nLandkarte"
+    },
+    {
+      "key": "microscope",
+      "value": "das\nMikroskop"
+    },
+    {
+      "key": "mouse",
+      "value": "die\nMaus"
+    },
+    {
+      "key": "textbook",
+      "value": "das\nLehrbuch"
+    },
+    {
+      "key": "watercolor",
+      "value": "Wasserfarben"
+    },
+    {
+      "key": "folder",
+      "value": "die\nMappe"
+    },
+    {
+      "key": "pin",
+      "value": "der\nReißnagel"
+    },
+    {
+      "key": "adhesive tape",
+      "value": "der\nKlebstreifen"
+    },
+    {
+      "key": "certificate",
+      "value": "das\nZertifikat"
+    },
+    {
+      "key": "compasses",
+      "value": "der \nZirkel"
+    },
+    {
+      "key": "felt-tip pen",
+      "value": "der\nFilzstift"
+    },
+    {
+      "key": "fountain pen",
+      "value": "der\nFüller"
+    },
+    {
+      "key": "highlighter",
+      "value": "der\nTextmarker"
+    },
+    {
+      "key": "ID",
+      "value": "der\nAusweis"
+    },
+    {
+      "key": "keyboard",
+      "value": "die\nTastatur"
+    },
+    {
+      "key": "lockers",
+      "value": "die\nSchließfächer"
+    },
+    {
+      "key": "stapler",
+      "value": "der\nTacker"
+    },
+    {
+      "key": "set square",
+      "value": "das\nWinkelmaß"
+    },
+    {
+      "key": "puncher",
+      "value": "der\nLocher"
+    },
+    {
+      "key": "essay",
+      "value": "der\nAufsatz"
+    }
+
+
+  ]
+}

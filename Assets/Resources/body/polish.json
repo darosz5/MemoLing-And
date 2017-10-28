@@ -1,0 +1,242 @@
+﻿{
+  "items": [
+    {
+      "key": "head",
+      "value": "głowa"
+    },
+    {
+      "key": "leg",
+      "value": "noga"
+    },
+    {
+      "key": "heart",
+      "value": "serce"
+    },
+    {
+      "key": "nose",
+      "value": "nos"
+    },
+    {
+      "key": "hand",
+      "value": "ręka"
+    },
+    {
+      "key": "mouth",
+      "value": "usta"
+    },
+    {
+      "key": "eye",
+      "value": "oko"
+    },
+    {
+      "key": "ear",
+      "value": "ucho"
+    },
+    {
+      "key": "hair",
+      "value": "włosy"
+    },
+    {
+      "key": "foot",
+      "value": "stopa"
+    },
+    {
+      "key": "finger",
+      "value": "palec"
+    },
+    {
+      "key": "tooth",
+      "value": "ząb"
+    },
+    {
+      "key": "teeth",
+      "value": "zęby"
+    },
+    {
+      "key": "bone",
+      "value": "kość"
+    },
+    {
+      "key": "muscle",
+      "value": "mięsień"
+    },
+    {
+      "key": "brain",
+      "value": "mózg"
+    },
+    {
+      "key": "back",
+      "value": "plecy"
+    },
+    {
+      "key": "elbow",
+      "value": "łokieć"
+    },
+    {
+      "key": "neck",
+      "value": "szyja"
+    },
+    {
+      "key": "eyebrow",
+      "value": "brew"
+    },
+    {
+      "key": "tongue",
+      "value": "język"
+    },
+    {
+      "key": "eyelashes",
+      "value": "rzęsy"
+    },
+    {
+      "key": "nail",
+      "value": "paznokieć"
+    },
+    {
+      "key": "DNA",
+      "value": "DNA"
+    },
+    {
+      "key": "chest",
+      "value": "klatka\npiersiowa"
+    },
+    {
+      "key": "shoulder",
+      "value": "ramię"
+    },
+    {
+      "key": "stomach",
+      "value": "żołądek"
+    },
+    {
+      "key": "moustache",
+      "value": "wąsy"
+    },
+    {
+      "key": "ankle",
+      "value": "kostka"
+    },
+    {
+      "key": "knee",
+      "value": "kolano"
+    },
+    {
+      "key": "skull",
+      "value": "czaszka"
+    },
+    {
+      "key": "palm",
+      "value": "dłoń"
+    },
+    {
+      "key": "toe",
+      "value": "palec\nu nogi"
+    },
+    {
+      "key": "cell",
+      "value": "komórka"
+    },
+    {
+      "key": "liver",
+      "value": "wątroba"
+    },
+    {
+      "key": "lungs",
+      "value": "płuca"
+    },
+    {
+      "key": "hip",
+      "value": "biodro"
+    },
+    {
+      "key": "ribs",
+      "value": "żebra"
+    },
+    {
+      "key": "spine",
+      "value": "kręgosłup"
+    },
+    {
+      "key": "kidneys",
+      "value": "nerki"
+    },
+    {
+      "key": "small intestine",
+      "value": "jelito\ncienkie"
+    },
+    {
+      "key": "joint",
+      "value": "staw"
+    },
+    {
+      "key": "buttocks",
+      "value": "pośladki"
+    },
+    {
+      "key": "calves",
+      "value": "łydki"
+    },
+    {
+      "key": "chromosomes",
+      "value": "chromosomy"
+    },
+    {
+      "key": "fingerprint",
+      "value": "odcisk\npalca"
+    },
+    {
+      "key": "blood vessel",
+      "value": "naczynie\nkrwionośne"
+    },
+    {
+      "key": "spleen",
+      "value": "śledziona"
+    },
+    {
+      "key": "bladder",
+      "value": "pęcherz"
+    },
+    {
+      "key": "fertilization",
+      "value": "zapłodnienie"
+    },
+    {
+      "key": "tonsils",
+      "value": "migdałki"
+    },
+    {
+      "key": "neuron",
+      "value": "neuron"
+    },
+    {
+      "key": "fetus",
+      "value": "płód"
+    },
+    {
+      "key": "trachea",
+      "value": "tchawica"
+    },
+    {
+      "key": "uterus",
+      "value": "macica"
+    },
+    {
+      "key": "digestive system",
+      "value": "układ\ntrawienny"
+    },
+    {
+      "key": "large intestine",
+      "value": "jelito\ngrube"
+    },
+    {
+      "key": "respiratory system",
+      "value": "układ\noddechowy "
+    },
+    {
+      "key": "vertebra",
+      "value": "kręg"
+    }
+
+
+  ]
+}

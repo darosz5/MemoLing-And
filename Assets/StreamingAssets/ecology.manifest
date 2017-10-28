@@ -1,0 +1,70 @@
+ManifestFileVersion: 0
+CRC: 2364005189
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d337a34d6b57cae993fc947e534915fc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21f0dc8ebad690f009368069428e0a1a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Icons/ecology/deciduous tree.png
+- Assets/Icons/ecology/battery.png
+- Assets/Icons/ecology/garbage truck.png
+- Assets/Icons/ecology/conifer.png
+- Assets/Icons/ecology/plant.png
+- Assets/Icons/ecology/waste.png
+- Assets/Icons/ecology/ozone layer.png
+- Assets/Icons/ecology/watering can.png
+- Assets/Icons/ecology/sunflower.png
+- Assets/Icons/ecology/factory.png
+- Assets/Icons/ecology/oxygen.png
+- Assets/Icons/ecology/radiation.png
+- Assets/Icons/ecology/well.png
+- Assets/Icons/ecology/greenhouse effect.png
+- Assets/Icons/ecology/thermometer.png
+- Assets/Icons/ecology/bush.png
+- Assets/Icons/ecology/hose.png
+- Assets/Icons/ecology/beehive.png
+- Assets/Icons/ecology/sprout.png
+- Assets/Icons/ecology/recycable bag.png
+- Assets/Icons/ecology/hay.png
+- Assets/Icons/ecology/birdhouse.png
+- Assets/Icons/ecology/leaf.png
+- Assets/Icons/ecology/renewable energy.png
+- Assets/Icons/ecology/lawn mower.png
+- Assets/Icons/ecology/fertilizer.png
+- Assets/Icons/ecology/acorn.png
+- Assets/Icons/ecology/clover.png
+- Assets/Icons/ecology/biofuel.png
+- Assets/Icons/ecology/earth.png
+- Assets/Icons/ecology/charging.png
+- Assets/Icons/ecology/barn.png
+- Assets/Icons/ecology/solar energy.png
+- Assets/Icons/ecology/global warming.png
+- Assets/Icons/ecology/recycling.png
+- Assets/Icons/ecology/harvest.png
+- Assets/Icons/ecology/log.png
+- Assets/Icons/ecology/wheat.png
+- Assets/Icons/ecology/oil.png
+- Assets/Icons/ecology/windmill.png
+- Assets/Icons/ecology/electric car.png
+- Assets/Icons/ecology/carbon dioxide.png
+- Assets/Icons/ecology/solar panel.png
+- Assets/Icons/Categories/ecology.png
+- Assets/Icons/ecology/nuclear plant.png
+- Assets/Icons/ecology/pinecone.png
+- Assets/Icons/ecology/forest.png
+- Assets/Icons/ecology/water drop.png
+- Assets/Icons/ecology/campfire.png
+- Assets/Icons/ecology/tractor.png
+- Assets/Icons/ecology/water.png
+- Assets/Icons/ecology/tree.png
+- Assets/Icons/ecology/mushroom.png
+Dependencies: []

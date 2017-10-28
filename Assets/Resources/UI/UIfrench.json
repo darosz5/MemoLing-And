@@ -1,0 +1,423 @@
+﻿{
+  "items": [
+      {
+      "key": "_nativeLanguage",
+      "value": "Choisis ta\nlangue maternelle"
+    },
+    {
+      "key": "_secondLanguage",
+      "value": "Choisi une langue\nque tu veux apprendre"
+    },
+    {
+      "key": "_spinwheel",
+      "value": "Roue"
+    },
+    {
+      "key": "_spindailydescr",
+      "value": "Fais la tourner tous les jours\net gagne un prix"
+    },  
+    {
+      "key": "_video",
+      "value": "Vidéo"
+    },
+    {
+      "key": "_free",
+      "value": "Free"
+    },
+    {
+      "key": "_withvideo",
+      "value": "z wideo"
+    },
+    {
+      "key": "_timetolearn",
+      "value": "C’est l'heure d'apprendre"
+    },
+    {
+      "key": "_trytoremember",
+      "value": "Rappelle-toi quel mot\ncorrespond à quelle image."
+    },
+    {
+      "key": "_rememberpicture",
+      "value": "Clique sur une bulle avec une image\nsi tu n'es pas sûr. La description\napparaîtra alors en bas de l'écran."
+    },
+     {
+      "key": "_remembertext",
+      "value": "Clique sur une bulle avec un mot pour\nécouter sa prononciation."
+    },
+     {
+      "key": "_shufflewhenready",
+      "value": "Clique sur 'Mélanger' quand tu es prêt."
+    },
+    {
+      "key": "_timetoplay",
+      "value": "C'est l'heure de jouer!"
+    },
+    {
+      "key": "_matchwords",
+      "value": "Retourne une bulle blanche et une bulle bleue pour\nvoir si elles correspondent.\nSi oui, elles resteront découvertes.\nSinon, elles seront retournées à nouveau.\nRappelle-toi le contenu et l'emplacement\nde chaque bulle. Le niveau sera terminé lorsque\ntoutes les images seront reliées à leur description."
+    },
+    {
+      "key": "_playmoves",
+      "value": "Tu auras soit un nombre de coups\nlimités…"
+    },
+    {
+      "key": "_playtime",
+      "value": "…soit un temps de jeu limité."
+    },
+    {
+      "key": "_powerups",
+      "value": "Bonus"
+    },
+     {
+      "key": "_tutorial",
+      "value": "Didacticiel"
+    },
+    { 
+      "key": "_powwerupstutorial",
+      "value": "Avant chaque partie tu peux obtenir jusqu'à\ntrois bonus. Tu peux les utiliser\navant de mélanger les bulles."
+    },
+     {
+      "key": "_timepowerup",
+      "value": "Celui-ci te donne des coups\nou du temps supplémentaire."
+    },
+    {
+      "key": "_revealpowerup",
+      "value": " Celui-ci te révèle\nune paire au début du jeu."
+    },
+     {
+      "key": "_sidepowerup",
+      "value": "Avec celui-ci tu peux\njeter un coup d'oeil\naux cartes déjà mélangées."
+    },
+    {
+      "key": "_thatsit",
+      "value": "C’est fini!"
+    },
+    {
+      "key": "_readytoplay",
+      "value": "Tu es prêt à jouer maintenant"
+    },
+     {
+      "key": "_full",
+      "value": "Rempli"
+    },
+    {
+      "key": "_unlockedlevel",
+      "value": "Niveau débloqué"
+    },
+     {
+      "key": "_moves",
+      "value": "coups"
+    },
+    {
+      "key": "_seconds",
+      "value": "secondes"
+    },
+     {
+      "key": "_spindeath",
+      "value": "Tente ta chance\net fais tourner la roue!"
+    },
+    {
+      "key": "_showicons",
+      "value": "Montre les images"
+    },
+    {
+      "key": "_yourhighscore",
+      "value": "Ton meilleur score:"
+    },
+    {
+      "key": "_settings",
+      "value": "Réglages"
+    },
+    {
+      "key": "_spin",
+      "value": "Fais tourner"
+    },
+    {
+      "key": "_languageselect",
+      "value": "Sélection\nde langue"
+    },
+    {
+      "key": "_save",
+      "value": "Sauvegarder"
+    },
+    {
+      "key": "_music",
+      "value": "Musique"
+    },
+    {
+      "key": "_sound",
+      "value": "Son"
+    },
+     {
+      "key": "_helpinfo",
+      "value": "Si tu as besoin d’aide ou tu\nas des suggestions, écris-nous::\nwordling.acgames@gmail.com"
+    },
+    {
+      "key": "_quit",
+      "value": "Tu veux vraiment quitter\nla partie maintenant?"
+    },
+    {
+      "key": "_recievereward",
+      "value": "Réclame\nton prix"
+    },
+    {
+      "key": "_food",
+      "value": "Nourriture"
+    },
+    {
+      "key": "_house",
+      "value": "Maison"
+    },
+    {
+      "key": "_ecology",
+      "value": "Écologie"
+    },
+    {
+      "key": "_jobs",
+      "value": "Travail"
+    },
+    {
+      "key": "_travel",
+      "value": "Voyages"
+    },
+    {
+      "key": "_sport",
+      "value": "Sport"
+    },
+    {
+      "key": "_city",
+      "value": "Ville"
+    },
+    {
+      "key": "_clothes",
+      "value": "Vêtements"
+    },
+    {
+      "key": "_animals",
+      "value": "Animaux"
+    },
+    {
+      "key": "_humanbody",
+      "value": "Corps\nhumain"
+    },
+    {
+      "key": "_everydaylife",
+      "value": "La vie\nquotidienne"
+    },
+    {
+      "key": "_countries",
+      "value": "Pays"
+    },
+    {
+      "key": "_categories",
+      "value": "Catégories"
+    },
+   
+    {
+      "key": "_level",
+      "value": "Niveau"
+    },
+     
+    {
+      "key": "_yourscore",
+      "value": "Ton score:"
+    },
+    {
+      "key": "_revealpair",
+      "value": "Révéle une paire"
+    },
+    {
+      "key": "_watchandgetbooster",
+      "value": "Regarde une vidéo\npour obtenir un bonus"
+    },
+    {
+      "key": "_moretimemoves",
+      "value": "Plus de temps\nou coups"
+    },
+    {
+      "key": "_go",
+      "value": "Aller!"
+    }, 
+    {
+      "key": "_shuffle",
+      "value": "Mélanger"
+    },
+    {
+      "key": "_gamepaused",
+      "value": "Pause..."
+    },
+    {
+      "key": "_resume",
+      "value": "Continuer"
+    },
+    {
+      "key": "_quitlevel",
+      "value": "Arrêter"
+    },
+    {
+      "key": "_nextstage",
+      "value": " Étape\nsuivante"
+    },
+    {
+      "key": "_youlose",
+      "value": "Tu as perdu"
+    },
+
+    {
+      "key": "_gameover",
+      "value": "Partie terminée"
+    },
+    {
+      "key": "_english",
+      "value": "Anglais"
+    },
+    {
+      "key": "_polish",
+      "value": "Polonais"
+    },
+    {
+      "key": "_german",
+      "value": "Allemand"
+    },
+    {
+      "key": "_spanish",
+      "value": "Espagnol"
+    },
+    {
+      "key": "_french",
+      "value": "Français"
+    },
+    {
+      "key": "_help",
+      "value": "Aide"
+    },
+    {
+      "key": "_yes",
+      "value": "Oui"
+    },
+    {
+      "key": "_no",
+      "value": "Non"
+    },
+    {
+      "key": "_levels",
+      "value": "Niveaux"
+    },
+    {
+      "key": "_easy",
+      "value": "Facile"
+    },
+    {
+      "key": "_normal",
+      "value": "Normal"
+    },
+    {
+      "key": "_hard",
+      "value": "Difficile"
+    },
+    {
+      "key": "_veryhard",
+      "value": "Très difficile"
+    },
+    {
+      "key": "_ups",
+      "value": "???"
+    },
+    {
+      "key": "_finishin",
+      "value": "Finis en "
+    },
+    {
+      "key": "_addlife",
+      "value": "Ajouter de la vie"
+    },
+    {
+      "key": "_addlifedescr",
+      "value": "Regarde une vidéo pour\njouer sans temps d'attente"
+    },
+
+    {
+      "key": "_loading",
+      "value": "Chargement..."
+    },
+    {
+      "key": "_noconnection",
+      "value": "Pas de connexion"
+    },
+    {
+      "key": "_noconnectiondescr",
+      "value": "Pour commencer à jouer\npour la première fois,\nconnecte toi à Internet"
+    },
+    {
+      "key": "_wait",
+      "value": "Attends..."
+    },
+    {
+      "key": "_nextspin",
+      "value": "Ton prochain tour\nsera disponible dans:"
+    },
+    {
+      "key": "_complete",
+      "value": "Niveau terminé"
+    },
+    {
+      "key": "_tutorialdescr",
+      "value": "Tu veux savoir comment\njouer avant de démarrer?"
+    },
+    {
+      "key": "_new",
+      "value": "Nouveau"
+    },
+      {
+      "key": "_failedad",
+      "value": "Nous avons remarqué un problème\navec votre connexion Internet.\nConnectez-vous à Internet\net essayez à nouveau."
+    },
+    {
+      "key": "_skippedad",
+      "value": "Je suppose que vous\navez manqué la vidéo.\nVous voulez essayer à nouveau?"
+    },
+    {
+      "key": "_shop",
+      "value": "Boutique"
+    },
+    {
+      "key": "_welcome",
+      "value": "Witaj w naszym sklepie!"
+    },
+    {
+      "key": "_shopsuccess",
+      "value": "Gratulacje! Zakup udany."
+    },
+    {
+      "key": "_shopfail",
+      "value": "Zakup nieudany"
+    },
+    {
+      "key": "_shopalreadyhas",
+      "value": "Już posiadasz tę kategorię.\nMożesz zagrać w nią w tej chwili"
+    },
+    {
+      "key": "_good",
+      "value": "BIEN"
+    },
+    {
+      "key": "_great",
+      "value": "GÉNIAL!"
+    },
+    {
+      "key": "_fantastic",
+      "value": "FORMIDABLE!!!"
+    },
+     {
+      "key": "_school",
+      "value": "École"
+    }
+
+
+
+
+
+    
+
+  ]
+}

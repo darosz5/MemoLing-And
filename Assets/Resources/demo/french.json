@@ -1,0 +1,31 @@
+﻿{
+  "items": [
+    
+    {
+      "key": "bat",
+      "value": "une\nchauve-souris"
+    },
+    {
+      "key": "bear",
+      "value": "un\nours"
+    },
+    {
+      "key": "bee",
+      "value": "une abeille"
+    },
+    {
+      "key": "bird",
+      "value": "un\noiseau"
+    },
+    {
+      "key": "dog",
+      "value": "un\nchien"
+    },
+    {
+      "key": "fish",
+      "value": "un\npiosson"
+    }
+
+
+  ]
+}

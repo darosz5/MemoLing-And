@@ -1,0 +1,254 @@
+﻿{
+  "items": [
+    {
+      "key": "art",
+      "value": "l'art"
+    },
+    {
+      "key": "biology",
+      "value": "la\nbiologie"
+    },
+    {
+      "key": "blackboard",
+      "value": "un \ntableau"
+    },
+    {
+      "key": "calculator",
+      "value": "une\ncalculatrice"
+    },
+    {
+      "key": "chair",
+      "value": "une\nchaise"
+    },
+    {
+      "key": "chemistry",
+      "value": "la\nchimie"
+    },
+    {
+      "key": "clock",
+      "value": "une\nhorloge"
+    },
+    {
+      "key": "computer",
+      "value": "un\nordinateur"
+    },
+    {
+      "key": "desk",
+      "value": "un\nbanc"
+    },
+    {
+      "key": "eraser",
+      "value": "une\ngomme"
+    },
+    {
+      "key": "geography",
+      "value": "la\ngéographie"
+    },
+    {
+      "key": "glasses",
+      "value": "des\nlunettes"
+    },
+    {
+      "key": "glue",
+      "value": "la\ncolle"
+    },
+    {
+      "key": "history",
+      "value": "l'histoire"
+    },
+    {
+      "key": "IT",
+      "value": "l’informatique"
+    },
+    {
+      "key": "lamp",
+      "value": "une\nlampe"
+    },
+    {
+      "key": "lesson plan",
+      "value": "une grille\nd'horaire"
+    },
+    {
+      "key": "lunch",
+      "value": "un\ndéjeuner"
+    },
+    {
+      "key": "math",
+      "value": "les\nmathématiques"
+    },
+    {
+      "key": "music",
+      "value": "la\nmusique"
+    },
+    {
+      "key": "notebook",
+      "value": "un\ncahier"
+    },
+    {
+      "key": "PE",
+      "value": "l'EPS"
+    },
+    {
+      "key": "pen",
+      "value": "un\nstylo"
+    },
+    {
+      "key": "pencil",
+      "value": "un\ncrayon"
+    },
+    {
+      "key": "pendrive",
+      "value": "une clé\nUSB"
+    },
+    {
+      "key": "physics",
+      "value": "la\nphysique"
+    },
+    {
+      "key": "ruler",
+      "value": "une\nrègle"
+    },
+    {
+      "key": "school",
+      "value": "une\nécole"
+    },
+    {
+      "key": "scissors",
+      "value": "des\nciseaux"
+    },
+    {
+      "key": "student",
+      "value": "un\nélève"
+    },
+    {
+      "key": "teacher",
+      "value": "un\nprofesseur"
+    },
+    {
+      "key": "test",
+      "value": "un\ncontrôle"
+    },
+    {
+      "key": "book",
+      "value": "un\nlivre"
+    },
+    {
+      "key": "backpack",
+      "value": "un sac\nà dos"
+    },
+    {
+      "key": "bell",
+      "value": "bune\ncloche"
+    },
+    {
+      "key": "globe",
+      "value": "un\nglobe"
+    },
+    {
+      "key": "headset",
+      "value": "un\ncasque"
+    },
+    {
+      "key": "pencil case",
+      "value": "une trousse\nd'écolier"
+    },
+    {
+      "key": "pencil sharpener",
+      "value": "un\ntaille-crayon"
+    },
+    {
+      "key": "printer",
+      "value": "une\nimprimante"
+    },
+    {
+      "key": "school bus",
+      "value": "un car\nscolaire"
+    },
+    {
+      "key": "sports shoe",
+      "value": "une chaussure\nde sport"
+    },
+    {
+      "key": "map",
+      "value": "une\ncarte"
+    },
+    {
+      "key": "microscope",
+      "value": "un\nmicroscope"
+    },
+    {
+      "key": "mouse",
+      "value": "une\nsouris"
+    },
+    {
+      "key": "textbook",
+      "value": "un\nmanuel"
+    },
+    {
+      "key": "watercolor",
+      "value": "l'aquarelle"
+    },
+    {
+      "key": "folder",
+      "value": "une \nchemise"
+    },
+    {
+      "key": "pin",
+      "value": "une\népingle"
+    },
+    {
+      "key": "adhesive tape",
+      "value": "le papier\ncollant"
+    },
+    {
+      "key": "certificate",
+      "value": "un\ncertificat"
+    },
+    {
+      "key": "compasses",
+      "value": "un\ncompas"
+    },
+    {
+      "key": "felt-tip pen",
+      "value": "un\nfeutre"
+    },
+    {
+      "key": "fountain pen",
+      "value": "un stylo\nà encre"
+    },
+    {
+      "key": "highlighter",
+      "value": "un\nsurligneur"
+    },
+    {
+      "key": "ID",
+      "value": "un\nbadge"
+    },
+    {
+      "key": "keyboard",
+      "value": "un\nclavier"
+    },
+    {
+      "key": "lockers",
+      "value": "des\ncasiers"
+    },
+    {
+      "key": "stapler",
+      "value": "une\nagrafeuse"
+    },
+    {
+      "key": "set square",
+      "value": "une\néquerre"
+    },
+    {
+      "key": "puncher",
+      "value": "une\nperforatrice"
+    },
+    {
+      "key": "essay",
+      "value": "une\ncomposition"
+    }
+
+
+  ]
+}

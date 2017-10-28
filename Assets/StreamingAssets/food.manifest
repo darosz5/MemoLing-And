@@ -1,0 +1,96 @@
+ManifestFileVersion: 0
+CRC: 260225512
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f158dcecfdf57e8f360f67616080276a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21f0dc8ebad690f009368069428e0a1a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Icons/food/kiwi.png
+- Assets/Icons/food/rice.png
+- Assets/Icons/food/burger.png
+- Assets/Icons/food/boiled egg.png
+- Assets/Icons/food/bacon.png
+- Assets/Icons/food/carrot.png
+- Assets/Icons/food/peach.png
+- Assets/Icons/food/corn.png
+- Assets/Icons/food/crab.png
+- Assets/Icons/food/pepper.png
+- Assets/Icons/food/lollipop.png
+- Assets/Icons/food/pear.png
+- Assets/Icons/food/chicken leg.png
+- Assets/Icons/food/cherry.png
+- Assets/Icons/food/broccoli.png
+- Assets/Icons/food/pretzel.png
+- Assets/Icons/food/salt.png
+- Assets/Icons/food/donut.png
+- Assets/Icons/food/bread.png
+- Assets/Icons/food/bell pepper.png
+- Assets/Icons/food/cotton candy.png
+- Assets/Icons/food/lemon.png
+- Assets/Icons/food/vinegar.png
+- Assets/Icons/food/banana.png
+- Assets/Icons/food/orange.png
+- Assets/Icons/food/soy sauce.png
+- Assets/Icons/food/popcorn.png
+- Assets/Icons/food/olive oil.png
+- Assets/Icons/food/croissant.png
+- Assets/Icons/food/jelly.png
+- Assets/Icons/food/noodles.png
+- Assets/Icons/food/lobster.png
+- Assets/Icons/food/avocado.png
+- Assets/Icons/food/mussel.png
+- Assets/Icons/food/chili pepper.png
+- Assets/Icons/food/muffin.png
+- Assets/Icons/food/candy.png
+- Assets/Icons/food/ice cream.png
+- Assets/Icons/food/soup.png
+- Assets/Icons/food/meat.png
+- Assets/Icons/food/lettuce.png
+- Assets/Icons/food/honey.png
+- Assets/Icons/food/cookie.png
+- Assets/Icons/food/yoghurt.png
+- Assets/Icons/food/sandwich.png
+- Assets/Icons/food/strawberry.png
+- Assets/Icons/food/drink.png
+- Assets/Icons/food/artichoke.png
+- Assets/Icons/food/mushroom.png
+- Assets/Icons/food/pumpkin.png
+- Assets/Icons/food/roast chicken.png
+- Assets/Icons/food/fish.png
+- Assets/Icons/food/pie.png
+- Assets/Icons/food/apple.png
+- Assets/Icons/food/raspberry.png
+- Assets/Icons/food/onion.png
+- Assets/Icons/food/olives.png
+- Assets/Icons/food/chocolate.png
+- Assets/Icons/Categories/food.png
+- Assets/Icons/food/ketchup.png
+- Assets/Icons/food/jam.png
+- Assets/Icons/food/fried-egg.png
+- Assets/Icons/food/tuna.png
+- Assets/Icons/food/pineapple.png
+- Assets/Icons/food/pasta.png
+- Assets/Icons/food/cheese.png
+- Assets/Icons/food/prawn.png
+- Assets/Icons/food/grapes.png
+- Assets/Icons/food/tomato.png
+- Assets/Icons/food/eggplant.png
+- Assets/Icons/food/watermelon.png
+- Assets/Icons/food/peas.png
+- Assets/Icons/food/pizza.png
+- Assets/Icons/food/salad.png
+- Assets/Icons/food/cupcake.png
+- Assets/Icons/food/burrito.png
+- Assets/Icons/food/radish.png
+- Assets/Icons/food/cake.png
+- Assets/Icons/food/french-fries.png
+Dependencies: []

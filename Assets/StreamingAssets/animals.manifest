@@ -1,0 +1,101 @@
+ManifestFileVersion: 0
+CRC: 264078770
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 27873f969787f7886902046c1a389ff5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21f0dc8ebad690f009368069428e0a1a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Icons/animals/giraffe.png
+- Assets/Icons/animals/rhinoceros.png
+- Assets/Icons/animals/butterfly.png
+- Assets/Icons/animals/squirrel.png
+- Assets/Icons/animals/toad.png
+- Assets/Icons/animals/dog.png
+- Assets/Icons/animals/owl.png
+- Assets/Icons/animals/parrot.png
+- Assets/Icons/animals/seal.png
+- Assets/Icons/animals/starfish.png
+- Assets/Icons/animals/sheep.png
+- Assets/Icons/animals/deer.png
+- Assets/Icons/animals/dolphin.png
+- Assets/Icons/animals/gorilla.png
+- Assets/Icons/animals/antelope.png
+- Assets/Icons/animals/horse.png
+- Assets/Icons/animals/skunk.png
+- Assets/Icons/animals/snake.png
+- Assets/Icons/animals/bee.png
+- Assets/Icons/animals/fox.png
+- Assets/Icons/animals/crocodile.png
+- Assets/Icons/animals/frog.png
+- Assets/Icons/animals/zebra.png
+- Assets/Icons/animals/panther.png
+- Assets/Icons/animals/hippopotamus.png
+- Assets/Icons/animals/mouse.png
+- Assets/Icons/animals/octopus.png
+- Assets/Icons/animals/panda.png
+- Assets/Icons/animals/elephant.png
+- Assets/Icons/animals/toucan.png
+- Assets/Icons/animals/boar.png
+- Assets/Icons/animals/tiger.png
+- Assets/Icons/animals/duck.png
+- Assets/Icons/animals/cat.png
+- Assets/Icons/animals/puffer fish.png
+- Assets/Icons/animals/jellyfish.png
+- Assets/Icons/animals/whale.png
+- Assets/Icons/animals/penguin.png
+- Assets/Icons/animals/beetle.png
+- Assets/Icons/animals/wolf.png
+- Assets/Icons/animals/camel.png
+- Assets/Icons/animals/mole.png
+- Assets/Icons/animals/bear.png
+- Assets/Icons/animals/wolverine.png
+- Assets/Icons/animals/ostrich.png
+- Assets/Icons/animals/rabbit.png
+- Assets/Icons/animals/racoon.png
+- Assets/Icons/animals/moose.png
+- Assets/Icons/animals/snail.png
+- Assets/Icons/animals/fish.png
+- Assets/Icons/animals/rat.png
+- Assets/Icons/animals/pig.png
+- Assets/Icons/animals/turtle.png
+- Assets/Icons/animals/bat.png
+- Assets/Icons/animals/spider.png
+- Assets/Icons/animals/flamingo.png
+- Assets/Icons/animals/bird.png
+- Assets/Icons/animals/koala.png
+- Assets/Icons/animals/lion.png
+- Assets/Icons/animals/kiwi.png
+- Assets/Icons/animals/bison.png
+- Assets/Icons/animals/monkey.png
+- Assets/Icons/animals/hedgehog.png
+- Assets/Icons/animals/walrus.png
+- Assets/Icons/animals/cow.png
+- Assets/Icons/animals/crow.png
+- Assets/Icons/animals/alpaca.png
+- Assets/Icons/animals/donkey.png
+- Assets/Icons/animals/chicken.png
+- Assets/Icons/animals/cheetah.png
+- Assets/Icons/animals/hyena.png
+- Assets/Icons/animals/badger.png
+- Assets/Icons/animals/lizard.png
+- Assets/Icons/animals/clam.png
+- Assets/Icons/animals/goat.png
+- Assets/Icons/animals/coral.png
+- Assets/Icons/animals/weasel.png
+- Assets/Icons/animals/ermine.png
+- Assets/Icons/animals/scorpion.png
+- Assets/Icons/Categories/animals.png
+- Assets/Icons/animals/hamster.png
+- Assets/Icons/animals/kangaroo.png
+- Assets/Icons/animals/crab.png
+- Assets/Icons/animals/armadillo.png
+Dependencies: []
