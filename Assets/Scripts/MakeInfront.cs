@@ -5,10 +5,11 @@ using UnityEngine.UI;
 
 public class MakeInfront : MonoBehaviour {
 
-    private GameManager m_gameManager;
+    GameManager m_gameManager;
+
     public Text text;
 
-    private void Awake()
+    void Awake()
     {
         m_gameManager = FindObjectOfType<GameManager>();
     }
@@ -18,7 +19,7 @@ public class MakeInfront : MonoBehaviour {
         transform.SetAsLastSibling();
     }
 
-    private void Update()
+    void Update()
     {
         if(m_gameManager.GameState != GAME_STATE.PLAY)
         {

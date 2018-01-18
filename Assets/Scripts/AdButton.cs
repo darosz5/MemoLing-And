@@ -4,11 +4,13 @@ using UnityEngine;
 
 public class AdButton : MonoBehaviour {
 
+    [Header("References")]
+
     public GameObject GameOverText;
 
-    private GameManager m_gameManager;
+    GameManager m_gameManager;
 
-    private void OnEnable()
+    void OnEnable()
     {
         m_gameManager = FindObjectOfType<GameManager>();
         if (m_gameManager)

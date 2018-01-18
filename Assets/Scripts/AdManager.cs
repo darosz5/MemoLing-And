@@ -11,19 +11,28 @@ public class AdManager : MonoBehaviour {
 
     public static AdManager manager;
 
-    public Booster boosterToAdd;
-
-    public POWERUP powerup;
+    [Header("References")]
 
     public GameObject SkippedAdPopup;
 
     public GameObject FailedAdPopup;
 
-    private PopupOpener m_popupOpener;
+    PopupOpener m_popupOpener;
 
-    private void Awake()
+    [HideInInspector]
+    public Booster boosterToAdd;
+
+    [HideInInspector]
+    public POWERUP powerup;
+
+    void Awake()
     {
         m_popupOpener = GetComponent<PopupOpener>();
+        MakePersistentSingleton();
+    }
+
+    void MakePersistentSingleton()
+    {
         if (manager == null)
         {
             DontDestroyOnLoad(gameObject);
@@ -35,7 +44,7 @@ public class AdManager : MonoBehaviour {
         }
     }
 
-    private void Start()
+    void Start()
     {
         Advertisement.Initialize("1366024", false);
     }

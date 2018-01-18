@@ -4,23 +4,27 @@ using UnityEngine;
 
 public class SpeachManager : MonoBehaviour {
 
-    public static SpeachManager speachManager;
+    public static SpeachManager Instance;
 
-    private void Awake()
+    void Awake()
     {
-        
-        if (speachManager == null)
+        MakePersistentSingleton();
+    }
+
+    void MakePersistentSingleton()
+    {
+        if (Instance == null)
         {
             DontDestroyOnLoad(gameObject);
-            speachManager = this;
+            Instance = this;
         }
-        else if (speachManager != this)
+        else if (Instance != this)
         {
             Destroy(gameObject);
         }
     }
 
-    private void Start()
+    void Start()
     {
          TTSManager.Initialize(transform.name, "OnInit");
        // if(LocalizationManager.Instance.secondLanguage != null)
@@ -30,8 +34,7 @@ public class SpeachManager : MonoBehaviour {
     }
 
     public void SetSpeach()
-    {
-        
+    {      
         switch (LocalizationManager.Instance.secondLanguage)
         {
             case "spanish":
@@ -115,12 +118,10 @@ public class SpeachManager : MonoBehaviour {
                 //Debug.Log("No language");
                 GameControl.control.isLanguageAvalibleForSpeech = false;
                 break;
-        }
-       
-        
+        }             
     }
 
-   void OnInit()
+    void OnInit()
     {
         return;
     }

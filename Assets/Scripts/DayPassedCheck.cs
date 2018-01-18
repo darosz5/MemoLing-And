@@ -6,29 +6,32 @@ using Ricimi;
 
 public class DayPassedCheck : MonoBehaviour {
 
-    PopupOpener m_popupOpener;
+    [Header("References")]
 
     public GameObject SpinWheelPopup;
+
     public GameObject WaitPopup;
 
-    DateTime currentDate;
-    DateTime oldDate;
+    PopupOpener m_popupOpener;
 
-    private void Awake()
+    DateTime m_currentDate;
+
+    DateTime m_oldDate;
+
+    void Awake()
     {
         m_popupOpener = GetComponent<PopupOpener>();
     }
 
     public void CheckIfDayPassed()
-    {
-        
+    {       
         if(PlayerPrefs.HasKey("WheelDate"))
         {
-            currentDate = DateTime.Now;
+            m_currentDate = DateTime.Now;
             long old = Convert.ToInt64(PlayerPrefs.GetString("WheelDate"));
-            oldDate = DateTime.FromBinary(old);
+            m_oldDate = DateTime.FromBinary(old);
 
-            TimeSpan difference = currentDate.Subtract(oldDate);
+            TimeSpan difference = m_currentDate.Subtract(m_oldDate);
 
             if (difference.TotalHours >= 12)
             {

@@ -38,6 +38,11 @@ public class IAPManager : MonoBehaviour, IStoreListener {
 
     void Awake()
     {
+        MakePersistantSingleton();
+    }
+
+    void MakePersistantSingleton()
+    {
         if (Instance == null)
         {
             Instance = this;
@@ -74,8 +79,7 @@ public class IAPManager : MonoBehaviour, IStoreListener {
     }
 
     public PurchaseProcessingResult ProcessPurchase(PurchaseEventArgs e)
-    {
-        
+    {       
         string productId = e.purchasedProduct.definition.id;
 
         EnableProduct(productId);
@@ -84,7 +88,6 @@ public class IAPManager : MonoBehaviour, IStoreListener {
 
     }
 
-    // ----------------------------------
     public void InitializePurchasing()
     {
         if (IsInitialized())
@@ -199,7 +202,7 @@ public class IAPManager : MonoBehaviour, IStoreListener {
 
     }
 
-    private CategoryAvaliability IsCategoryAvaliable(string categoryName)
+     CategoryAvaliability IsCategoryAvaliable(string categoryName)
     {
         for (int i = 0; i < GameControl.control.avaliableCategories.Count; i++)
         {
@@ -210,5 +213,4 @@ public class IAPManager : MonoBehaviour, IStoreListener {
         }
         return null;
     }
-
 }

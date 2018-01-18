@@ -5,15 +5,15 @@ using UnityEngine.UI;
 
 public class DebugActivate : MonoBehaviour {
 
-    private Text text;
+    Text m_text;
 
-    private void Awake()
+    void Awake()
     {
-        text = GetComponent<Text>();
+        m_text = GetComponent<Text>();
     }
 
-    private void Update()
+    void Update()
     {
-        text.text =  GameControl.control.isLoggedIn.ToString();
+        m_text.text =  GameControl.control.isLoggedIn.ToString();
     }
 }

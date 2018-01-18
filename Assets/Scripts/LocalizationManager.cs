@@ -6,14 +6,24 @@ using UnityEngine.UI;
 
 public class LocalizationManager : MonoBehaviour
 {
+    public static LocalizationManager Instance;
+
     public Dictionary<string, string> localizedText;
+
     public Dictionary<string, string> originalText;
+
     public Dictionary<string, string> UITexts;
  
+    [HideInInspector]
     public string firstLanguage;
+
+    [HideInInspector]
     public string secondLanguage;
 
+    [HideInInspector]
     public string category;
+
+    [HideInInspector]
     public bool WasLanguageChanged;
 
     public readonly List<string> LongWords = new List<string>()
@@ -45,33 +55,31 @@ public class LocalizationManager : MonoBehaviour
         "die\nStraßenlaterne"
     };
    
-    private bool isReady = false;
-    private string missingTextString = "Localized text not found";
+    bool isReady = false;
 
-    private static LocalizationManager instance = null;
-    public static LocalizationManager Instance
-    {
-        get { return instance; }
-        set { }
+    string missingTextString = "Localized text not found";
 
-    }
+
     void Awake()
     {
         WasLanguageChanged = true;
-        
-       
-        if (instance == null)
+        MakePersistentSingleton();
+    }
+
+    void MakePersistentSingleton()
+    {
+        if (Instance == null)
         {
-            instance = this;
+            Instance = this;
             DontDestroyOnLoad(gameObject);
         }
         else
         {
             DestroyImmediate(this);
         }
-        
     }
-    private IEnumerator Start()
+
+    IEnumerator Start()
     {
         yield return new WaitForSeconds(.1f);
 
@@ -79,19 +87,16 @@ public class LocalizationManager : MonoBehaviour
         secondLanguage = GameControl.control.secondLanguage;
     }
 
-   
-
     public void SetCategory(string name)
     {
-       LocalizationManager.instance.category = name;
-        category = LocalizationManager.instance.category;
-       
+        LocalizationManager.Instance.category = name;
+        category = LocalizationManager.Instance.category;      
     }
 
     public void SetFirstLauguageName(string name)
     {
-        LocalizationManager.instance.firstLanguage = name;
-        firstLanguage = LocalizationManager.instance.firstLanguage;
+        LocalizationManager.Instance.firstLanguage = name;
+        firstLanguage = LocalizationManager.Instance.firstLanguage;
         GameControl.control.firstLanguage = name;
         
         
@@ -105,16 +110,16 @@ public class LocalizationManager : MonoBehaviour
 
     public void SetSecondLauguageName(string name)
     {
-        LocalizationManager.instance.secondLanguage = name;
-        secondLanguage = LocalizationManager.instance.secondLanguage;
+        LocalizationManager.Instance.secondLanguage = name;
+        secondLanguage = LocalizationManager.Instance.secondLanguage;
         
         GameControl.control.secondLanguage = secondLanguage;
-        LocalizationManager.instance.WasLanguageChanged = true;
+        LocalizationManager.Instance.WasLanguageChanged = true;
         FindObjectOfType<LangaugeFlags>().SetFlags();
-        PlayerPrefs.SetString("language", LocalizationManager.instance.secondLanguage);
+        PlayerPrefs.SetString("language", LocalizationManager.Instance.secondLanguage);
         LocalizationManager.Instance.LoadUITexts("UI/UI" + firstLanguage);
         GameControl.control.SavePlayerData();
-        GameControl.control.Load(LocalizationManager.instance.secondLanguage);        
+        GameControl.control.Load(LocalizationManager.Instance.secondLanguage);        
     }
 
     public void LoadLocalizedText(string fileName)
@@ -124,7 +129,6 @@ public class LocalizationManager : MonoBehaviour
         TextAsset dataAsJson = Resources.Load<TextAsset>(fileName);
 
         LocalizationData loadedData = JsonUtility.FromJson<LocalizationData>(dataAsJson.text);
-
 
         for (int i = 0; i < loadedData.items.Length; i++)
         {
@@ -141,7 +145,6 @@ public class LocalizationManager : MonoBehaviour
         TextAsset dataAsJson = Resources.Load<TextAsset>(fileName);
         
         LocalizationData loadedData = JsonUtility.FromJson<LocalizationData>(dataAsJson.text);
-
 
         for (int i = 0; i < loadedData.items.Length; i++)
         {

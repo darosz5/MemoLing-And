@@ -38,79 +38,125 @@ public enum POWERUP
 
 public class GameManager : MonoBehaviour {
 
-    [Header("Buttons")]
-    public GameObject GamePlayButtonOriginal;
-    public GameObject GamePlayButtonLocalized;
-    
+    [Header("References")]
     [Space(10)]
-    [Header("Panels")]
+
+    public GameObject GamePlayButtonOriginal;
+
+    public GameObject GamePlayButtonLocalized;
+
     public GameObject GameplayPanel;
+
     public TranslationText Translation;
 
-    [Header("Canvases & Buttons")]
     public GameObject QuitButton;
+
     public GameObject MainCanvas;
+
     public GameObject WinCanvas;
+
     public GameObject LoseCanvas;
+
     public GameObject ShuffleButton;
+
     public GameObject NextStageButton;
-    public bool IsGameOver;
+
     public GameObject Background;
+
+    public Text stageNUmText;
+
+    public Text TestText;
+
+    public GameObject GoalAnimationGO;
+
+    [Header("AudioClips")]
+
+    public AudioClip Correct;
+
+    public AudioClip Incorrect;
+
+    public AudioClip NextStageClip;
+
+    AudioSource m_audio;
+
+    GameObject m_iconsPanel;
+
+    GameObject m_textspanel;
+
+    ScoreManager m_scoreManager;
+
+    List<Icon> m_buttonsIcon = new List<Icon>();
+
+    List<Icon> m_buttonsText = new List<Icon>();   
+     
+    List<Icon> m_selectedButtons = new List<Icon>();
+
+    Sprite[] sprites;
+
+    DemoManager m_demoManager;
+
+    LivesManager m_livesManager;
+
+    BoosterManager m_boosterManager;
+
+    GameObject m_canvas;
+
+    GameObject m_clonedGameplayPanel;
+
+    [Header("Variables")]
+
+    public GAME_STATE GameState = GAME_STATE.INIT;
+
+    [HideInInspector]
+    public bool IsGameOver;
+
     [HideInInspector]
     public bool WasTimeAdded,   
         wasIconFirst;
-    public Text stageNUmText;
-    [Header("Variables")]
-    public int StartingTime;
-    public GAME_STATE GameState = GAME_STATE.INIT;
+
+    [HideInInspector]
     public LevelGoal StageGoal;
-    [Header("AudioClips")]
-    public AudioClip Correct;
-    public AudioClip Incorrect;
-    public AudioClip NextStageClip;
+
     [HideInInspector]
     public bool FirstSelection = true;
-   
-    [Header("Testing")]
-    public Text TestText;
-
-    [Header("Animations")]
-    public GameObject GoalAnimationGO;
 
     [HideInInspector]
     public int NumOfCards;
-    private GameObject IconsPanel;
-    private GameObject TextPanel;
-    private ScoreManager m_scoreManager;
-    private int m_stagenumber = 1;
-    private Sprite[] m_buttonImageArray;
-    private string keyToShow;
-    private AudioSource m_audio;
-    private int numOfMaches;
-    //Handling Buttons    
-    private List<Icon> m_buttonsIcon = new List<Icon>();
-    private List<Icon> m_buttonsText = new List<Icon>();    
-    private List<Icon> m_selectedButtons = new List<Icon>();
-    private Sprite[] sprites;
-    private DemoManager m_demoManager;
-    //Handling Boosters
-   // [HideInInspector]
+   
+    [HideInInspector]
     public bool ShowSideb,
         ShowPairb,
         MoreTimeOrMovesb;
-    private LivesManager m_livesManager;
-    private int m_chekicgIndex;
-    private BoosterManager m_boosterManager;
 
-    private GameObject m_canvas;
-    private GameObject m_clonedGameplayPanel;
+    int m_stagenumber = 1;
+
+    string m_keyToShow;
+
+    int m_numOfMatches;
     
+    int m_chekicgIndex; 
    
-    private void Awake()
+    void Awake()
+    {
+        GetReferences();
+        SetLevelGoal();
+    }
+
+    void GetReferences()
+    {
+        m_boosterManager = FindObjectOfType<BoosterManager>();
+        m_demoManager = FindObjectOfType<DemoManager>();
+        m_canvas = GameObject.Find("Canvas");
+        m_scoreManager = GameManager.FindObjectOfType<ScoreManager>();
+        m_audio = GetComponent<AudioSource>();
+        m_livesManager = FindObjectOfType<LivesManager>();
+    }
+
+    void SetLevelGoal()
     {
         StageGoal = new LevelGoal();
         if (!GameControl.control.IsPlayingDemo)
-        {           
+        {
             StageGoal.amount = LevelsManager.Instance.LevelGoals[m_stagenumber - 1].amount;
             StageGoal.goal = LevelsManager.Instance.LevelGoals[m_stagenumber - 1].goal;
         }
@@ -119,19 +165,10 @@ public class GameManager : MonoBehaviour {
             StageGoal.amount = 1000000;
             StageGoal.goal = GAME_GOAL.TIME;
         }
-       
-
-        m_boosterManager = FindObjectOfType<BoosterManager>();
-        m_demoManager = FindObjectOfType <DemoManager>();
-        m_canvas = GameObject.Find("Canvas");
-        m_scoreManager = GameManager.FindObjectOfType<ScoreManager>();
-        m_audio = GetComponent<AudioSource>();
-        m_livesManager = FindObjectOfType<LivesManager>();
     }
 
     void Start()
     {
-       
         if (GameControl.control.IsPlayingDemo)
         {
             StartCoroutine(LoadDemo());
@@ -140,34 +177,37 @@ public class GameManager : MonoBehaviour {
         sprites = LevelsManager.Instance.bundle.LoadAllAssets<Sprite>();
         if (GameControl.control.IsChecking)
         {
-           CheckCards();
-           return;
+            CheckCards();
+            return;
         }
 
         GameControl.control.WasLevelWon = false;
 
-        for (int i = 0; i < GameControl.control.activeBoosters.Count; i++)
-        {
-            GameControl.control.inventory.Remove(GameControl.control.
-                activeBoosters[i].PowerUp);
-           
-        }
-        m_boosterManager.HandleBoosters();
-
-        GameControl.control.activeBoosters.Clear();
-        GameControl.control.SavePlayerData();
+        HandleBoostersAtStart();
 
         GoalAnimationGO.gameObject.SetActive(true);
         Invoke("InstantiateGrid", 4f);
 
+    }
 
+    void HandleBoostersAtStart()
+    {
+        for (int i = 0; i < GameControl.control.activeBoosters.Count; i++)
+        {
+            GameControl.control.inventory.Remove(GameControl.control.
+                activeBoosters[i].PowerUp);
+
+        }
+        m_boosterManager.HandleBoosters();
+        GameControl.control.activeBoosters.Clear();
+        GameControl.control.SavePlayerData();
     }
 
     IEnumerator LoadDemo()
     {
         sprites = Resources.LoadAll<Sprite>("demo");
         GameControl.control.SwitchLoadingScreen(true);
-        SpeachManager.speachManager.SetSpeach();
+        SpeachManager.Instance.SetSpeach();
         if(Application.platform == RuntimePlatform.Android)
         {
             TTSManager.Speak("Start", false, TTSManager.STREAM.Music, 0f);
@@ -203,21 +243,21 @@ public class GameManager : MonoBehaviour {
         if (ShowSideb)
             return;
         
-        numOfMaches++;
+        m_numOfMatches++;
         
         for (int i = 0; i < m_buttonsIcon.Count; i++)
         {
 
-            if (m_buttonsIcon[i].Key == keyToShow)
+            if (m_buttonsIcon[i].Key == m_keyToShow)
             {
                 m_buttonsIcon[i].Reveal();
-                m_buttonsIcon[i].isMatched = true;
+                m_buttonsIcon[i].IsMatched = true;
                 m_buttonsIcon[i].Highlight(true);
             }
-            if (m_buttonsText[i].Key == keyToShow)
+            if (m_buttonsText[i].Key == m_keyToShow)
             {
                 m_buttonsText[i].Reveal();
-                m_buttonsText[i].isMatched = true;
+                m_buttonsText[i].IsMatched = true;
                 m_buttonsText[i].Highlight(true);
             }
         }
@@ -226,7 +266,7 @@ public class GameManager : MonoBehaviour {
         
     }
 
-    private IEnumerator ShowSideCO()
+    IEnumerator ShowSideCO()
     {
         
         for (int i = 0; i < m_buttonsIcon.Count; i++)
@@ -252,8 +292,6 @@ public class GameManager : MonoBehaviour {
         
     }
 
-  
-
     public void StartShuffle()
     {
         m_boosterManager.DisableButtons();
@@ -270,7 +308,7 @@ public class GameManager : MonoBehaviour {
         StartCoroutine(ShuffleCO(m_buttonsText, 3));
     }
 
-    public IEnumerator ShuffleCO(List<Icon> list, int times)
+    IEnumerator ShuffleCO(List<Icon> list, int times)
     {
         
         yield return new WaitForSeconds(1f);
@@ -355,20 +393,17 @@ public class GameManager : MonoBehaviour {
         CheckCards();
     }
 
-
-
     public void CheckCards()
     {
-
         m_clonedGameplayPanel = (GameObject)Instantiate
            (GameplayPanel, m_canvas.transform, false);
-        IconsPanel = m_clonedGameplayPanel.transform.GetChild(0).gameObject;
-        TextPanel = m_clonedGameplayPanel.transform.GetChild(1).gameObject;
+        m_iconsPanel = m_clonedGameplayPanel.transform.GetChild(0).gameObject;
+        m_textspanel = m_clonedGameplayPanel.transform.GetChild(1).gameObject;
         List<string> m_keys = new List<string>
         (LocalizationManager.Instance.localizedText.Keys);
 
         Icon clonedButtonIcon = Instantiate
-            (GamePlayButtonOriginal, IconsPanel.transform.GetChild(0), false).GetComponent<Icon>();
+            (GamePlayButtonOriginal, m_iconsPanel.transform.GetChild(0), false).GetComponent<Icon>();
         clonedButtonIcon.IsIcon = true;
         Sprite sprite = FindSprite(m_keys[m_chekicgIndex]);
         clonedButtonIcon.Initialize
@@ -376,35 +411,35 @@ public class GameManager : MonoBehaviour {
         m_buttonsIcon.Add(clonedButtonIcon);
 
         Icon clonedButtonIconWithText1 = Instantiate
-       (GamePlayButtonLocalized, TextPanel.transform.GetChild(11), false).GetComponent<Icon>();
+       (GamePlayButtonLocalized, m_textspanel.transform.GetChild(11), false).GetComponent<Icon>();
         LocalizationManager.Instance.LoadLocalizedText(LocalizationManager.Instance.category + "/english");
         clonedButtonIconWithText1.Initialize
             (m_keys[m_chekicgIndex], LocalizationManager.Instance.GetLocalizedValue(m_keys[m_chekicgIndex]));
         m_buttonsText.Add(clonedButtonIconWithText1);
 
         Icon clonedButtonIconWithText2 = Instantiate
-      (GamePlayButtonLocalized, TextPanel.transform.GetChild(10), false).GetComponent<Icon>();
+      (GamePlayButtonLocalized, m_textspanel.transform.GetChild(10), false).GetComponent<Icon>();
         LocalizationManager.Instance.LoadLocalizedText(LocalizationManager.Instance.category + "/spanish");
         clonedButtonIconWithText2.Initialize
             (m_keys[m_chekicgIndex], LocalizationManager.Instance.GetLocalizedValue(m_keys[m_chekicgIndex]));
         m_buttonsText.Add(clonedButtonIconWithText2);
 
         Icon clonedButtonIconWithText3 = Instantiate
-     (GamePlayButtonLocalized, TextPanel.transform.GetChild(9), false).GetComponent<Icon>();
+     (GamePlayButtonLocalized, m_textspanel.transform.GetChild(9), false).GetComponent<Icon>();
         LocalizationManager.Instance.LoadLocalizedText(LocalizationManager.Instance.category + "/french");
         clonedButtonIconWithText3.Initialize
             (m_keys[m_chekicgIndex], LocalizationManager.Instance.GetLocalizedValue(m_keys[m_chekicgIndex]));
         m_buttonsText.Add(clonedButtonIconWithText3);
 
         Icon clonedButtonIconWithText4 = Instantiate
-     (GamePlayButtonLocalized, TextPanel.transform.GetChild(8), false).GetComponent<Icon>();
+     (GamePlayButtonLocalized, m_textspanel.transform.GetChild(8), false).GetComponent<Icon>();
         LocalizationManager.Instance.LoadLocalizedText(LocalizationManager.Instance.category + "/german");
         clonedButtonIconWithText4.Initialize
             (m_keys[m_chekicgIndex], LocalizationManager.Instance.GetLocalizedValue(m_keys[m_chekicgIndex]));
         m_buttonsText.Add(clonedButtonIconWithText4);
 
         Icon clonedButtonIconWithText5 = Instantiate
-     (GamePlayButtonLocalized, TextPanel.transform.GetChild(7), false).GetComponent<Icon>();
+     (GamePlayButtonLocalized, m_textspanel.transform.GetChild(7), false).GetComponent<Icon>();
         LocalizationManager.Instance.LoadLocalizedText(LocalizationManager.Instance.category + "/polish");
         clonedButtonIconWithText5.Initialize
             (m_keys[m_chekicgIndex], LocalizationManager.Instance.GetLocalizedValue(m_keys[m_chekicgIndex]));
@@ -482,7 +517,7 @@ public class GameManager : MonoBehaviour {
         StartCoroutine(InstantiateGridCO(m_keys, timeOrMovesAmount, NumOfCards));               
     }
 
-    public  IEnumerator InstantiateGridCO(List<string> keys, float timeOrMovesAmount, int num)
+    public IEnumerator InstantiateGridCO(List<string> keys, float timeOrMovesAmount, int num)
     {
         if (GameControl.control.IsPlayingDemo)
         {
@@ -492,8 +527,8 @@ public class GameManager : MonoBehaviour {
         m_clonedGameplayPanel = (GameObject)Instantiate
             (GameplayPanel, m_canvas.transform, false);
         QuitButton.SetActive(true);
-        IconsPanel = m_clonedGameplayPanel.transform.GetChild(0).gameObject;
-        TextPanel = m_clonedGameplayPanel.transform.GetChild(1).gameObject;
+        m_iconsPanel = m_clonedGameplayPanel.transform.GetChild(0).gameObject;
+        m_textspanel = m_clonedGameplayPanel.transform.GetChild(1).gameObject;
         GameState = GAME_STATE.INIT;
         
 
@@ -505,7 +540,7 @@ public class GameManager : MonoBehaviour {
 
             int startIndex = 12 - num;
             Icon clonedButtonIcon = Instantiate
-                (GamePlayButtonOriginal, IconsPanel.transform.GetChild(startIndex + i), false).GetComponent<Icon>();
+                (GamePlayButtonOriginal, m_iconsPanel.transform.GetChild(startIndex + i), false).GetComponent<Icon>();
             clonedButtonIcon.IsIcon = true;
             Sprite sprite = FindSprite(randomKey);
             clonedButtonIcon.Initialize
@@ -515,7 +550,7 @@ public class GameManager : MonoBehaviour {
 
             
             Icon clonedButtonIconWithText = Instantiate
-                (GamePlayButtonLocalized, TextPanel.transform.GetChild(i), false).GetComponent<Icon>();
+                (GamePlayButtonLocalized, m_textspanel.transform.GetChild(i), false).GetComponent<Icon>();
             clonedButtonIconWithText.Initialize
                 (randomKey, LocalizationManager.Instance.GetLocalizedValue(randomKey));
             m_buttonsText.Add(clonedButtonIconWithText);
@@ -523,7 +558,7 @@ public class GameManager : MonoBehaviour {
             keys.RemoveAt(randomIndex);
             yield return new WaitForSeconds(1f);
         }
-        keyToShow = m_buttonsIcon[UnityEngine.Random.Range(0, m_buttonsIcon.Count)].Key;
+        m_keyToShow = m_buttonsIcon[UnityEngine.Random.Range(0, m_buttonsIcon.Count)].Key;
         GameState = GAME_STATE.LEARN;
         ShuffleButton.SetActive(true);
         ShuffleButton.transform.SetAsLastSibling();       
@@ -534,7 +569,7 @@ public class GameManager : MonoBehaviour {
         }
     }
     
-    private Sprite FindSprite(string key)
+    Sprite FindSprite(string key)
     {
         for (int i = 0; i < sprites.Length; i++)
         {
@@ -546,7 +581,7 @@ public class GameManager : MonoBehaviour {
         return null;
     }
 
-    private IEnumerator HideIconsCO()
+    IEnumerator HideIconsCO()
     {
         yield return new WaitForSeconds(.1f);
         for (int i = 0; i < m_selectedButtons.Count; i++)
@@ -586,14 +621,14 @@ public class GameManager : MonoBehaviour {
         return false;
     }
 
-    private void CheckWin()
+    void CheckWin()
     {
         for (int i = 0; i < m_buttonsIcon.Count; i++)
         {
-            if (!m_buttonsIcon[i].isMatched)
+            if (!m_buttonsIcon[i].IsMatched)
                 return;
         }
-        numOfMaches = 0;
+        m_numOfMatches = 0;
         m_scoreManager.TimeSLider.value = 0;
         StartCoroutine(WinScreenCO());
     }
@@ -618,7 +653,7 @@ public class GameManager : MonoBehaviour {
         StartCoroutine(WinScreenCO());
     }
 
-    IEnumerator  WinScreenCO()
+    IEnumerator WinScreenCO()
     {
         m_scoreManager.MovesTextAnimator.SetBool("Low_Moves_b", false);
         //if (GameControl.control.IsTesting)
@@ -633,24 +668,21 @@ public class GameManager : MonoBehaviour {
         if(m_stagenumber > LevelsManager.Instance.numOfStages &&
             !GameControl.control.IsPlayingDemo)
         {
-            IconsPanel.SetActive(false);
-            TextPanel.SetActive(false);
+            m_iconsPanel.SetActive(false);
+            m_textspanel.SetActive(false);
 
             string categoryName = (LevelsManager.Instance.categoryName);
             int levelNum = LevelsManager.Instance.activeLevelNum - 1;
             CategoryState category = GameControl.control.FindCategory(categoryName);
 
             category.levelsState[levelNum] = 2;
-
-            
-
+        
             if(levelNum != 11)
             {
                 if(category.levelsState[levelNum + 1] == 0)
                 {
                     category.levelsState[levelNum + 1] = 1;
-                }
-                             
+                }                           
             }
 
             if (m_scoreManager.Score != 0 && m_scoreManager.Score > category.scores[levelNum])
@@ -670,8 +702,8 @@ public class GameManager : MonoBehaviour {
         }
         else
         {
-            IconsPanel.SetActive(false);
-            TextPanel.SetActive(false);
+            m_iconsPanel.SetActive(false);
+            m_textspanel.SetActive(false);
             if (GameControl.control.IsPlayingDemo)
             {
                 m_demoManager.OpenPopup(m_demoManager.WinPopup);
@@ -692,14 +724,11 @@ public class GameManager : MonoBehaviour {
 
     public void StartNextStage()
     {
-
         StartCoroutine(StartNextStageCO());
-
     }
 
     public IEnumerator StartNextStageCO()
-    {
-        
+    {        
         StageGoal.amount = LevelsManager.Instance.LevelGoals[m_stagenumber - 1].amount;
         StageGoal.goal = LevelsManager.Instance.LevelGoals[m_stagenumber - 1].goal;
        
@@ -707,8 +736,8 @@ public class GameManager : MonoBehaviour {
         //{
         //    TestText.gameObject.SetActive(false);
         //}
-        IconsPanel.SetActive(true);
-        TextPanel.SetActive(true);
+        m_iconsPanel.SetActive(true);
+        m_textspanel.SetActive(true);
 
         CleanBoard();
         GoalAnimationGO.gameObject.SetActive(true);
@@ -718,10 +747,7 @@ public class GameManager : MonoBehaviour {
         NextStageButton.SetActive(false);
     }
 
-
-
-
-    private void CleanBoard()
+    void CleanBoard()
     {
         Destroy(m_clonedGameplayPanel.gameObject);
         m_buttonsIcon.Clear();
@@ -746,7 +772,6 @@ public class GameManager : MonoBehaviour {
                 wasIconFirst = true;
             }
             m_selectedButtons.Add(button);
-            Debug.Log("Reveal first");
             button.Reveal();
         }
         else
@@ -772,11 +797,11 @@ public class GameManager : MonoBehaviour {
                     m_audio.PlayOneShot(Correct);
                     for (int i = 0; i < m_selectedButtons.Count; i++)
                     {
-                        m_selectedButtons[i].isMatched = true;
+                        m_selectedButtons[i].IsMatched = true;
                         m_selectedButtons[i].Highlight(true);                      
                     }
-                    numOfMaches++;
-                    if (numOfMaches >= NumOfCards)
+                    m_numOfMatches++;
+                    if (m_numOfMatches >= NumOfCards)
                     {
                         CheckWin();
                     }
@@ -794,23 +819,20 @@ public class GameManager : MonoBehaviour {
         FirstSelection = !FirstSelection;       
     }
 
-    private void OnApplicationQuit()
+    void OnApplicationQuit()
     {
         if(!GameControl.control.WasLevelWon)
              m_livesManager.ConsumeLife();
     }
 
-
-    private void OnLevelWasLoaded(int level)
+    void OnLevelWasLoaded(int level)
     {
         BackgroundMusic.Instance.FadeOut();
     }
 
-    private void OnDisable()
+    void OnDisable()
     {
         if(PlayerPrefs.GetInt("music_on") != 0)
             BackgroundMusic.Instance.GetComponent<AudioSource>().volume = BackgroundMusic.Instance.Volume;
     }
-
-
 }

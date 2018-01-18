@@ -6,11 +6,11 @@ using UnityEngine.UI;
 
 public class SpriteLoad : MonoBehaviour {
 
-    private Image image;
+    Image m_image;
 
-    private void Awake()
+    void Awake()
     {
-        image = GetComponent<Image>();
+        m_image = GetComponent<Image>();
     }
 
     void Start()
@@ -34,7 +34,7 @@ public class SpriteLoad : MonoBehaviour {
                 Texture2D myTexture = DownloadHandlerTexture.GetContent(www);
                 Sprite sprite = Sprite.Create(myTexture,
                     new Rect(0f, 0f,150f, 150f), new Vector2(0.5f, 0.5f));
-                image.sprite = sprite;
+                m_image.sprite = sprite;
             }
         }
     }

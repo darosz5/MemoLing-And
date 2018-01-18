@@ -5,11 +5,18 @@ using UnityEngine.UI;
 
 public class TranslationText : MonoBehaviour {
   
-    private Animator m_anim;
-    private Text m_text;
-    private string translatedWord;
+    Animator m_anim;
 
-    private void Awake()
+    Text m_text;
+
+    string translatedWord;
+
+    void Awake()
+    {
+        GetReferences();
+    }
+
+    void GetReferences()
     {
         m_anim = GetComponent<Animator>();
         m_text = GetComponentInChildren<Text>();
@@ -24,6 +31,5 @@ public class TranslationText : MonoBehaviour {
     public void SetText()
     {
         m_text.text = translatedWord;
-
     }
 }

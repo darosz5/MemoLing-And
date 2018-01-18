@@ -5,17 +5,28 @@ using UnityEngine.UI;
 
 public class GradeText : MonoBehaviour {
 
+    [Header("Variables")]
+
     public Color GoodColor;
+
     public Color GreatColor;
+
     public Color FantasticColor;
 
     public Vector2 scoreChangeText;
 
-    private Text m_text;
-    private Animator m_anim;
-    private int m_score;
+    Text m_text;
 
-    private void Awake()
+    Animator m_anim;
+
+    int m_score;
+
+    void Awake()
+    {
+        GetReferences();
+    }
+
+    void GetReferences()
     {
         m_text = GetComponent<Text>();
         m_anim = GetComponent<Animator>();
@@ -25,7 +36,6 @@ public class GradeText : MonoBehaviour {
     {
         m_score = score;
         m_anim.Play("Grade", -1, 0f);
-
     }
 
     public void SetGrade()
@@ -46,6 +56,4 @@ public class GradeText : MonoBehaviour {
             m_text.color = FantasticColor;
         }
     }
-
-
 }

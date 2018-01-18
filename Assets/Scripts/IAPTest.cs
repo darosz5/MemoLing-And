@@ -5,10 +5,12 @@ using UnityEngine;
 public class IAPTest : MonoBehaviour {
 
     string categoryName = "travel";
+
     string english = "german";
+
     List<string> lannguages;
 
-    private void Awake()
+    void Awake()
     {
         lannguages = new List<string>()
         {
@@ -17,8 +19,7 @@ public class IAPTest : MonoBehaviour {
     }
 
     public void AddTravelEnglish()
-    {
-       
+    {     
         CategoryAvaliability category = IsCategoryAvaliable();
         if (category == null)
         {
@@ -36,10 +37,9 @@ public class IAPTest : MonoBehaviour {
             }
         }
         GameControl.control.SavePlayerData();
-
     }
 
-    private CategoryAvaliability IsCategoryAvaliable()
+    CategoryAvaliability IsCategoryAvaliable()
     {
         for (int i = 0; i < GameControl.control.avaliableCategories.Count; i++)
         {

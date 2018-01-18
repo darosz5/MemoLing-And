@@ -5,9 +5,12 @@ using UnityEngine.UI;
 
 public class LangaugeFlags : MonoBehaviour {
 
+    [Header("References")]
+
     public Sprite[] FlagSprites;
 
     public Image flag1;
+
     public Image flag2;
 
     void OnEnable()

@@ -5,9 +5,11 @@ using UnityEngine.UI;
 
 public class IAPModul : MonoBehaviour {
 
+    [Header("References")]
+
     public Text MessageText;
 
-    private void Awake()
+    void Awake()
     {
         MessageText.text = LocalizationManager.Instance.GetUIValue("_welcome");
     }
@@ -17,9 +19,7 @@ public class IAPModul : MonoBehaviour {
         string productID = IAPManager.Instance.language + "_" + category;
         IAPManager.Instance.BuyProductID(productID);     
     }
-
-    
-
+   
     public void HandleMessage(int i)
     {
         if(i == 0)

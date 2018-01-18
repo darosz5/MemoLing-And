@@ -4,9 +4,11 @@ using UnityEngine;
 
 public class CanvasController : MonoBehaviour {
 
+    [Header("References")]
+
     public GameObject TextObj;
 
-    private void Start()
+    void Start()
     {
         EventManager.Instance.AddListener(EVENT_TYPE.SHUFFLING, this.OnEvent);
     }

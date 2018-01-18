@@ -20,7 +20,6 @@ public enum ACHIEVEMENT_TYPE
 
 public class GPSManager
 {
-
     public static void Activate()
     {
         if (Application.platform != RuntimePlatform.Android)
@@ -37,12 +36,10 @@ public class GPSManager
         }
 
         //Debug.Log(Social.localUser.authenticated);
-
     }
 
     public static bool IsAutenticated()
-    {
-        
+    {      
         return Social.localUser.authenticated;
     }
 
@@ -60,7 +57,7 @@ public class GPSManager
         Social.ShowAchievementsUI();
     }
 
-    private static string GetGPSIDLB(string categoryName)
+    static string GetGPSIDLB(string categoryName)
     {
         string boardName = "";
         switch (categoryName)
@@ -140,7 +137,7 @@ public class GPSManager
         );
     }
 
-    internal static void CheckForAchievments(CategoryState state)
+    public static void CheckForAchievments(CategoryState state)
     {
         if (Application.platform != RuntimePlatform.Android)
             return;
@@ -182,9 +179,8 @@ public class GPSManager
         }
     }
 
-    private static bool CheckFor6minAchievamnt(CategoryState state)
-    {
-        
+    static bool CheckFor6minAchievamnt(CategoryState state)
+    {       
         for (int i = 0; i < 6; i++)
         {
             if (state.levelsState[i] < 2)
@@ -195,7 +191,7 @@ public class GPSManager
 
     }
 
-    private static void CheckFor6minAchievamntAll()
+    static void CheckFor6minAchievamntAll()
     {
         ACHIEVEMENT_TYPE achievmentType = ACHIEVEMENT_TYPE.All6;
         for (int i = 0; i < GameControl.control.CategoryStates.Count; i++)
@@ -206,22 +202,19 @@ public class GPSManager
         ReportAchievment(achievmentType);
     }
 
-    private static bool CheckForXStarAchievment(CategoryState state, int numberOfStars)
-    {
-        
+    static bool CheckForXStarAchievment(CategoryState state, int numberOfStars)
+    {       
         for (int i = 0; i < state.scores.Length; i++)
         {
             if(GameControl.control.GetStars(state.scores[i], i) < numberOfStars)
             {
                 return false;
             }
-        }
-        
-        return true;
-        
+        }       
+        return true;       
     }
 
-    private static void CheckForXStarAchievmentAll(int numOfStars)
+    static void CheckForXStarAchievmentAll(int numOfStars)
     {
         ACHIEVEMENT_TYPE achievmentType = GetAchievmentType(numOfStars, true);
         for (int i = 0; i < GameControl.control.CategoryStates.Count; i++)
@@ -232,10 +225,7 @@ public class GPSManager
         ReportAchievment(achievmentType);
     }
 
-   
-
-
-    private static ACHIEVEMENT_TYPE GetAchievmentType(int numOfStars, bool all)
+    static ACHIEVEMENT_TYPE GetAchievmentType(int numOfStars, bool all)
     {
         ACHIEVEMENT_TYPE achievmentType = ACHIEVEMENT_TYPE.None;
         switch (numOfStars)
@@ -278,8 +268,7 @@ public class GPSManager
         return achievmentType;
     }
 
-
-    private static void ReportAchievment(ACHIEVEMENT_TYPE achievmentType, string categoryName = "")
+    static void ReportAchievment(ACHIEVEMENT_TYPE achievmentType, string categoryName = "")
     {
         string achievmentName = "";
         switch (achievmentType)

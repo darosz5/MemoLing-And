@@ -6,29 +6,41 @@ using Ricimi;
 
 public class CategoriesMover : MonoBehaviour {
 
+    [Header("References")]
+
     public GameObject prevLevelButton;
+
     public GameObject nextLevelButton;
+
     public RectTransform CateroriesRect;
+
     public Text levelText;
+
+    [Header("Variables")]
+
     public float MoveDistance;
+
     public float MoveSpeed;
+
     public int numOfPages;
 
-    private int pageIndex = 1;
-    private WaitForSeconds waitForAnim;
-    private bool m_canMove = true;
+    int m_pageIndex = 1;
+
+    WaitForSeconds m_waitForAnim;
+
+    bool m_canMove = true;
 
     public void Initialize()
     {
 
-        waitForAnim = new WaitForSeconds(MoveSpeed + 0.1f);
+        m_waitForAnim = new WaitForSeconds(MoveSpeed + 0.1f);
         DisablePrevLevelButton();
-        SetLevelText(pageIndex);
-        if(pageIndex == numOfPages)
+        SetLevelText(m_pageIndex);
+        if(m_pageIndex == numOfPages)
         {
             DisableNextLevelButton();           
         }
-        else if(pageIndex == 1)
+        else if(m_pageIndex == 1)
         {
             DisablePrevLevelButton();
         }
@@ -36,7 +48,7 @@ public class CategoriesMover : MonoBehaviour {
 
     public void MoveRight()
     {
-        if(!m_canMove || pageIndex >= numOfPages)
+        if(!m_canMove || m_pageIndex >= numOfPages)
             return;
         m_canMove = false;
         StartCoroutine(MoveRightCO());
@@ -44,7 +56,7 @@ public class CategoriesMover : MonoBehaviour {
 
     public void MoveLeft()
     {
-        if (!m_canMove || pageIndex <= 1)
+        if (!m_canMove || m_pageIndex <= 1)
             return;
         m_canMove = false;
         StartCoroutine(MoveLeftCO());
@@ -56,17 +68,17 @@ public class CategoriesMover : MonoBehaviour {
         
         LeanTween.move(CateroriesRect, CateroriesRect.anchoredPosition 
             - Vector2.right * MoveDistance, MoveSpeed);
-        pageIndex++;        
-        if(pageIndex == numOfPages)
+        m_pageIndex++;        
+        if(m_pageIndex == numOfPages)
         {
             DisableNextLevelButton();
         }
-        if(pageIndex == 2)
+        if(m_pageIndex == 2)
         {
             EnablePrevLevelButton();
         }
-        SetLevelText(pageIndex);
-        yield return waitForAnim;
+        SetLevelText(m_pageIndex);
+        yield return m_waitForAnim;
         m_canMove = true;
     }
 
@@ -74,17 +86,17 @@ public class CategoriesMover : MonoBehaviour {
     {
         LeanTween.move(CateroriesRect, CateroriesRect.anchoredPosition
             + Vector2.right * MoveDistance, MoveSpeed);
-        pageIndex--;           
-        if(pageIndex == 1)
+        m_pageIndex--;           
+        if(m_pageIndex == 1)
         {
             DisablePrevLevelButton();
         }
-        if(pageIndex == numOfPages - 1)
+        if(m_pageIndex == numOfPages - 1)
         {
             EnableNextLevelButton();
         }
-        SetLevelText(pageIndex);
-        yield return waitForAnim;
+        SetLevelText(m_pageIndex);
+        yield return m_waitForAnim;
         m_canMove = true;
     }
 
@@ -148,7 +160,7 @@ public class CategoriesMover : MonoBehaviour {
         nextLevelButton.GetComponent<AnimatedButton>().interactable = false;
     }
 
-    private void SetLevelText(int level)
+    void SetLevelText(int level)
     {
         levelText.text = level.ToString() + "/" + numOfPages;
     }

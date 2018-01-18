@@ -7,9 +7,9 @@ using UnityEngine.SceneManagement;
 
 public class Exit : MonoBehaviour {
 
-    private SceneTransition m_sceneTransition;
+    SceneTransition m_sceneTransition;
 
-    private void Awake()
+    void Awake()
     {
         m_sceneTransition = GetComponent<SceneTransition>();
     }
@@ -20,8 +20,7 @@ public class Exit : MonoBehaviour {
     }
 
     public void QuitGameplay()
-    {
-        
+    {       
         if (GameControl.control.IsPlayingDemo)
         {
             m_sceneTransition.scene = "HomeScene 1";
@@ -48,7 +47,5 @@ public class Exit : MonoBehaviour {
             gameManager.WasTimeAdded = true;
             gameManager.GameOver();
         }
-    }
-
-    
+    }    
 }

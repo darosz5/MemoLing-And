@@ -5,55 +5,57 @@ using UnityEngine.UI;
 
 public class Booster : MonoBehaviour {
 
-    public POWERUP PowerUp;
+    [Header("References")]
+
     public Sprite Icon;
+
     public GameObject CheckBox;
+
     public Text AmountText;
+
     public GameObject AddButton;
-    
 
-    private int amount;
+    [Header("Varibles")]
+
+    public POWERUP PowerUp;
+
+    int m_amount;
    
-
-    private void Awake()
+    void Awake()
     {
          UpdateBooster(true);
     }
 
     public void SetBooster()
     {
-        AdManager.manager.boosterToAdd = this;
-        
+        AdManager.manager.boosterToAdd = this;      
         AdManager.manager.powerup = PowerUp;
     }
 
     public void UpdateBooster(bool checkmarked)
     {
-        amount = 0;
+        m_amount = 0;
         for (int i = 0; i < GameControl.control.inventory.Count; i++)
         {
             if (GameControl.control.inventory[i] == PowerUp)
             {
-                amount++;
+                m_amount++;
             }
         }
-        if (amount > 0)
+
+        if (m_amount > 0)
         {
             AddButton.gameObject.SetActive(false);
             AmountText.transform.parent.gameObject.SetActive(true);
-            AmountText.text = amount.ToString();
-            CheckBox.gameObject.SetActive(checkmarked);
-            
-
+            AmountText.text = m_amount.ToString();
+            CheckBox.gameObject.SetActive(checkmarked);          
         }
-        else if (amount == 0)
+
+        else if (m_amount == 0)
         {
             AddButton.gameObject.SetActive(true);
             AmountText.transform.parent.gameObject.SetActive(false);
             CheckBox.gameObject.SetActive(false);
-
         }
-    }
-
-   
+    }   
 }

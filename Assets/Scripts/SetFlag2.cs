@@ -7,7 +7,7 @@ public class SetFlag2 : MonoBehaviour {
 
     public Image image;
 
-    private void Start()
+    void Start()
     {
         image.sprite = FindObjectOfType<LangaugeFlags>().flag2.sprite;
     }

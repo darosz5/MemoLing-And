@@ -6,20 +6,25 @@ using Ricimi;
 
 public class DeathWheelPopup : MonoBehaviour {
 
+    [Header("References")]
+
     public Image Image;
 
     public Text Text;
 
     public AnimatedButton Button;
 
-    private GameManager m_gameManager;
+    GameManager m_gameManager;
 
     
-
-    private void Awake()
+    void Awake()
     {
         m_gameManager = GameManager.FindObjectOfType<GameManager>();
+        Initialize();
+    }
 
+    void Initialize()
+    {
         GameObject selectedItem = GameControl.control.SelectedWheelItem;
 
         Image.sprite = selectedItem.GetComponentInChildren<SpriteRenderer>().sprite;
@@ -36,21 +41,19 @@ public class DeathWheelPopup : MonoBehaviour {
         {
             Text.text = (GameControl.control.deathWheelItem.count).ToString();
             if (m_gameManager.StageGoal.goal == GAME_GOAL.MOVES)
-            {               
-                Text.text += " " + LocalizationManager.Instance.GetUIValue("_moves");                  
-            }
-            else if(m_gameManager.StageGoal.goal == GAME_GOAL.TIME)
             {
-                
+                Text.text += " " + LocalizationManager.Instance.GetUIValue("_moves");
+            }
+            else if (m_gameManager.StageGoal.goal == GAME_GOAL.TIME)
+            {
                 Text.text += " " + LocalizationManager.Instance.GetUIValue("_seconds");
             }
-            if(GameControl.control.deathWheelItem.powerUp == POWERUP.TIME_AD)
+            if (GameControl.control.deathWheelItem.powerUp == POWERUP.TIME_AD)
             {
                 Text.text += "\n" + LocalizationManager.Instance.GetUIValue("_withvideo");
 
             }
         }
-       
     }
 
     public void RecieveReward()
@@ -64,7 +67,6 @@ public class DeathWheelPopup : MonoBehaviour {
             AdManager.manager.powerup = GameControl.control.deathWheelItem.powerUp;
             AdManager.manager.ShowAd();
         }
-
     }
 
     public void GameOver()

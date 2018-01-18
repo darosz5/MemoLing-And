@@ -9,38 +9,54 @@ using System;
 public class Icon : MonoBehaviour, IPointerDownHandler
 {
 
+    [Header("References")]
+
     public Image image;
+
     public Text text;
    
     public GameObject RevealedContent;
+
+    GameManager m_gameManager;
+
+    GameObject m_translationText;
+
+    Animator m_anim;
+
+    AudioSource m_audio;
+
+    [HideInInspector]
     public string Key;
+
+    [HideInInspector]
     public bool IsIcon;
 
+    [HideInInspector]
+    public bool IsMatched;
 
-    private GameManager m_gameManager;
+    bool m_isRevealed;
 
-    private GameObject m_translationText;
-    private Animator m_anim;
-    public bool isMatched;
-    private bool m_isRevealed;
-    private AudioSource m_audio;
-    private string textToSpeek;
+    string m_textToSpeak;
 
-    private void Awake()
-    {      
+    void Awake()
+    {
+        GetReferences();
+        m_audio.Play();
+    }
+
+    void GetReferences()
+    {
         m_anim = GetComponent<Animator>();
         m_gameManager = GameObject.FindObjectOfType<GameManager>();
         m_audio = GetComponent<AudioSource>();
         m_translationText = GameObject.FindGameObjectWithTag("Translation");
-        m_audio.Play();       
     }
 
-    private void SetTextToSpeek()
+    void SetTextToSpeek()
     {
-        textToSpeek = text.text.Replace("-\n", string.Empty);
-        textToSpeek = textToSpeek.Replace("\n", " ");
-    }
-    
+        m_textToSpeak = text.text.Replace("-\n", string.Empty);
+        m_textToSpeak = m_textToSpeak.Replace("\n", " ");
+    }    
 
     public void Reveal()
     {
@@ -48,14 +64,13 @@ public class Icon : MonoBehaviour, IPointerDownHandler
         if (m_gameManager.FirstSelection)
         {
             m_audio.Play();
-        }
-        
+        }       
         m_isRevealed = true;
     }
 
     public void RevelAtStart()
     {
-         m_anim.SetBool("Revealed_b", true);
+        m_anim.SetBool("Revealed_b", true);
         if (IsIcon)
         {
             m_audio.Play();
@@ -66,8 +81,7 @@ public class Icon : MonoBehaviour, IPointerDownHandler
     {
         m_anim.SetBool("IsPlayState_b", m_gameManager.GameState == GAME_STATE.PLAY);
         m_anim.SetBool("Revealed_b", false);
-        m_isRevealed = false;
-        
+        m_isRevealed = false;      
     }
 
     public void HideAtStart()
@@ -77,7 +91,6 @@ public class Icon : MonoBehaviour, IPointerDownHandler
 
     public void Initialize(string key, string text, Sprite sprite = null)
     {
-
         this.text.text = text;
         if (LocalizationManager.Instance.LongWords.Contains(text))
         {
@@ -111,13 +124,13 @@ public class Icon : MonoBehaviour, IPointerDownHandler
                 return;
             else
             {
-                Speak(textToSpeek);
+                Speak(m_textToSpeak);
             }
             
         }
 
         else if ((m_isRevealed && m_gameManager.GameState == GAME_STATE.PLAY) ||
-            m_gameManager.GameState == GAME_STATE.LEARN || isMatched)
+            m_gameManager.GameState == GAME_STATE.LEARN || IsMatched)
         {
             if (IsIcon)
             {
@@ -126,7 +139,7 @@ public class Icon : MonoBehaviour, IPointerDownHandler
             }
             else
             {
-                Speak(textToSpeek);
+                Speak(m_textToSpeak);
 
                 
             }
@@ -137,7 +150,7 @@ public class Icon : MonoBehaviour, IPointerDownHandler
         }
    }
 
-    private void Speak(string text)
+    void Speak(string text)
     {
         if (Application.platform == RuntimePlatform.Android)
         {

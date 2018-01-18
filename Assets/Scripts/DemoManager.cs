@@ -5,14 +5,25 @@ using Ricimi;
 
 public class DemoManager : MonoBehaviour {
 
-    private GameManager m_gameManager;
-    private PopupOpener m_popupOpener;
+    [Header("References")]
 
     public GameObject LearnPopup;
+
     public GameObject MatchPopup;
+
     public GameObject WinPopup;
 
-    private void Awake()
+    GameManager m_gameManager;
+
+    PopupOpener m_popupOpener;
+
+
+    void Awake()
+    {
+        GetReferences();
+    }
+
+    void GetReferences()
     {
         m_popupOpener = GetComponent<PopupOpener>();
         m_gameManager = FindObjectOfType<GameManager>();
@@ -20,7 +31,6 @@ public class DemoManager : MonoBehaviour {
 
     public void InstantiateDemo()
     {
-
         string originalFileName = "demo/" + LocalizationManager.Instance.firstLanguage;
         string localizedFileName = "demo/" + LocalizationManager.Instance.secondLanguage;
         

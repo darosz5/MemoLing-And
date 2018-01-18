@@ -5,36 +5,36 @@ using UnityEngine.UI;
 
 public class StartGamePopup : MonoBehaviour {
 
+    [Header("References")]
+
     public Text levelNumberText;
+
     public Text highScoreText;
+
     public GameObject stars;
 
-    private int levelNumber;
-    private int highScore;
-    private int numOfStars;
+    int m_levelNumber;
 
+    int m_highScore;
 
+    int m_numberOfStars;
 
     public void Initialize()
-    {
-        
-        levelNumber = LevelsManager.Instance.activeLevelNum;
+    {       
+        m_levelNumber = LevelsManager.Instance.activeLevelNum;
 
-        highScore = GameControl.control.FindCategory
-            (LevelsManager.Instance.categoryName).scores[levelNumber - 1];
+        m_highScore = GameControl.control.FindCategory
+            (LevelsManager.Instance.categoryName).scores[m_levelNumber - 1];
 
-        numOfStars = GameControl.control.GetStars(highScore, levelNumber - 1);
+        m_numberOfStars = GameControl.control.GetStars(m_highScore, m_levelNumber - 1);
 
-        levelNumberText.text = levelNumber.ToString();
-        highScoreText.text = highScore.ToString();
+        levelNumberText.text = m_levelNumber.ToString();
+        highScoreText.text = m_highScore.ToString();
 
-        for (int i = 0; i < numOfStars; i++)
+        for (int i = 0; i < m_numberOfStars; i++)
         {
             stars.transform.GetChild(i).GetChild(1).gameObject.SetActive(true);
         }
         gameObject.SetActive(true);
-    }
-
-    
-
+    }    
 }

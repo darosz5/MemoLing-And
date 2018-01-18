@@ -7,15 +7,22 @@ using ExaGames.Common;
 
 public class StartLevelButton : MonoBehaviour {
 
+    [Header("References")]
+
     public Booster[] boosters;
 
-    private LivesManager m_liverManager;
+    LivesManager m_liverManager;
 
-    private SceneTransition m_sceneTransition;
+    SceneTransition m_sceneTransition;
 
-    private PopupOpener m_popupOpener;
+    PopupOpener m_popupOpener;
 
-    private void Awake()
+    void Awake()
+    {
+        GetReferences();
+    }
+
+    void GetReferences()
     {
         m_liverManager = FindObjectOfType<LivesManager>();
         m_sceneTransition = FindObjectOfType<SceneTransition>();
@@ -40,9 +47,9 @@ public class StartLevelButton : MonoBehaviour {
         if(m_liverManager.CanPlay)
         {
             SetBoosters();
-            m_sceneTransition.PerformTransition();
-            
+            m_sceneTransition.PerformTransition();          
         }
+
         else
         {
             m_popupOpener.OpenPopup();

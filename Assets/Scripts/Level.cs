@@ -5,24 +5,28 @@ using UnityEngine.UI;
 
 public class Level : MonoBehaviour {
 
-    public int stars;
-    public int LevelState;
-    
-    [SerializeField]
-    private int m_levelNum;
-    public int level;
-    public int numOfCards;
-
-    public float index;
-    public float count;
+    [Header("References")]
 
     public LevelGoal[] LevelGoals;
+
     public Text LevelText;
 
-    private void Awake()
+    [Header("Variables")]
+      
+    public int level;
+
+    [HideInInspector]
+    public int stars;
+
+    [HideInInspector]
+    public int LevelState;
+
+    int m_levelNum;
+
+    void Awake()
     {
         m_levelNum = int.Parse(gameObject.name);
-  }
+    }
 
     public void SetActiveLevel()
     {

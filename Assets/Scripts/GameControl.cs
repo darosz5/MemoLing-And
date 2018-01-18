@@ -22,69 +22,118 @@ public class StarsValues
 
 public class GameControl : MonoBehaviour
 {
-    public List<string> languages;
-
     public static GameControl control;
 
+    [Header("References")]
+    [Space(10)]
+
     [Header("Boosters")]
+
     public List<Booster> activeBoosters;
+
+    [HideInInspector]
     public GameObject SelectedWheelItem;
+
+    [HideInInspector]
     public WheelIten deathWheelItem;
 
-    [Header("Player Info")]
-    public List<POWERUP> inventory;
-    public List<CategoryAvaliability> avaliableCategories;
-    
-    public bool wasHomeSceneLast;
-    public bool secondLaunch;
-    public List<CategoryState> CategoryStates;
-    public string firstLanguage;
-    public string secondLanguage;
-    public int languageCount;
-
-    [Header("Contollerd GOs")]
-    public GameObject LoadingScreen;
-
-
-    [Header("Variables")]
-    public int baseCantgoriesCount;
-    public float TimeOut;
-    public bool IsPlayingDemo;
-    //public bool IsTesting;
-    public bool IsChecking;
-    public bool WasLevelWon;
-    public StarsValues[] levelStarsValues;
-    public int numOfCards;
-    public bool isLanguageAvalibleForSpeech;
-    public float checkingInterval;
-    public Vector3 FirstCategoryPosition;
-
     [Header("Popups")]
+
     public GameObject LostConnectionPopup;
+
     public GameObject DemoScenePopup;
+
     public GameObject LanguageSelectPopup;
+
     public GameObject TestingPanel;
 
+    public GameObject LoadingScreen;
+
+    GameObject clonedLoadingScreen;
+
+    PopupOpener m_popupOpener;
+
+    AudioSource m_audio;
+
+    [Header("Variables")]
+    [Space(10)]
+
+    public List<string> languages;
+
+    [Header("Player Info")]
+
+    [HideInInspector]
+    public List<POWERUP> inventory;
+
+    [HideInInspector]
+    public List<CategoryAvaliability> avaliableCategories;
+        
+    [HideInInspector]
+    public bool secondLaunch;
+
+    [HideInInspector]
+    public List<CategoryState> CategoryStates;
+
+    [HideInInspector]
+    public string firstLanguage;
+
+    [HideInInspector]
+    public string secondLanguage;
+   
+    int m_languegeCount;
+
+    bool m_wasLastHomeScene;
+
+    [Header("Other")]
+
+    public StarsValues[] levelStarsValues;
+
+    public float TimeOut;
+
+    public int numOfCards;
+
+    public float checkingInterval;
+
+    public Vector3 FirstCategoryPosition;
+
+    [HideInInspector]
+    public bool IsPlayingDemo;
+
+    [HideInInspector]
+    public bool IsChecking;
+
+    [HideInInspector]
+    public bool WasLevelWon;
+
+    [HideInInspector]
+    public bool isLanguageAvalibleForSpeech;
+
+    int m_baseCategoriesCount;
+
     [Header("Testing")]
+
     public float timeModfier;
+
     public float matchNumModifier;
+
     public float TestingPlayTime;
 
-    private GameObject clonedLoadingScreen;
-    private PopupOpener m_popupOpener;
-    private bool m_isTimeOut;
-    private AudioSource m_audio;
-    private WaitForSeconds WFSChecking;
     [HideInInspector]
     public bool isLoggedIn = false;
 
-    private void Awake()
-    {
-        WFSChecking = new WaitForSeconds(checkingInterval);
-        m_audio = GetComponent<AudioSource>();
-        wasHomeSceneLast = true;
-        m_popupOpener = GetComponent<PopupOpener>();
+    WaitForSeconds WFSChecking;
 
+    bool m_isTimeOut;
+
+    void Awake()
+    {
+        MakePersistentSingleton();
+        GetReferences();
+        Initialize();
+    }
+
+    void MakePersistentSingleton()
+    {
         if (control == null)
         {
             DontDestroyOnLoad(gameObject);
@@ -94,27 +143,35 @@ public class GameControl : MonoBehaviour
         {
             Destroy(gameObject);
         }
+    }
+
+    void Initialize()
+    {
+        WFSChecking = new WaitForSeconds(checkingInterval);
+        m_wasLastHomeScene = true;
         if (!isLoggedIn)
         {
             GPSManager.Activate();
         }
-      
     }
-    
-    private void OnEnable()
+
+    void GetReferences()
     {
+        m_audio = GetComponent<AudioSource>();
+        m_popupOpener = GetComponent<PopupOpener>();
+    }
 
+    void OnEnable()
+    {
         Load(PlayerPrefs.GetString("language"));
-
 
         if (!secondLaunch)
         {
             Invoke("OpenFirstLanguagePopup", .1f);
-
         }
     }
 
-    private void OpenFirstLanguagePopup()
+    void OpenFirstLanguagePopup()
     {
         m_popupOpener.popupPrefab = LanguageSelectPopup;
         m_popupOpener.OpenPopup();
@@ -138,7 +195,7 @@ public class GameControl : MonoBehaviour
         m_popupOpener.OpenPopup();
     }
 
-    private void OnLevelWasLoaded(int level)
+    void OnLevelWasLoaded(int level)
     {
 
         if (SceneManager.GetActiveScene() == SceneManager.GetSceneByName("Categories"))
@@ -190,7 +247,7 @@ public class GameControl : MonoBehaviour
             AddNewCategories(avaliableCategoriesList);
             PlaceCategoriesRectTransforms(avaliableCategoriesList);
             
-            if (wasHomeSceneLast)
+            if (m_wasLastHomeScene)
             {
                 
                 InitializeBundlesLoad(CategoryStates);
@@ -201,15 +258,15 @@ public class GameControl : MonoBehaviour
 
         if (SceneManager.GetActiveScene() == SceneManager.GetSceneByName("HomeScene 1"))
         {
-            wasHomeSceneLast = true;
+            m_wasLastHomeScene = true;
         }
         else
         {
-            wasHomeSceneLast = false;
+            m_wasLastHomeScene = false;
         }
     }
 
-    private CategoryAvaliability CheckIfHasThisCategoryAvailable(string name)
+    CategoryAvaliability CheckIfHasThisCategoryAvailable(string name)
     {
         for (int i = 0; i < avaliableCategories.Count; i++)
         {
@@ -219,19 +276,16 @@ public class GameControl : MonoBehaviour
         return null;
     }
 
-    private void PlaceCategoriesRectTransforms(List<Category> categories)
+    void PlaceCategoriesRectTransforms(List<Category> categories)
     {
-
         List<Category> sortedCategories = categories.OrderBy(x => x.orderNumber).ToList();
-
-        
+       
         Transform parent = GameObject.Find("Canvas").transform.GetChild(2);
-        
-        
-        SetCategoriesMoverNumOfPages(sortedCategories.Count);
-     
+               
+        SetCategoriesMoverNumOfPages(sortedCategories.Count);    
 
         Vector3 starting6pos = FirstCategoryPosition;
+
         for (int i = 0; i < sortedCategories.Count; i+=6)
         {
             if (i != 0)
@@ -240,8 +294,7 @@ public class GameControl : MonoBehaviour
             }
             
             for (int j = 0; j < 6; j++)
-            {
-                
+            {             
                 Vector3 startingpos = starting6pos + Vector3.down * 368f * j;
 
                 if (j >= 3)
@@ -253,38 +306,31 @@ public class GameControl : MonoBehaviour
 
                 RectTransform rectTransform = sortedCategories[i + j].GetComponent<RectTransform>();               
                 rectTransform.anchoredPosition = startingpos;
-                Instantiate(rectTransform.gameObject, parent, false);
-                
-                
+                Instantiate(rectTransform.gameObject, parent, false);                               
             }
-        }
-        
+        }       
     }
 
-    private void AddNewCategories(List<Category> categories)
-    {
-       
-
+    void AddNewCategories(List<Category> categories)
+    {    
         for (int i = 0; i < categories.Count; i++)
         {
             if (FindCategory(categories[i].CategoryName) == null)
             {
                 AddCategory(categories[i].CategoryName, categories[i].Url, categories[i].IsBasic);
             }
-
         }
     }
 
     void SetCategoriesMoverNumOfPages(int num)
-    {
-        
+    {        
         int numOfPages = (int)(num / 6) + 1;
         if (num % 6 == 0)
         {
             numOfPages--;
         }
         CategoriesMover mover = FindObjectOfType<CategoriesMover>();
-       mover.numOfPages = numOfPages;
+        mover.numOfPages = numOfPages;
         mover.Initialize();
     }
 
@@ -324,13 +370,11 @@ public class GameControl : MonoBehaviour
         playerData.secondLaunch = secondLaunch;
         playerData.firstLanguage = firstLanguage;
         playerData.secondLanguage = secondLanguage;
-        playerData.languageCount = languageCount;
+        playerData.languageCount = m_languegeCount;
         bf.Serialize(file, playerData);
         file.Close();
     }
-
   
-   
     void InitializeBundlesLoad(List<CategoryState> categoryStates)
     {        
         for (int i = 0; i < categoryStates.Count; i++)
@@ -372,7 +416,7 @@ public class GameControl : MonoBehaviour
         float timer = 0;
         int count = 0;
         SwitchLoadingScreen(true);
-        SpeachManager.speachManager.SetSpeach();
+        SpeachManager.Instance.SetSpeach();
 
         if (isLanguageAvalibleForSpeech && Application.platform == RuntimePlatform.Android &&
             LocalizationManager.Instance.WasLanguageChanged)
@@ -414,7 +458,7 @@ public class GameControl : MonoBehaviour
         SaveCategory (LocalizationManager.Instance.secondLanguage);              
     }
 
-    private void TimeOutScreen()
+    void TimeOutScreen()
     {
         StopAllCoroutines();
         m_isTimeOut = true;
@@ -460,16 +504,14 @@ public class GameControl : MonoBehaviour
             secondLaunch = playerData.secondLaunch;
             firstLanguage = playerData.firstLanguage;
             secondLanguage = playerData.secondLanguage;
-            languageCount = playerData.languageCount;
+            m_languegeCount = playerData.languageCount;
             LocalizationManager.Instance.LoadUITexts("UI/UI" + firstLanguage);
             file1.Close();
 
-           
-
-            if (languageCount < languages.Count)
+            if (m_languegeCount < languages.Count)
             {
                 
-                for (int i = languageCount; i < languages.Count; i++)
+                for (int i = m_languegeCount; i < languages.Count; i++)
                 {
                     CategoryStates = new List<CategoryState>();
                    
@@ -477,7 +519,7 @@ public class GameControl : MonoBehaviour
                     SaveCategory(languages[i]);
 
                 }
-                languageCount = languages.Count;
+                m_languegeCount = languages.Count;
                 SavePlayerData();
             }
         }
@@ -495,14 +537,12 @@ public class GameControl : MonoBehaviour
         else
         {
             CreatePlayerData();
-        }
-
-       
+        }       
     }
 
-    private void AddNewLanguagesToBaseCategories(string language)
+    void AddNewLanguagesToBaseCategories(string language)
     {
-        for (int i = 0; i < baseCantgoriesCount; i++)
+        for (int i = 0; i < m_baseCategoriesCount; i++)
         {
             if (!avaliableCategories[i].avaliableLanguages.Contains(language))
             {
@@ -527,8 +567,7 @@ public class GameControl : MonoBehaviour
             AssetBundle bundle = AssetBundle.LoadFromFile(filePath);
             Unload(bundle);
             categoryState.loadedSprites = true;
-            SaveCategory(LocalizationManager.Instance.secondLanguage);
-            
+            SaveCategory(LocalizationManager.Instance.secondLanguage);          
         }
 
         else
@@ -558,14 +597,14 @@ public class GameControl : MonoBehaviour
         bundle = null;
     }
 
-    private void CreatePlayerData()
+    void CreatePlayerData()
     {     
         SetFirstLanguage(Application.systemLanguage);      
         avaliableCategories = new List<CategoryAvaliability>();
         inventory = new List<POWERUP>();       
         secondLaunch = false;
      
-        languageCount = languages.Count;
+        m_languegeCount = languages.Count;
         SavePlayerData();
         for (int i = 0; i < languages.Count; i++)
         {
@@ -574,7 +613,7 @@ public class GameControl : MonoBehaviour
         }                
     }
 
-    private void SetFirstLanguage(SystemLanguage systemLanguage)
+    void SetFirstLanguage(SystemLanguage systemLanguage)
     {
         switch (systemLanguage)
         {
@@ -634,8 +673,7 @@ public class GameControl : MonoBehaviour
             {
                 inventory.Add(wheelItem.powerUp);
             }          
-        }
-        
+        }       
         SavePlayerData();
     }
 
@@ -661,7 +699,5 @@ public class GameControl : MonoBehaviour
             }           
         }     
         return null;
-    }
-
-   
+    }  
 }

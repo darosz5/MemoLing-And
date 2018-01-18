@@ -4,9 +4,9 @@ using UnityEngine;
 
 public class LoadingScreen : MonoBehaviour {
 
-    private Animator m_anim;
+    Animator m_anim;
 
-    private void Awake()
+    void Awake()
     {
         m_anim = GetComponent<Animator>();
     }

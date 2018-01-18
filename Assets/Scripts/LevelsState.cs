@@ -4,25 +4,23 @@ using UnityEngine;
 
 public class LevelsState : MonoBehaviour {
 
-    private GameObject[] levelsArray;
+    GameObject[] levelsArray;
+
+    [Header("Variables")]
 
     public Color NewLevelColor;
 
-    private void Awake()
+    void Awake()
     {
         levelsArray = new GameObject[transform.childCount];
         
         for (int i = 0; i < transform.childCount; i++)
         {
             levelsArray[i] = transform.GetChild(i).gameObject;
-        }
-
-        
-       
-
+        }      
     }
 
-    private void OnEnable()
+    void OnEnable()
     {
         AudioListener.volume = PlayerPrefs.GetInt("sound_on");
 
@@ -41,8 +39,6 @@ public class LevelsState : MonoBehaviour {
 
             level.stars = GameControl.control.GetStars(score, i);
 
-
-
             GameObject state = levelsArray[i].transform.GetChild(level.LevelState).gameObject;
             
             state.gameObject.SetActive(true);
@@ -55,17 +51,10 @@ public class LevelsState : MonoBehaviour {
                     starsParent.GetChild(j).gameObject.SetActive(true);
                 }
             }
-            if(level.LevelState == 1)
+            if (level.LevelState == 1)
             {
                 level.LevelText.color = NewLevelColor;
             }
-
-            
-
-
-        }
-     
-    }
-
-    
+        }     
+    }    
 }

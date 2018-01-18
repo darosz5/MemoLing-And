@@ -14,33 +14,35 @@ public class LevelGoal
 
 public class LevelsManager : MonoBehaviour
 {
+    public static LevelsManager Instance;
+    
+    [HideInInspector]
     public int numOfStages;
+
+    [HideInInspector]
     public int activeLevelNum;    
+
+    [HideInInspector]
     public int difficultyLevel;
+
+    [HideInInspector]
     public LevelGoal[] LevelGoals;
 
+    [HideInInspector]
     public int numOfCards;
 
-    public int[] categoryState;
+    [HideInInspector]
     public string categoryName;
+
+    [HideInInspector]
     public AssetBundle bundle;
 
-    
-    
-
-    private static LevelsManager instance = null;
-
-    public static LevelsManager Instance
-    {
-        get { return instance; }
-        set { }
-    }
 
     void Awake()
     {
-        if (instance == null)
+        if (Instance == null)
         {
-            instance = this;
+            Instance = this;
             DontDestroyOnLoad(gameObject);
         }
         else

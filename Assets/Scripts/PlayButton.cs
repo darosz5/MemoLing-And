@@ -5,13 +5,17 @@ using Ricimi;
 using UnityEngine.UI;
 
 public class PlayButton : MonoBehaviour {
+ 
+    SceneTransition m_sceneTransition;
 
-  
+    PopupOpener m_popupOpener;
 
-    private SceneTransition m_sceneTransition;
-    private PopupOpener m_popupOpener;
+    void Awake()
+    {
+        GetReferences();
+    }
 
-    private void Awake()
+    void GetReferences()
     {
         m_sceneTransition = GetComponent<SceneTransition>();
         m_popupOpener = GetComponent<PopupOpener>();

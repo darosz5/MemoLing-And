@@ -16,9 +16,6 @@ public class LivesUIManager : MonoBehaviour {
         LivesText.text = LivesManager.LivesText;
     }
 
-    /// <summary>
-    /// Time to next life changed event handler, changes the label value.
-    /// </summary>
     public void OnTimeToNextLifeChanged()
     {
         TimeToNextLifeText.text = LivesManager.RemainingTimeString;

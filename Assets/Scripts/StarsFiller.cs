@@ -6,23 +6,25 @@ using UnityEngine.UI;
 
 public class StarsFiller : MonoBehaviour {
 
-    private StarsValues m_starValues;
+    [Header("References")]
 
     [SerializeField]
-    private ParticleSystem m_effect;
+    ParticleSystem m_effect;
 
     [SerializeField]
-    private Image m_star1;
+    Image m_star1;
 
     [SerializeField]
-    private Image m_star2;
+    Image m_star2;
 
     [SerializeField]
-    private Image m_star3;
+    Image m_star3;
 
-    private int m_starsObtained;
+    StarsValues m_starValues;
 
-    private void Awake()
+    int m_starsObtained;
+
+    void Awake()
     {
         if (GameControl.control.IsPlayingDemo)
         {
@@ -74,10 +76,9 @@ public class StarsFiller : MonoBehaviour {
         }        
     }
 
-    private void PlayEffect(Vector3 position)
+    void PlayEffect(Vector3 position)
     {
-        m_effect.transform.position = new Vector3(position.x, position.y, m_effect.transform.position.z);
-        
+        //m_effect.transform.position = new Vector3(position.x, position.y, m_effect.transform.position.z);       
         m_effect.Play();
     }
 }

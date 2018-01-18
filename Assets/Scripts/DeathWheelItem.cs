@@ -5,21 +5,30 @@ using UnityEngine.UI;
 
 public class DeathWheelItem : WheelIten {
 
-    private Text text;
+    Text m_text;
 
-    private GameManager m_gameManager;
+    GameManager m_gameManager;
 
-    private void Awake()
+    void Awake()
     {
-        text = GetComponentInChildren<Text>();
-        
+        GetReferences();
+        Initialize();
+    }
+
+    void GetReferences()
+    {
+        m_text = GetComponentInChildren<Text>();
         m_gameManager = FindObjectOfType<GameManager>();
-        if(m_gameManager.StageGoal.goal == GAME_GOAL.MOVES)
+    }
+
+    void Initialize()
+    {
+        if (m_gameManager.StageGoal.goal == GAME_GOAL.MOVES)
         {
             count = count / 2;
         }
         if (powerUp == POWERUP.DEATH)
             return;
-        text.text = count.ToString("0");
+        m_text.text = count.ToString("0");
     }
 }

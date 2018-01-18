@@ -7,21 +7,23 @@ using Ricimi;
 
 public class WaitPopup : MonoBehaviour {
 
+    [Header("References")]
+
     public Text dateText;
 
-    DateTime oldDate;
+    DateTime m_oldDate;
 
-    private Popup m_popup; 
+    Popup m_popup; 
 
-    private void Awake()
+    void Awake()
     {
-        oldDate = DateTime.FromBinary(Convert.ToInt64(PlayerPrefs.GetString("WheelDate")));
+        m_oldDate = DateTime.FromBinary(Convert.ToInt64(PlayerPrefs.GetString("WheelDate")));
         m_popup = GetComponent<Popup>();
     }
 
-    private void Update()
+    void Update()
     {
-        TimeSpan difference = (oldDate.AddHours(12).Subtract(DateTime.Now));
+        TimeSpan difference = (m_oldDate.AddHours(12).Subtract(DateTime.Now));
         dateText.text = String.Format("{0:00}:{1:00}:{2:00}",
         difference.Hours,
         difference.Minutes,

@@ -5,6 +5,8 @@ using UnityEngine.UI;
 
 public class FlagSetter : MonoBehaviour {
 
+    [Header("References")]
+
     public Sprite flag;
 
     public Image flagImage;

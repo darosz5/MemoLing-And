@@ -7,19 +7,11 @@ public class LosePopup : MonoBehaviour {
 
     public Text levelNumberText;
    
-    private int levelNumber;
-
-
-
+    int m_levelNumber;
 
     public void Initialize()
-    {
-       
-        levelNumber = LevelsManager.Instance.activeLevelNum;
-
-        levelNumberText.text = levelNumber.ToString();
-        
-
-     
+    {      
+        m_levelNumber = LevelsManager.Instance.activeLevelNum;
+        levelNumberText.text = m_levelNumber.ToString();           
     }
 }

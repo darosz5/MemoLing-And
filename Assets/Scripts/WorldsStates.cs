@@ -41,7 +41,6 @@ public class CategoryState
     }
 }
 
-
 [System.Serializable]
 public  class PlayerData {
 
@@ -57,6 +56,7 @@ public  class PlayerData {
    
 
 }
+
 [System.Serializable]
 public class States {
 

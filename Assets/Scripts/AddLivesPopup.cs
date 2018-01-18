@@ -5,9 +5,11 @@ using UnityEngine.SceneManagement;
 
 public class AddLivesPopup : MonoBehaviour {
 
+    [Header("Variables")]
+
     public POWERUP powerup;
 
-    private void Start()
+    void Start()
     {
         if (SceneManager.GetActiveScene().name == "Gameplay" &&
             FindObjectOfType<GameManager>().GameState == GAME_STATE.LOSE)
@@ -19,7 +21,6 @@ public class AddLivesPopup : MonoBehaviour {
     public void AddLiveWithVideo()
     {
         AdManager.manager.powerup = powerup;
-        AdManager.manager.ShowAd();
-       
+        AdManager.manager.ShowAd();       
     }
 }

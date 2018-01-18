@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class OpenURL : MonoBehaviour {
 
+    [Header("Variables")]
+
     public string URL;
 
     public void OpenUrl()

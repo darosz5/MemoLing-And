@@ -6,6 +6,8 @@ using UnityEngine.SceneManagement;
 
 public class StartupManager : MonoBehaviour
 {
+    [Header("References")]
+
     public GameObject StartUpScreen;
 
     public Category[] categories;

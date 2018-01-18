@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class FlagToggle : MonoBehaviour {
 
-    private void Awake()
+    void Awake()
     {
         if(gameObject.name == LocalizationManager.Instance.secondLanguage)
         {

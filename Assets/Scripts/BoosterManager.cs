@@ -7,19 +7,23 @@ using System;
 
 public class BoosterManager : MonoBehaviour {
 
+    [Header("References")]
 
-    [Header("Booster buttons")]
     public GameObject KillerBooster;
-    public GameObject TimeBooster;
-    public GameObject SideBooster;
 
-    private GameManager m_gameManager;
+    public GameObject TimeBooster;
+
+    public GameObject SideBooster;
 
     public List<GameObject> ActiveButtons;
 
+    GameManager m_gameManager;
+
+    [Header("Variables")]
+
     public Color[] colors;
 
-    private void Awake()
+    void Awake()
     {
         m_gameManager = FindObjectOfType<GameManager>();
         DisableButtons();
@@ -32,12 +36,8 @@ public class BoosterManager : MonoBehaviour {
         DisableButton(TimeBooster);
     }
 
-  
-
-
     public void HandleBoosters()
     {
-
         for (int i = 0; i < GameControl.control.activeBoosters.Count; i++)
         {
             switch (GameControl.control.activeBoosters[i].PowerUp)
@@ -51,10 +51,8 @@ public class BoosterManager : MonoBehaviour {
                 case POWERUP.ADDITIONAL_TIME:
                     ActiveButtons.Add(TimeBooster);                 
                     break;
-
             }
-        }
-       
+        }       
     }
 
     public void ToogleKiller()
@@ -71,9 +69,9 @@ public class BoosterManager : MonoBehaviour {
             m_gameManager.ShowPairb = false;
         }
     }
+
     public void ToogleSide()
     {
-
         Image img = SideBooster.GetComponentsInChildren<Image>()[1];
         if (img.color == colors[0])
         {
@@ -86,6 +84,7 @@ public class BoosterManager : MonoBehaviour {
             m_gameManager.ShowSideb = false;
         }
     }
+
     public void ToogleTime()
     {
 
@@ -150,7 +149,5 @@ public class BoosterManager : MonoBehaviour {
             EnableButton(ActiveButtons[i]);
         }
     }
-
-
-    
+   
 }

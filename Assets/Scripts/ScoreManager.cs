@@ -4,56 +4,73 @@ using UnityEngine;
 using UnityEngine.UI;
 
 public class ScoreManager : MonoBehaviour {
-    
-    [Header("TIME/Moves")]
-    public Slider TimeSLider;
-    public Slider MovesSlider;
-    public Image FillImage;
-    [HideInInspector]
-    public float MaxTime;
-    public Text MovesAmountText;
-    
+
+    [Header("References")]
     [Space(10)]
 
+    [Header("TIME/Moves")]
+    public Slider TimeSLider;
+
+    public Slider MovesSlider;
+
+    public Image FillImage;
+
+    public Text MovesAmountText;
+    
     [Header("SCORE")]
+
     public Slider ScoreSlider;
-    public int MaxScore;
-    public float MatchPoints;
+
     public Text ScoreText;
 
-    private Animator m_timeSliderBgAnimator;
-    private Animator m_scoreTextAnim;
+    public int MaxScore;
+
+    public float MatchPoints;
+
+    [Header("Animators")]
 
     public Animator TimeTextAnimator;
+
     public Animator GradeAnimator;
+
     public Animator MovesTextAnimator;
-    private Text m_gradeText;
-    private Text m_timeTextToAnim;
-    private Text m_scoreTextToAnim;
-    private AudioSource m_audio;
-    private string m_result = "Result:\n";
-    private GameManager m_gameManager;
 
-    [SerializeField]
-    private float m_timeSinceLastMatch;
-    private float m_startingNoMatchTime;
-    private float m_noMatchTime;
-    [SerializeField]
-    private float matchNum;
-    private StarsFiller m_starFiller;
-    
-    
+    Animator m_timeSliderBgAnimator;
 
-    // private int m_score;
-    private float m_totalTime;
-       
+    Animator m_scoreTextAnim;
 
+    Text m_gradeText;
+
+    Text m_timeTextToAnim;
+
+    Text m_scoreTextToAnim;
+
+    AudioSource m_audio;
+
+    GameManager m_gameManager;
+
+    StarsFiller m_starFiller;
+
+    [HideInInspector]
     public int Score;
 
-    private float m_timer;
-    private int m_moves;
+    string m_result = "Result:\n";
+    
+    float m_timeSinceLastMatch;
 
- 
+    float m_startingNoMatchTime;
+
+    float m_noMatchTime;
+    
+    float m_matchNum;
+
+    float m_maxTime;
+
+    float m_totalTime;
+       
+    int m_moves;
+
+    float m_timer;
 
     public float Timer
     {
@@ -63,27 +80,30 @@ public class ScoreManager : MonoBehaviour {
         }
         set
         {
-            m_timer =  Mathf.Clamp(value , 0, MaxTime + 1);
+            m_timer =  Mathf.Clamp(value , 0, m_maxTime + 1);
             if (m_timer < 5f && !m_audio.isPlaying)
             {
                 m_timeSliderBgAnimator.SetTrigger("3Sec_t");
                 m_audio.Play();
-            }
-         
+            }       
 
             if (m_timer <= 0)
             {
                 m_audio.Stop();
                 if (!m_gameManager.IsGameOver)
                 {
-                    m_gameManager.GameOver();
-                    
+                    m_gameManager.GameOver();                   
                 }               
             }
         }
     }
 
-    private void Awake()
+    void Awake()
+    {
+        GetReferences();
+    }
+
+    void GetReferences()
     {
         m_gameManager = FindObjectOfType<GameManager>();
         m_scoreTextAnim = ScoreSlider.GetComponentInChildren<Animator>();
@@ -92,14 +112,16 @@ public class ScoreManager : MonoBehaviour {
         m_starFiller = FindObjectOfType<StarsFiller>();
         m_timeTextToAnim = TimeTextAnimator.GetComponent<Text>();
         m_gradeText = GradeAnimator.GetComponent<Text>();
-      
-
         m_timeSliderBgAnimator = TimeSLider.GetComponentInChildren<Animator>();
         m_audio = GetComponent<AudioSource>();
-       
     }
 
-    private void Start()
+    void Start()
+    {
+        Initialize();
+    }
+
+    void Initialize()
     {
         if (!GameControl.control.IsPlayingDemo)
         {
@@ -110,7 +132,7 @@ public class ScoreManager : MonoBehaviour {
         {
             MaxScore = 150;
         }
-        m_startingNoMatchTime = (4 - LevelsManager.Instance.difficultyLevel) * 10 + 30f;     
+        m_startingNoMatchTime = (4 - LevelsManager.Instance.difficultyLevel) * 10 + 30f;
         if (GameControl.control.IsPlayingDemo)
         {
             m_startingNoMatchTime = 180f;
@@ -120,8 +142,7 @@ public class ScoreManager : MonoBehaviour {
         ScoreSlider.maxValue = MaxScore;
         ScoreSlider.value = Score;
         m_timeSinceLastMatch = 0;
-        matchNum = 0;
-        
+        m_matchNum = 0;
     }
 
     public void ResetNoMatchTime()
@@ -131,7 +152,6 @@ public class ScoreManager : MonoBehaviour {
 
     public void SetCounterOrTimer(GAME_GOAL goal)
     {
-        
         if (goal == GAME_GOAL.TIME)
         {
             TimeSLider.gameObject.SetActive(true);
@@ -141,18 +161,16 @@ public class ScoreManager : MonoBehaviour {
         {
             TimeSLider.gameObject.SetActive(false);
             MovesAmountText.transform.parent.gameObject.SetActive(true);
-        }
-        
+        }        
     }
-
 
     public void AddTimeAtStart(int amount)
     {
         if (m_gameManager.StageGoal.goal == GAME_GOAL.TIME)
         {
             amount *= 2;
-            MaxTime += amount;
-            Timer = MaxTime;
+            m_maxTime += amount;
+            Timer = m_maxTime;
             TimeSLider.maxValue += amount;
             TimeSLider.value += amount;
             PlayTimeAddAnim(amount);
@@ -162,20 +180,18 @@ public class ScoreManager : MonoBehaviour {
             m_gameManager.StageGoal.amount += amount;
             MovesAmountText.text = m_gameManager.StageGoal.amount.ToString();
             PlayTimeAddAnim(amount);
-        }
-       
-        
+        }              
     }
 
     public void ResetTimeOrMoves(float timeOrMovesAmount)
     {      
        if (m_gameManager.StageGoal.goal == GAME_GOAL.TIME)
         {
-            MaxTime = timeOrMovesAmount;
+            m_maxTime = timeOrMovesAmount;
 
-            TimeSLider.maxValue = MaxTime;
-            TimeSLider.value = MaxTime;
-            Timer = MaxTime;
+            TimeSLider.maxValue = m_maxTime;
+            TimeSLider.value = m_maxTime;
+            Timer = m_maxTime;
             FillImage.color = Color.green;
         }
         else if (m_gameManager.StageGoal.goal == GAME_GOAL.MOVES)
@@ -189,7 +205,7 @@ public class ScoreManager : MonoBehaviour {
         ScoreSlider.value = Score;
         ScoreText.text = Score.ToString();
 
-        matchNum = 0;
+        m_matchNum = 0;
         m_result = "Result:\n";
         m_totalTime = 0;       
         m_timeSinceLastMatch = 0;
@@ -206,9 +222,9 @@ public class ScoreManager : MonoBehaviour {
     {      
         float pointsToAdd = 0;
 
-        matchNum++;
+        m_matchNum++;
 
-        if (matchNum == numOfCards)
+        if (m_matchNum == numOfCards)
             return;
 
         pointsToAdd = 120 - m_timeSinceLastMatch * 10;
@@ -265,7 +281,6 @@ public class ScoreManager : MonoBehaviour {
         GradeAnimator.Play("Grade", -1, 0f);
     }
 
-
     public string ShowResult()
     {
         m_result += ("Total time: " + m_totalTime.ToString("0.0") + 
@@ -289,7 +304,7 @@ public class ScoreManager : MonoBehaviour {
             MovesTextAnimator.SetBool("Low_Moves_b", false);
         }
         if (!m_gameManager.IsGameOver && m_gameManager.StageGoal.amount <= 0
-            && matchNum < m_gameManager.NumOfCards - 1)
+            && m_matchNum < m_gameManager.NumOfCards - 1)
         {
             m_gameManager.GameOver();
             
@@ -317,10 +332,8 @@ public class ScoreManager : MonoBehaviour {
             {               
                 Timer -= Time.deltaTime;
                 TimeSLider.value = Timer;
-                FillImage.color = Color.Lerp(Color.red, Color.green, Timer / MaxTime);
+                FillImage.color = Color.Lerp(Color.red, Color.green, Timer / m_maxTime);
             }
-        }
-        
-
+        }        
     }
 }

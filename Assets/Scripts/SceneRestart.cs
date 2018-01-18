@@ -7,13 +7,18 @@ using UnityEngine.SceneManagement;
 
 public class SceneRestart : MonoBehaviour {
 
-    private LivesManager m_liverManager;
+    LivesManager m_liverManager;
 
-    private PopupOpener m_popupOpener;
+    PopupOpener m_popupOpener;
 
-    private GameManager m_gameManager;
+    GameManager m_gameManager;
 
-    private void Awake()
+    void Awake()
+    {
+        GetReferences();
+    }
+
+    void GetReferences()
     {
         m_gameManager = FindObjectOfType<GameManager>();
         m_liverManager = FindObjectOfType<LivesManager>();
@@ -21,8 +26,7 @@ public class SceneRestart : MonoBehaviour {
     }
 
     public void RestartScene()
-    {
-        
+    {       
         StartCoroutine(RestartSceneCO());
     }
     

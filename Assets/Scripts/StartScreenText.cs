@@ -6,22 +6,22 @@ using UnityEngine.UI;
 
 public class StartScreenText : MonoBehaviour {
 
-    private Text text;
-
     public string key;
 
-    private IEnumerator Start()
+    Text m_text;
+
+    IEnumerator Start()
     {
         yield return new WaitForSeconds(.2f);
-        text = GetComponent<Text>();
+        m_text = GetComponent<Text>();
         if (!string.IsNullOrEmpty(LocalizationManager.Instance.firstLanguage))
         {
-            text.text = LocalizationManager.Instance.GetUIValue(key);
+            m_text.text = LocalizationManager.Instance.GetUIValue(key);
         }
     }
 
-    public  void SetLanguage()
+    public void SetLanguage()
     {
-        text.text = LocalizationManager.Instance.GetUIValue(key);
+        m_text.text = LocalizationManager.Instance.GetUIValue(key);
     }
 }

@@ -5,14 +5,22 @@ using UnityEngine.UI;
 
 public class GoalAnimation : MonoBehaviour {
 
-    private GameManager m_gameManager;
-    private ScoreManager m_scoreManager;
-    private AudioSource m_audio;
+    [Header("References")]
 
     public Text AmountText;
-    
 
-    private void Awake()
+    GameManager m_gameManager;
+
+    ScoreManager m_scoreManager;
+
+    AudioSource m_audio;
+
+    void Awake()
+    {
+        GetReferences();
+    }
+
+    void GetReferences()
     {
         m_gameManager = FindObjectOfType<GameManager>();
         m_scoreManager = FindObjectOfType<ScoreManager>();
@@ -37,10 +45,8 @@ public class GoalAnimation : MonoBehaviour {
     }
 
     public void StartStage()
-    {
-              
+    {             
         transform.parent.gameObject.SetActive(false);
-
     }
 
     public void PlaySoundEffect()

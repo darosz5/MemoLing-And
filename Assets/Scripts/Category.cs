@@ -6,17 +6,22 @@ using Ricimi;
 using UnityEngine.UI;
 
 public class Category : MonoBehaviour {
-   
+
+    SceneTransition m_transition;
+
+    [Header("Variables")]
+
     public string CategoryName;   
-    private SceneTransition m_transition;
+
     public string Url;
+
     public bool IsBasic;
+
     public int orderNumber;
 
-    private void Awake()
+    void Awake()
     {
-        m_transition = GetComponent<SceneTransition>();
-       
+        m_transition = GetComponent<SceneTransition>();      
     }
 
     IEnumerator GetAssetBundle()

@@ -7,16 +7,16 @@ using UnityEngine.UI;
 public class LocalizedText : MonoBehaviour {
 
     [SerializeField]
-    private string key;
+    string key;
 
-    private Text text;
+    Text text;
 
-    private void Awake()
+    void Awake()
     {
         text = GetComponent<Text>();
     }
 
-    private void Start()
+    void Start()
     {             
          text.text = LocalizationManager.Instance.GetUIValue(key);             
     }
